@@ -2,44 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-trojan://升级订阅解锁全部节点@z-sg2.mfa.cat:10007?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://升级订阅解锁全部节点@z-sg1.mfa.cat:10002?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-kr1.mfa.cat:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%87%B0%F0%9F%87%B7%20Hysteria-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@141.101.115.71:8443?path=%2FRoBeRt&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://升级订阅解锁全部节点@z-sg2.mfa.cat:10002?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://158d03db-e5d7-4540-a31c-b2daa7aa4964@38.180.39.171:443?security=reality&type=tcp&sni=web.max.ru&fp=chrome&flow=xtls-rprx-vision&sid=247fd6dab1a34a48&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&encryption=none#%F0%9F%87%B0%F0%9F%87%BF%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-kr2.mfa.cat:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%87%B0%F0%9F%87%B7%20Hysteria-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://升级订阅解锁全部节点@z-sg1.mfa.cat:10001?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-kr2.mfa.cat:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=UFe-Y_-8fEigWjaksGsQzU-B8o-QHWcyQG0Wnelc03A&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-trojan://升级订阅解锁全部节点@z-sg2.mfa.cat:10001?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://30d4bd4b-bfe4-4ebc-a55b-4e01ca03f5d7@fastly-ip80.visionow.ir:80?security=none&type=ws&headerType=&path=&host=cloudy.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
-
-trojan://升级订阅解锁全部节点@z-sg1.mfa.cat:10106?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.119:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=&fp=chrome&type=tcp&sni=google.com&sid=3ca620a7ed5f3196#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-trojan://升级订阅解锁全部节点@z-sg2.mfa.cat:10106?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://升级订阅解锁全部节点@z-sg1.mfa.cat:10016?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://1b10194f-c47a-4e41-bc1d-834ff945515a@qzvxwplyrntckjfmbhgd.kk.noafra.ir:80?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-trojan://升级订阅解锁全部节点@z-sg1.mfa.cat:10011?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://升级订阅解锁全部节点@z-sg2.mfa.cat:10016?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://升级订阅解锁全部节点@z-sg2.mfa.cat:10011?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.133:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn3-87.vk-cdnvideo.com&allowInsecure=0#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://升级订阅解锁全部节点@z-eu1.mfa.cat:10113?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
@@ -599,6 +561,8 @@ vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?encryption=none
 vless://1b10194f-c47a-4e41-bc1d-834ff945515a@jdfsgvbxyznmlpkwrqtc.kk.noafra.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.163:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn3-87.vk-cdnvideo.com&fp=chrome&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@141.101.115.71:8443?path=%2FRoBeRt&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://3c52e091-6714-4915-949f-2149fe69951b@V2rAy.SiMsPeEdUp.CoM:80?path=%2Fws&security=&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#%F0%9F%87%B9%F0%9F%87%AD%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -1419,6 +1383,8 @@ vless://d4b0e9c8-c694-47fb-8952-fe15d595898e@45.130.125.158:2053?encryption=none
 vmess://eyJhZGQiOiAiMjAzLjMwLjE4OC4xODkiLCAiYWlkIjogMCwgImhvc3QiOiAib3BsZzEuemh1amljbjIuY29tIiwgImlkIjogIjU2YTIxODhiLTJhYjctNDAyYy1iOWI4LTM0ODQ3ZmRmMDk1OCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvNVFOUk9TUlYiLCAicG9ydCI6IDQ0MywgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInBzIjogIlx1ZDgzY1x1ZGRlN1x1ZDgzY1x1ZGRmZiBXUy1UTFMgfCBAdjJyYXlfY29uZmlnc19wb29sIn0=
 
 vless://29621ca8-099f-4109-821e-a8c8aee894b6@download.riferoser.icu:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=q42m1wg11kZLyRtjaKus8T-NNl1vriRG3V1eVTL6ICc&sid=960e1c59701f&sni=www.techradar.com#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://1b10194f-c47a-4e41-bc1d-834ff945515a@qzvxwplyrntckjfmbhgd.kk.noafra.ir:80?encryption=none&type=tcp&headerType=http&path=/&host=play.google.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://2aed6a64-0cf7-0003-acd5-b75774c8cfa3@192.142.12.67:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=linkvault.fyi#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Capoit
 
@@ -7515,4 +7481,12 @@ vless://c86fc240-ec2b-453c-bb08-5b621740a5e8@65.20.104.148:3882?type=tcp&path=%2
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAiYWRkIjogIjEwNC4xOC4xNjMuMTk1IiwgInBvcnQiOiAyMDk1LCAiaWQiOiAiM2I4ZTY5ZDgtMWYxYi00Yjk2LTg3NTQtMmE4ZWMzOGU3MTZmIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJpdGNkbi5mYXNrNTExLmNmZCIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
 
 vless://4fa7404b-ef59-4606-b12c-f57ac9840af9@US2.ZAG-FA.SOLVEXA.IR:80?path=%2F&security=none&encryption=none&host=fino.brelvano.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://b67ed271-5a34-4d07-9970-f8ba27ca2c8a@45.91.55.234:7443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&sni=rutube.ru#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://66d62031-38e2-43a0-8a92-23b78577df99@91.244.71.168:8080?encryption=none&security=none&type=ws&headerType=none&path=%2Fapi%2Fv3#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://8361e3fc-479d-466f-9583-4971c2cf2d03@95.169.191.225:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=greattehran.hozheen.ir&path=/ws?ed&sni=07e357aa7e747ca4.hOzHeEn.Ir&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 

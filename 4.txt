@@ -32,3 +32,11 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAi
 
 vless://4fa7404b-ef59-4606-b12c-f57ac9840af9@US2.ZAG-FA.SOLVEXA.IR:80?path=%2F&security=none&encryption=none&host=fino.brelvano.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://b67ed271-5a34-4d07-9970-f8ba27ca2c8a@45.91.55.234:7443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&sni=rutube.ru#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://66d62031-38e2-43a0-8a92-23b78577df99@91.244.71.168:8080?encryption=none&security=none&type=ws&headerType=none&path=%2Fapi%2Fv3#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://8361e3fc-479d-466f-9583-4971c2cf2d03@95.169.191.225:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=greattehran.hozheen.ir&path=/ws?ed&sni=07e357aa7e747ca4.hOzHeEn.Ir&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
