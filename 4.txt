@@ -14,3 +14,13 @@ vless://59763f86-1f1e-4a43-b223-499701ca6e70@www.speedtest.net:8443?path=/www.sp
 
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmess_ir
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ%3D@r3mrcg00129437x.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&fp=edge&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9d49fe49-b387-4661-94e7-db5b3129ac93@2.56.244.245:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=RKgRUJoY7i5teOlGhJptNay-cNREW6F4QBOZIXUt-C4&sid=c6b7aa&spx=%2Fsskr7NwdAaMxCYu&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.speedtest.org:8080?path=%2F&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40vmesc
+
+vless://b7a099e0-472f-483c-1086-f88760651d4d@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&host=cdn.daraflo.ir&fp=chrome&type=ws&sni=cdn.daraflo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Outline_ir
+
