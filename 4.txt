@@ -8,3 +8,5 @@ vless://ff12672f-dd3b-4f16-9ae1-f32dbf4eb83d@local.connectingissues.ir:80?mode=a
 
 vless://ff12672f-dd3b-4f16-9ae1-f32dbf4eb83d@global.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40NPV_78
 
+vless://110f52f9-fc93-4fa2-8856-d45f953f9cc4@lumora03.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora03.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora03.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
