@@ -6,3 +6,21 @@ vless://7f194e64-3a3a-47d4-a578-81867665964e@82.158.120.44:1070?security=reality
 
 trojan://humanity@216.24.57.6:443?path=%2Fassignment&security=tls&type=ws&sni=www.calmloud.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://9fdc2f17-87e4-4b62-8010-4ad3802a54ab@141.95.102.240:2053?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20TCP-None%20%7C%20%40V2rayBaaz
+
+vless://4ad268b3-53ad-426e-a095-9457531f02cb@141.95.102.240:2053?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20TCP-None%20%7C%20%40V2rayBaaz
+
+vless://f8176c0d-d608-4f40-992a-1601eddc57b9@141.95.102.240:2053?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20TCP-None%20%7C%20%40V2rayBaaz
+
+vless://db196e90-50a9-483a-a451-d78fcc0d5b50@141.95.102.240:2053?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20TCP-None%20%7C%20%40V2rayBaaz
+
+vless://0498b1f1-60fa-41d2-bfb8-20310590e10a@141.95.102.240:2053?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20TCP-None%20%7C%20%40V2rayBaaz
+
+vless://7ada97cb-bb22-4be1-890c-ce83f53d35b3@141.95.102.240:2053?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20TCP-None%20%7C%20%40V2rayBaaz
+
+vless://83309fb8-0707-4c6d-9c5c-590dc91b6395@141.95.102.240:2053?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20TCP-None%20%7C%20%40V2rayBaaz
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.133:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://110f52f9-fc93-4fa2-8856-d45f953f9cc4@google.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=google.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=google.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
