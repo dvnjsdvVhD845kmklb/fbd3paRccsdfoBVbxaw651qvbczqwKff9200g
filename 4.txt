@@ -32,3 +32,13 @@ vless://589a0172-46c2-4268-a786-839fd6ff2631@noyn.battlenetcp.com:2087?security=
 
 vless://f5301995-17c1-4392-8e83-6e50a7f7b05e@45.74.158.3:80?encryption=none&host=play.google.com&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://3a72db3d-b9c0-4ed8-b21e-4336853d4f26@82.115.16.58:24455?security=reality&encryption=mlkem768x25519plus.native.0rtt.VeLgyWNFcKN3UWp9xGNutfJ0LKV4J9TFyMFTiuvrKXY&pbk=FzGqEXIF6fqNnCK9JZpPlKtkBlLvzd-SaroqAM91WlU&headerType=&fp=chrome&spx=%2FDdgcWxLoS68hAHD&type=tcp&sni=www.amd.com&sid=1d85#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40bored_vpn
+
+vless://8d853f3c-51c4-4e19-ba0f-53a70fd172a7@82.115.16.58:24455?security=reality&encryption=mlkem768x25519plus.native.0rtt.VeLgyWNFcKN3UWp9xGNutfJ0LKV4J9TFyMFTiuvrKXY&pbk=FzGqEXIF6fqNnCK9JZpPlKtkBlLvzd-SaroqAM91WlU&headerType=&fp=chrome&spx=%2F3vrfX5My71KuuLz&type=tcp&sni=www.amd.com&sid=5def97#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40bored_vpn
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.178.252:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@52.47.178.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=08000000#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Tunder_vpn
+
