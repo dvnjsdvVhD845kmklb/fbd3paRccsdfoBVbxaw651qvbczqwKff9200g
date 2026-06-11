@@ -2,41 +2,13 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40v2ray_configs_pool
+vless://73796e63-0000-4000-8000-000000000000@www.speedtest.net:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fv2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet&security=tls&encryption=none&insecure=0&host=green-lab-3837.sameso7859.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=green-lab-3837.sameso7859.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.130:2053?security=tls&sni=4Bf8FC80.mIRaCLEsHOp.PAgeS.deV&type=ws&host=4Bf8fC80.MiRACLEshOp.pAGES.Dev&path=%2F%40V2RayyNGvpn%2FiEqRN0mjgnUcoSwK%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+vless://6631b0ef-0e81-4632-a6bf-fa4b10a325c5@91.107.190.72:5050?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40FarazV2ray
 
-vless://44dcf63d-5240-40de-b7ab-ce0201e42ebb@ips.list.nonpath.ir:3350?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+vless://f552a78e-400c-4332-8265-8e5da1c21eeb@de-dp-01.com:8443?security=reality&encryption=none&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=5be97fb85093a3a9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40FarazV2ray
 
-vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@151.101.69.223:443?path=%2F&security=tls&encryption=none&host=apiv2.global.ssl.fastly.net&type=ws&sni=sp%E2%80%A6%3C%2Fdiv%3E#%F0%9F%8C%90%20WS-TLS%20%7C%20%40meliproxyy
+vless://7b241232-208d-4d36-857e-913f91b044f4@193.111.248.101:443?security=tls&encryption=none&insecure=0&headerType=none&fp=edge&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6a20f558.noooo.win#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40FarazV2ray
 
-vless://83989465-4ec6-4dbe-97c6-2779df88d9e0@83.228.235.106:443?security=reality&encryption=none&pbk=MK3NN842R-fVl71Rdcn9oLAQNJrd-igvxPaKS_c6928&headerType=none&fp=chrome&spx=%2FisNXq1mwk6vPGYQ&type=tcp&sni=varzesh3.com&sid=accd8c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40meliproxyy
-
-vless://985a2a7d-5625-49e9-a5c3-3619f59f8292@gertest2x.nekosocks.com:8443/?type=tcp&encryption=none&flow=&sni=gertest2x.nekosocks.com&fp=firefox&security=reality&pbk=zWwogpnK74hS4520LsWP060eviHFLWFgz9piab2fhHA&sid=74ff10f198b1871a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40meliproxyy
-
-vless://985a2a7d-5625-49e9-a5c3-3619f59f8292@gertest2.nekosocks.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gertest2.nekosocks.com&fp=firefox&security=reality&pbk=Dh1UomRsMtlpOKAM4lnh9FElnSFwPNZz9wOEgOs2PXU&sid=fc993ee4c735f617#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40meliproxyy
-
-vless://985a2a7d-5625-49e9-a5c3-3619f59f8292@gertest2g.nekosocks.com:4443/?type=grpc&encryption=none&flow=&serviceName=grpc-real&sni=gertest2g.nekosocks.com&fp=chrome&security=reality&pbk=P0ceZnf6N49nDZL5UzEIgKv2DwTvxSYZdIujBmNw11s&sid=92739d1b2e8214c1#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40meliproxyy
-
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@69.84.182.106:443?security=tls&sni=vh.ylkszy.eu.org&type=ws&path=%2F%3Fed#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.148.28:443?security=tls&sni=WiSPY-SOund-bc2F.1D2B5F86e3.woRkers.DEV&type=ws&host=WisPY-sOunD-Bc2f.1d2b5f86E3.WorkerS.dev&path=%2F2MSDe8HjC7wetG27%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vless://609fbddd-c192-4f72-92d9-c959cf69a725@104.22.32.78:8080?security=none&type=httpupgrade&host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&path=%2FDaily_Configs-netmaster%3Fed%3D2048#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40Hope_Net
-
-vless://85c7f80a-0248-4504-afd7-eeba0b58d576@104.17.148.22:80?security=none&type=ws&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2560#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
-
-vless://c86fc240-ec2b-453c-bb08-5b621740a5e8@65.20.104.148:3882?type=tcp&path=%2F&host=speedtest.net&headerType=http&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAiYWRkIjogIjEwNC4xOC4xNjMuMTk1IiwgInBvcnQiOiAyMDk1LCAiaWQiOiAiM2I4ZTY5ZDgtMWYxYi00Yjk2LTg3NTQtMmE4ZWMzOGU3MTZmIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJpdGNkbi5mYXNrNTExLmNmZCIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-
-vless://4fa7404b-ef59-4606-b12c-f57ac9840af9@US2.ZAG-FA.SOLVEXA.IR:80?path=%2F&security=none&encryption=none&host=fino.brelvano.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://b67ed271-5a34-4d07-9970-f8ba27ca2c8a@45.91.55.234:7443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&sni=rutube.ru#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://66d62031-38e2-43a0-8a92-23b78577df99@91.244.71.168:8080?encryption=none&security=none&type=ws&headerType=none&path=%2Fapi%2Fv3#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://8361e3fc-479d-466f-9583-4971c2cf2d03@95.169.191.225:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=greattehran.hozheen.ir&path=/ws?ed&sni=07e357aa7e747ca4.hOzHeEn.Ir&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://64d080fe-adab-486f-9b89-ef4fd2a92ca5@v2ray.moneyshopthebest.ir:44190?path=%2F&security=&encryption=none&host=v2ray.moneyshopthebest.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
