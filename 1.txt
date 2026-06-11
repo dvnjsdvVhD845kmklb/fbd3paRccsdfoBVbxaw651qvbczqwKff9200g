@@ -42,6 +42,16 @@ vless://02ba2680-4f3f-40ca-a397-34705d7e3c42@FR.IPSENTER.ORG:443?path=%2Fws&secu
 
 vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&alpn=h2&encryption=none&insecure=1&host=vi.mojaz-persian-music.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=vi.mojaz-persian-music.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
+vless://98731bd6-07ae-4fd0-b05c-26253eea43db@speedtest.net:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&host=freechanell1.global.ssl.fastly.net&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40prrofile_purple
+
+vless://e7bea3a8-ddb5-4188-aae4-d0e9b97a4e62@del.fattsh8.ir:29113?security=reality&encryption=none&pbk=O022ghAvOsnRm9w68MKbfuyvlwWJsmytJBSj4F2dgkQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=aws.amazon.com&sid=2641062b76c9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40prrofile_purple
+
+vless://98731bd6-07ae-4fd0-b05c-26253eea43db@167.82.101.251:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&host=freechanell2.global.ssl.fastly.net&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40prrofile_purple
+
+vless://4e1bef9f-d655-4722-a7c3-41e7ca40df75@95.182.114.33:33636?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
+
+vless://39ae9616-4f28-478e-a8a5-9cf2d6286a2f@lumora14.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora14.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora14.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
 trojan://humanity@www.multiplydose.com:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
 
 vless://cb29aafe-0502-4d9a-bb4f-25c6f7c76010@n1.linkinfo.cloud:8880?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
