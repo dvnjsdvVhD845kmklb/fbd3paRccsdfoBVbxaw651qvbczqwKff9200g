@@ -14,3 +14,15 @@ vless://cf21dae3-41b9-4cc7-8e70-6926460087dc@104.17.107.226:2053?Telegram=@Gozar
 
 vless://faa8ebf2-c4f1-4e33-917a-2db510da57cf@5.129.243.87:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=id.vk.ru&pbk=vWN_pooUFoy4BkbO0r_SBibQlFSsA9f5wIGgQEfvfEA&sid=91ffab9b7b7180b8#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
+vless://08c41e17-9d1c-4d4a-9edc-242d3d71c1ac@188.114.97.3:443?security=tls&%3Bsni=oRdEr.fortGIFT.ir&%3Balpn=http/1.1&%3Bfp=randomized&%3Btype=ws&%3Bpath=/B7tnDeiaEFHTS0Li&%3Bhost=order.fortgift.ir&%3Bencryption=none#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://e4c2d0da-5777-4b2b-b449-ff82d763d368@172.67.186.42:443?path=/api&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=bahari.kiamobilepart.com&fp=chrome&type=ws&allowInsecure=0&sni=bahari.kiamobilepart.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://97ddf9a6-de5b-4229-bc41-4627321eff43@162.159.61.158:80?encryption=none&host=potifar.kravend4.workers.dev&path=%2F&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://fe273991-0514-4a16-8ec4-b15ae861c000@104.21.80.180:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=zyzzzoao.xn--fiqv8j.eu.org&path=%2F&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://dee95410-8691-4759-8264-d6e179037cff@45.137.60.2:443?security=reality&encryption=none&pbk=o0pslVua67Xxtvodm4mzZ9djp8bZi01g-dt9RyUlnWo&headerType=none&fp=chrome&spx=%2FkJv0qzQf6CidqZ4&type=tcp&sni=www.google.com&sid=c27dcae0135e0d#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443?path=%2Fuk1-uk1-gcjtze&security=tls&insecure=0&host=1.bw884.org&type=ws&allowInsecure=0&sni=uk1.bw8848.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
