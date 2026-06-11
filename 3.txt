@@ -7502,3 +7502,13 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.0:443?security=tls&sni=xh
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.35.118:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
 
+vless://b4dbdbf9-640e-4f66-a885-c5d308a73e79@enns1.vertatech.ir:7005?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=yuhrNGOXd061lVl8AfE9wc7ctTApk-K6XAVnArJpWF8&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=dd9da58e3c5c641c¬e=#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://6a02a47b-ebbf-4593-8460-558330c04189@lt-modx.nodexphere.net:443?security=reality&encryption=none&pbk=cc2mDH9C31IlAwrn1eEhbuzZ3l4Ijw3mKl7rF75GUDo&host=CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lt-modx.nodexphere.net#%F0%9F%87%B1%F0%9F%87%B9%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://5add5b1e-e628-46df-b8b5-98990dbaf7a9@fl.gamelistak.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=&path=/@MrNexTV2RAY&mode=auto&extra={#%F0%9F%87%AB%F0%9F%87%AE%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://0a12381a-e241-4b63-a03c-1a5a45a95977@sgp.locklance.lol:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&headerType=none&security=reality&encryption=none&sni=&fp=chrome&pbk=r1Kfa7J4LtBrAluydukevUSBeOo-1DvZJdvZGrWkOQg&sid=6dba2e08344e6bf5&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+trojan://Masir_Sefid@84.234.29.238:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FW8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
