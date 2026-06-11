@@ -7170,3 +7170,17 @@ vless://ada060be-163b-4804-8cb7-0fe9937db6de@104.19.105.108:443?path=%2Ft%2Fmy%2
 
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=%2F&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+trojan://qFgh3C8Ei8@188.114.97.6:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dh.aananas.ir.&sni=dh.aananas.ir.&fp=firefox&insecure=0&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40YamYamProxy
+
+vless://95497965-318f-4c12-81e5-248698de07ed@library2.ketabkhane.dpdns.org:2083?type=ws&encryption=none&path=%2Fapi&host=library2.ketabkhane.dpdns.org&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&sni=library2.ketabkhane.dpdns.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://bcefc23a-2a57-4679-a925-e952a859850c@m1vp.meytii.xyz:443?encryption=none&fp=chrome&pbk=Z_5NKNUD4EBXJVxShFilyCgmsoXL7FBFWCV6GTIMQn4&security=reality&sid=432d078f3d12&sni=www.microsoft.com&spx=%2FsBr5BafPsI7rRpD&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://8a943722-3fd2-499a-b4de-15773707e0b8@mng.artmn.site:2086?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=mng.artmn.site#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://9f008ebe-ffa6-442a-922a-83d5412db6bf@pc.amirxshot.ir:8443?path=%2Faxs&security=tls&encryption=none&insecure=0&host=pc.amirxshot.ir&fp=chrome&type=ws&allowInsecure=0&sni=axs.amirxshot.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://9f008ebe-ffa6-442a-922a-83d5412db6bf@axs.amirxshot.ir:2095?path=%2Faxs&security=none&encryption=none&host=pl33.sazegostaran-iran.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://a859990d-11b9-4d81-6a6d-dc4d294804ab@snapp.ir:2087?security=tls&allowInsecure=0&encryption=none&type=ws&host=cdn.daraflo.ir&path=/BetForward&sni=cdn.daraflo.ir&fp=chrome&alpn=h2,h3,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
