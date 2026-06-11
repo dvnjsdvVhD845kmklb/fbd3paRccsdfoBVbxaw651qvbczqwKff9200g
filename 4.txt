@@ -2,25 +2,29 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://e4c2d0da-5777-4b2b-b449-ff82d763d368@104.16.119.47:443?path=/api&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=bahari.kiamobilepart.com&fp=chrome&type=ws&allowInsecure=0&sni=bahari.kiamobilepart.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+vless://7ada97cb-bb22-4be1-890c-ce83f53d35b3@141.95.102.240:2053/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
 
-vless://e4c2d0da-5777-4b2b-b449-ff82d763d368@104.16.219.230:443?path=/api&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=bahari.kiamobilepart.com&fp=chrome&type=ws&allowInsecure=0&sni=bahari.kiamobilepart.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+vless://e34561ae-9373-4f1c-8ccd-488ff45bb64e@frosty-wind-5575.pashagfw1.workers.dev:443?security=tls&type=ws&host=frosty-wind-5575.pashagfw1.workers.dev&fp=chrome&sni=frosty-wind-5575.pashagfw1.workers.dev&path=%2F&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+vless://4ad268b3-53ad-426e-a095-9457531f02cb@141.95.102.240:2053/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
 
-vless://e4c2d0da-5777-4b2b-b449-ff82d763d368@104.17.42.10:443?path=/api&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=bahari.kiamobilepart.com&fp=chrome&type=ws&allowInsecure=0&sni=bahari.kiamobilepart.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+vless://e34561ae-9373-4f1c-8ccd-488ff45bb64e@8.39.125.209:8443?security=tls&type=ws&host=frosty-wind-5575.pashagfw1.workers.dev&fp=chrome&sni=frosty-wind-5575.pashagfw1.workers.dev&path=%2F&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-vless://59763f86-1f1e-4a43-b223-499701ca6e70@www.speedtest.net:8443?path=/www.speedtest.net/VPNCSTOMIZE?ed=8443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=VPNCUSTOMIZE.speedtest.net.Naziitness.com&fp=randomized&type=ws&sni=VPNCUSTOMIZE.speedtest.net.Naziitness.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+ss://YWVzLTEyOC1nY206YWMxN2UyYzQtMmM5Mi00YWE2LThiYWYtMjcwNWE4NTQ5ZWM2@mn.qwer-cn.org:10917#%F0%9F%87%AD%F0%9F%87%B0%20TCP-None%20%7C%20%40v2ray_configs_pool
 
-trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmess_ir
+ss://YWVzLTI1Ni1nY206TVRsbU4yRXhNbVkzWlRSak5qUTFNMlJoTmpRek9ETmtNVFZoTUdabQ@95.38.186.134:10127#%F0%9F%8C%90%20TCP-None%20%7C%20%40Free_World2
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ%3D@r3mrcg00129437x.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2ray_configs_pool
+ss://YWVzLTI1Ni1nY206T1RRNVpHTTJaRFprTVRoaE9HVm1ZVEptTUdOaFlUUmtOamsxTURrMQ@193.176.243.225:10127#%F0%9F%8C%90%20TCP-None%20%7C%20%40Free_World2
 
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&fp=edge&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+vless://b125f287-a1ce-4361-8808-22ca69db6e2b@blog.holbdbd.ir:27891?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
-vless://9d49fe49-b387-4661-94e7-db5b3129ac93@2.56.244.245:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=RKgRUJoY7i5teOlGhJptNay-cNREW6F4QBOZIXUt-C4&sid=c6b7aa&spx=%2Fsskr7NwdAaMxCYu&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+vless://82a71fa3-80c9-4789-adb6-5191965a7ba5@lumora07.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora07.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora07.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.speedtest.org:8080?path=%2F&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40vmesc
+vless://110efadd-36ab-4c25-84f4-93ed0cbd0be8@104.252.19.143:8445?mode=auto&path=%2Frxh&security=reality&encryption=none&pbk=2TrPdiGqUxSvsACQN1GDLTS2lAiuUGicwNqH9Byqx1o&fp=chrome&type=xhttp&sni=www.cloudflare.com&sid=47174804ee8a1dae#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
 
-vless://b7a099e0-472f-483c-1086-f88760651d4d@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&host=cdn.daraflo.ir&fp=chrome&type=ws&sni=cdn.daraflo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Outline_ir
+vless://bf04181a-3bd6-4199-8aab-01a1ebbb6867@91.107.175.52:44728?type=tcp&encryption=none&security=reality&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&fp=random&sni=www.cloudflare.com&sid=dbb6ea0b&spx=%2F&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.75:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
