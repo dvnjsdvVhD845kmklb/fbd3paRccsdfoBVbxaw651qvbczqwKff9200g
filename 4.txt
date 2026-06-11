@@ -30,3 +30,9 @@ vless://ff12672f-dd3b-4f16-9ae1-f32dbf4eb83d@global.connectingissues.ir:80?encry
 
 vless://ff12672f-dd3b-4f16-9ae1-f32dbf4eb83d@mci.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
+vless://5a96b986-1a96-4005-b5ae-45096ae6f85a@217.12.207.15:443?flow=xtls-rprx-vision&fp=firefox&pbk=8KqR58G5z0RkDn4P979JfYzCOwTYIvOS8ordh8o8ZjA&security=reality&sid=a68790de236dfca6&sni=pl.aiage.work&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://f2ef571f-4217-41a9-9f53-3655c5103682@46.4.162.63:443?security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
