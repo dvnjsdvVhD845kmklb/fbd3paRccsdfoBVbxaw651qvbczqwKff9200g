@@ -2,14 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.245.110:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://5445640f-cfb3-4547-8ce4-bfe6ad64ca45@46.4.162.63:443?security=none&type=tcp&packetEncoding=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://e48a3f88-8a19-4e2c-8a02-59dbc68e6788@176.124.199.158:8880?security=none&type=ws&headerType=&path=%2Ffoxi-bypass&host=#%F0%9F%87%B3%F0%9F%87%B1%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://db8ed12d-2ecf-40d4-8afd-9b67d14f7cf1@31.184.244.184:19469?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://d0569a49-49a8-49a1-9480-0a88a5685c38@Fast.postshup.ir:8880?encryption=none&type=httpupgrade&host=cdn-pro2.postshup.ir&path=/?ed=2082&security=none#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
 
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.68:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Ftsghdws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -29,4 +21,34 @@ vless://73796e63-0000-4000-8000-000000000000@www.hcaptcha.com:443?path=/v2ngfast
 vless://e48a3f88-8a19-4e2c-8a02-59dbc68e6788@176.124.199.158:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&type=ws&headerType=&path=%2Ffoxi-bypass&host=#%F0%9F%87%B3%F0%9F%87%B1%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.26.14.16:8080?security=none&allowInsecure=0&encryption=none&type=ws&host=tr-cd.sublink-vip2.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://cf2f7b94-f5a8-4782-8ad7-e70097e12d1c@ssl.hostirann.xyz:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://7f874b89-5df4-4c04-afa6-9b11e72897c2@104.16.163.32:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=hvhhi.mgwarrior.ir&fp=firefox&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=hvhhi.mgwarrior.ir&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://7ada97cb-bb22-4be1-890c-ce83f53d35b3@141.95.102.240:2053/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://9fdc2f17-87e4-4b62-8010-4ad3802a54ab@141.95.102.240:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://frO8GBJYW-ULREHuTAOfpw@mci.folo-domi.ir:2053?path=%2F&security=tls&insecure=0&host=dara.folo-domi.ir&fp=chrome&type=ws&allowInsecure=0&sni=dara.folo-domi.ir#%F0%9F%87%A8%F0%9F%87%BF%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@185.189.160.105:41632#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=fra34.tracker-ws.click&fp=chrome&headerType=none&allowInsecure=0&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.139.79.57:13979#%F0%9F%87%B0%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.66.219:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443?type=ws&encryption=none&host=azizoarjmand.info&path=/yhowcws&security=tls&sni=azizoarjmand.info&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://d36c61c9-63ef-4ab1-b926-780830d7c7af@lumora06.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora06.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora06.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://26a5bc27-d444-40c1-a020-88c76b986b3c@euro.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://26a5bc27-d444-40c1-a020-88c76b986b3c@mci.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://26a5bc27-d444-40c1-a020-88c76b986b3c@cell.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://26a5bc27-d444-40c1-a020-88c76b986b3c@global.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
