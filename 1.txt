@@ -2,22 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://24d49ddd-67c1-4821-b5b9-f12107366978@104.19.250.20:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=bahari.kiamobilepart.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=bahari.kiamobilepart.com&path=%2Fapi#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.96:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://24d49ddd-67c1-4821-b5b9-f12107366978@104.19.250.20:443?encryption=none&security=tls&sni=bahari.kiamobilepart.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=bahari.kiamobilepart.com&path=%2Fapi#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.170.140:2053?path=/assets?ed=2048&encryption=none&type=ws&host=index.arcane509.workers.dev&fp=chrome&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=INDEX.Arcane509.Workers.DEV&alpn=http/1.1&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.214.25:2053?path=/assets?ed=2048&encryption=none&type=ws&host=index.arcane509.workers.dev&fp=chrome&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=INDEX.Arcane509.Workers.DEV&alpn=http/1.1&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://a6349c3f-5234-4821-80b4-d99b33f0924d@fr-gt-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=f34818a561dfd1fe&sni=storage.yandex.net&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://5a5fba4d-6ae8-4975-936d-bb643fb15957@biyapain.biyapainbache.workers.dev:443?path=%2FeyJqdW5rIjoiV0lISkpXU0trWFI4OGdUIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=biyapain.biyapainbache.workers.dev&fp=random&type=ws&allowInsecure=0&sni=bIyapain.bIYApaiNbAcHe.WoRkers.DeV#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://accc1b01-f960-409c-ba43-7d819226f820@108.162.194.165:8443?path=%2F&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=ftp.singoshop.ir&fp=chrome&type=ws&sni=ftp.singoshop.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://6cb2af25-9d59-43bd-a8fa-682e4898e081@cz.maximum-vpn.com:443?security=reality&encryption=none&pbk=roCvVZ0atQ-_68OSDPuknzHchm6djGzQB4Ydl5n31Fg&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=1a2b3c4d5e6f7080#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.192:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&alpn=h2&encryption=none&fp=chrome&type=xhttp&sni=vh.mojaz-persian-music.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
@@ -130,5 +114,21 @@ vless://e5f048d0-1dd0-438e-a81f-b319ea87fee0@lumora07.playon.ir:2087?path=%2Fapi
 
 vless://deab5cc6-db0d-4fe8-92b8-31fcf0fd26cd@37.140.242.53:85?mode=auto&path=%2Fhh&security=&encryption=none&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
-vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+vless://977f2eea-9f37-417b-bdc3-5abfba1e54df@ca-dp-01.com:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sni=storage.yandex.net&sid=d3ee47fc2f553c44#%F0%9F%87%A8%F0%9F%87%A6%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://db196e90-50a9-483a-a451-d78fcc0d5b50@141.95.102.240:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://faa8ebf2-c4f1-4e33-917a-2db510da57cf@cdn6.cloud-vk.com:8443?security=reality&encryption=none&pbk=7zsja5u9_tXdfEDIHNPdhIwyoawk7WUFLcthOwFt10k&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=id.vk.ru&sid=99dc6b6bae41a1#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppWFJyRmJkQk5FZzdUejFhUkxqMkROd2lwT3p3UGdtbA==@13.37.38.65:56647?type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://26a5bc27-d444-40c1-a020-88c76b986b3c@euro.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://accc1b01-f960-409c-ba43-7d819226f820@173.245.49.159:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=ftp.singoshop.ir&path=%2F&security=tls&sni=ftp.singoshop.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://accc1b01-f960-409c-ba43-7d819226f820@103.31.4.108:2087?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=ftp.singoshop.ir&path=%2F&security=tls&sni=ftp.singoshop.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://accc1b01-f960-409c-ba43-7d819226f820@104.16.72.215:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=ftp.singoshop.ir&path=%2F&security=tls&sni=ftp.singoshop.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://26a5bc27-d444-40c1-a020-88c76b986b3c@global.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
