@@ -16,3 +16,9 @@ vless://9f008ebe-ffa6-442a-922a-83d5412db6bf@axs.amirxshot.ir:2095?path=%2Faxs&s
 
 vless://a859990d-11b9-4d81-6a6d-dc4d294804ab@snapp.ir:2087?security=tls&allowInsecure=0&encryption=none&type=ws&host=cdn.daraflo.ir&path=/BetForward&sni=cdn.daraflo.ir&fp=chrome&alpn=h2,h3,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+trojan://humanity@104.18.13.149:443?encryption=none&security=tls&sni=www.calmloud.com&fp=chrome&type=ws&host=www.calmloud.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+trojan://trojan@13.200.192.197:443?encryption=none&security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F@chinaportgfw%2B@chinaportgfw#%F0%9F%87%AE%F0%9F%87%B3%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+vless://57e090c6-99b4-4035-a284-5b24f635af00@lumora10.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora10.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora10.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
