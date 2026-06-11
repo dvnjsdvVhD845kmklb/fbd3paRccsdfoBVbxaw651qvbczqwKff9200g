@@ -12,3 +12,19 @@ vless://446b69aa-90b4-408b-b853-f70895343834@bypass.pl-dp-01.online:8443?type=tc
 
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.68:443?path=%2Ftsghdws&security=tls&alpn=http%2F1.1&encryption=none&host=octopusss4.com&fp=chrome&type=ws&sni=octopusss4.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2RAYROZ
 
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40vmesc
+
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ch-2.bexum.fun¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#%F0%9F%87%A8%F0%9F%87%BF%20TCP-TLS%20%7C%20%40Raiv2mmr
+
+vless://83989465-4ec6-4dbe-97c6-2779df88d9e0@83.228.235.106:443?security=reality&encryption=none&pbk=MK3NN842R-fVl71Rdcn9oLAQNJrd-igvxPaKS_c6928&headerType=none&fp=chrome&spx=/isNXq1mwk6vPGYQ&type=tcp&sni=varzesh3.com&sid=accd8c¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#%F0%9F%87%A8%F0%9F%87%AD%20TCP-Reality%20%7C%20%40Raiv2mmr
+
+vless://6631b0ef-0e81-4632-a6bf-fa4b10a325c5@91.107.190.72:5050?path=/&security=none&encryption=none&type=ws¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Raiv2mmr
+
+vless://d212fdd4-47ff-446a-b3d3-89ccf09a6afe@91.107.175.52:44728?type=tcp&encryption=none&security=reality&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&fp=random&sni=www.cloudflare.com&sid=dbb6ea0b&spx=%2F&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://53e23b4a-0894-4602-80aa-3c683e11fdaa@84.201.135.77:443?type=xhttp&security=reality&sni=ads.x5.ru&pbk=z4ZddzhbeCYDng09RnRL7lEqFGdc-Sb5mQJNHn-2USA&fp=random&host=ads.x5.ru&path=%2F#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
+
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&host=newgen14.hozheen.ir&type=ws&sni=4dcb0d80784f3081.hozheen.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://431cce01-6a36-461d-8b39-82a82a5fb5e4@snapp.ir:8080?type=ws&encryption=none&path=%2Fapi%2Flive%2Fv3&host=dev.delitech.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
