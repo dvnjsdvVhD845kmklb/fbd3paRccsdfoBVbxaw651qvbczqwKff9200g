@@ -7202,3 +7202,5 @@ vless://4cb1cb7c-6a2e-4abe-af39-6e9a32587bd8@172.64.152.137:2087?path=%2F&securi
 
 vless://4cb1cb7c-6a2e-4abe-af39-6e9a32587bd8@188.114.97.6:2083?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=Dnlu2.irancharting.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=Dnlu2.irancharting.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
+vless://e0e06ab7-a4e7-41cd-ab29-53063e4deeea@Snapp.ir:80?path=%2F&security=none&encryption=none&host=Tetismobile.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
