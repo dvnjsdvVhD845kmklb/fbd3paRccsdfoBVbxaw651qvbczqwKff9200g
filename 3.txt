@@ -7492,3 +7492,17 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.133:8443?security=tls&en
 
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80?path=%2F&security=none&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=max-gb1.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://db196e90-50a9-483a-a451-d78fcc0d5b50@141.95.102.240:2053?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://f8176c0d-d608-4f40-992a-1601eddc57b9@141.95.102.240:2053?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://7ada97cb-bb22-4be1-890c-ce83f53d35b3@141.95.102.240:2053?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://83309fb8-0707-4c6d-9c5c-590dc91b6395@141.95.102.240:2053?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://4ad268b3-53ad-426e-a095-9457531f02cb@141.95.102.240:2053?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://9fdc2f17-87e4-4b62-8010-4ad3802a54ab@141.95.102.240:2053?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://0498b1f1-60fa-41d2-bfb8-20310590e10a@141.95.102.240:2053?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
