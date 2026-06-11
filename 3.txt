@@ -7530,3 +7530,29 @@ vless://deab5cc6-db0d-4fe8-92b8-31fcf0fd26cd@37.140.242.53:85?mode=auto&path=%2F
 
 vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&encryption=none&extra=&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vo.new-persian-song.ir#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40vmesskhodam
 
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls#%F0%9F%87%A8%F0%9F%87%BF%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?security=tls&type=ws&path=/yhowcws&host=azizoarjmand.info&sni=azizoarjmand.info&fp=chrome&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.80:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=buh-ro-01.fromblancwithlove.com#%F0%9F%87%B7%F0%9F%87%B4%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://b56c38ec-ab57-4d1b-ac72-9491be4845bf@185.200.179.85:49712?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://a9e5f630-d0f6-4546-9093-e35feac32f54@141.95.102.240:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://2dd1fd0d-beb8-40fc-9dea-b8b06c11f5cb@91.107.175.52:44728?type=tcp&encryption=none&security=reality&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&fp=random&sni=www.cloudflare.com&sid=dbb6ea0b&spx=%2F&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://417a471c-6183-495d-87ef-331e7e8842fe@104.18.151.31:2096?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=rana.bardo-chronos.online&mode=auto&path=%2FGABRIELDARA422sd&security=tls&sni=rana.bardo-chronos.online&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://417a471c-6183-495d-87ef-331e7e8842fe@104.18.154.43:2053?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=rana.bardo-chronos.online&mode=auto&path=%2Fpvsuport&security=tls&sni=rana.bardo-chronos.online&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://417a471c-6183-495d-87ef-331e7e8842fe@104.17.89.154:2083?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=rana.bardo-chronos.online&mode=auto&path=%2FSAFIGH5SS&security=tls&sni=rana.bardo-chronos.online&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://417a471c-6183-495d-87ef-331e7e8842fe@104.18.154.105:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=rana.bardo-chronos.online&mode=auto&path=%2FRIVAN45SS&security=tls&sni=rana.bardo-chronos.online&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://417a471c-6183-495d-87ef-331e7e8842fe@108.165.216.191:8443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=rana.bardo-chronos.online&mode=auto&path=%2Ftarasi&security=tls&sni=rana.bardo-chronos.online&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://e5f048d0-1dd0-438e-a81f-b319ea87fee0@lumora07.playon.ir:2087?path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lumora07.playon.ir&fp=chrome&type=ws&allowInsecure=0&sni=lumora07.playon.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://deab5cc6-db0d-4fe8-92b8-31fcf0fd26cd@37.140.242.53:85?mode=auto&path=%2Fhh&security=&encryption=none&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
