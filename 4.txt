@@ -2,10 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.74:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
-trojan://mitivpn@188.114.97.6:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=de.mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&allowInsecure=0&sni=b5r.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://662e72cc-4484-483a-bcb4-978bc94172cd@root.vps-silva.ir:2082?path=%2F&security=&encryption=none&host=www.pingsilva.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBmaWxlbWJhZCIsICJhZGQiOiAibm9kZS1kZS0xLnYyc3YudG9wIiwgInBvcnQiOiA4NDQzLCAiaWQiOiAiMDRiYTc2NDItZTVkNS00N2Q2LTgxZjUtNThkYjdiY2M0MTUxIiwgImFpZCI6ICIxNiIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAibm9kZS1kZS0xLnYyc3YudG9wIiwgInBhdGgiOiAiL3dzIiwgInRscyI6ICJ0bHMiLCAic25pIjogInd3dy5mYWNlYm9vay5jb20iLCAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsICJmcCI6ICJyYW5kb20iLCAiaW5zZWN1cmUiOiAiMSJ9
@@ -39,4 +35,18 @@ vless://10a6b923-e349-4594-92bb-d81a6245aaec@198.41.208.99:443?path=%2Fdownload.
 trojan://nodes-37411c3e@node-de-1.v2sv.top:2083?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=node-de-1.v2sv.top#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40vmesskhodam
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpub2Rlcy0zNzQxMWMzZQ@node-de-1.v2sv.top:990#%F0%9F%8C%90%20TCP-None%20%7C%20%40vmesskhodam
+
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.6:2087?path=%2FGOrbEh&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://fbd83ff4-e0bd-4c56-77a4-c0f615cca422@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://2e4798a9-d8e9-4a43-ad43-285d3ad5633c@199.232.78.159:443?encryption=none&type=ws&security=tls&path=%2F&host=pan1.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://394f6981-a782-4779-9a85-e6cf22935d93@ams1.fromblancwithlove.com:8443?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@it.s3-cloud.xyz:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40vmesskhodam
+
+vless://cba15d1d-03af-41ec-b0f9-ccff5fcaaf63@188.114.97.6:2052?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=fi-1-whitecdnand1.amazon-host.com&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-None%20%7C%20%40vmesskhodam
 
