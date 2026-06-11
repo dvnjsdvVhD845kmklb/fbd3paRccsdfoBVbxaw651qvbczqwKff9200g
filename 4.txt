@@ -8,3 +8,11 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.73:8443?security=tls&enc
 
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop:2095?security=reality&encryption=none&pbk=9nvQaypTgq2UZ_9wSUctYxStDRWNJqe3o9evmKc5UBE&headerType=none&fp=random&spx=%2F&type=tcp&sni=refersion.com&sid=bc348c28dbc7b9f5#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+vless://b8f2bebf-b598-4190-9473-6eba8fe598c1@91.107.175.52:44728?type=tcp&encryption=none&security=reality&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&fp=random&sni=www.cloudflare.com&sid=dbb6ea0b&spx=%2F&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop:2095?encryption=none&security=reality&sni=www.speedtest.net&fp=random&pbk=9nvQaypTgq2UZ_9wSUctYxStDRWNJqe3o9evmKc5UBE&sid=bc348c28dbc7b9f5&spx=%2F&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://da48859d-edf9-4a8c-a026-80910591f284@nytimes.com:80?encryption=none&security=none&type=xhttp&host=tignaltofansv8.global.ssl.fastly.net&path=%2FTignal&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://ad6d51ab-2d06-4d41-85b7-da9d703ea4fd@dnn4.avaaaal.ir:2087?encryption=none&security=tls&sni=sv333.avaaal.ir&fp=random&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=sv333.avaaal.ir&path=%2F720f09dba195549b424f771551162528%2Fworkers%2Fservices6%2Fview6%2FAvaal6%2Fproduction6%2Fsettings#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
