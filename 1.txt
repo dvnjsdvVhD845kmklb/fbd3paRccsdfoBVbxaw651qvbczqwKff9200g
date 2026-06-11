@@ -2,6 +2,8 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.25:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#%F0%9F%87%AE%F0%9F%87%B9%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=ws&path=%2F&host=max-gb1.global.ssl.fastly.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://97bf06ad-c9a8-4ea4-afb5-9092cc092214@45.195.137.72:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=cf9d145ad8f1ea55#%F0%9F%87%A8%F0%9F%87%AD%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -129,6 +131,4 @@ trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host
 vless://3b885111-dce9-4740-a49e-49a618676ec4@45.130.125.66:443?encryption=none&type=ws&security=tls&path=%2Fcloud-vps&host=app-chatgpt-abdroid-ai-farsi.yas-nowin.ir&sni=app-chatgpt-abdroid-ai-farsi.yas-nowin.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://3b885111-dce9-4740-a49e-49a618676ec4@45.130.125.66:443?encryption=none&type=ws&security=tls&path=%2Fcloud-vps&sni=cloud.yas-nowin.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://f5c5c5fe-5834-438b-b0cb-ffe616766b45@blubank.ir:80?encryption=none&type=ws&path=%2F&host=s3.tehranionliine.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 

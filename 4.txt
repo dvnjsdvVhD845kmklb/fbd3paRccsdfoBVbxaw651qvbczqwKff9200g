@@ -20,3 +20,15 @@ vless://495317d4-ed11-44c4-8b03-d4f323d06c51@91.107.175.52:44728?type=tcp&encryp
 
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.18.4.138:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&host=greattehran.hozheen.ir&fp=chrome&type=ws&sni=f53d749fda28cb85.hozheen.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+trojan://humanity@www.calmloud.com:443?security=tls&sni=www.calmloud.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://accc1b01-f960-409c-ba43-7d819226f820@108.162.194.165:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=ftp.singoshop.ir&path=%2F&security=tls&sni=ftp.singoshop.ir&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://accc1b01-f960-409c-ba43-7d819226f820@104.16.72.215:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=ftp.singoshop.ir&path=%2F&security=tls&sni=ftp.singoshop.ir&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://495317d4-ed11-44c4-8b03-d4f323d06c51@91.107.175.52:44728?security=reality&encryption=none&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=dbb6ea0b#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40vmesc
+
+vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@31.76.91.38:443?security=reality&encryption=none&pbk=JrqUslsWHHlquFmXxC77DzyRcVSr_avh2FzCV674FVI&headerType=none&fp=edge&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=jp.cdn-global.pro&sid=39a629c6c90bd2eb#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2HUBIR
+
