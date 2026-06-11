@@ -2,12 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
-vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.9.145:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=kssepa.sabzipolobamahi.dpdns.org&fp=random&type=ws&sni=kssepa.sabzipolobamahi.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
-
-vless://e30c66d8-725a-4bb6-9173-58b1769d9c6f@109.71.253.204:24758?mode=stream-one&path=%2F&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=www.speedtest.net&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40flyv2ray
-
 trojan://mitivpn@188.114.97.6:443?path=https%3A%2F%2Fchatgpt.com&security=tls&alpn=http%2F1.1&host=mitivpn.de.ssl.global.fastly.net.mitivpn.site&fp=chrome&type=ws&sni=2.1.mitivpn.dee.srfsl.gleobal.fastl3y.n3et.mitivpn.site#%F0%9F%8C%90%20WS-TLS%20%7C%20%40meliproxyy
 
 vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=%2F&security=tls&encryption=none&host=apiv2.global.ssl.fastly.net&type=ws&sni=speedtest.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40meliproxyy
@@ -93,6 +87,8 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?securi
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.74:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40bored_vpn
 
 vless://98a37f77-746e-4e93-918e-39fe3debfb0e@188.114.97.6:2083?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=Rabir.iranucshop.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=Rabir.iranucshop.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40bored_vpn
+
+vless://e30c66d8-725a-4bb6-9173-58b1769d9c6f@109.71.253.204:24758?mode=stream-one&path=%2F&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=www.speedtest.net&type=xhttp#None%20XHTTP-None%20%7C%20%40Free_World2
 
 vless://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?security=reality&encryption=none&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=a13a7cc5#None%20TCP-Reality%20%7C%20%40Free_World2
 
@@ -6815,4 +6811,14 @@ vmess://eyJhZGQiOiAiNS43OC42My40NSIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiNWI0
 vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.9.145:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=kssepa.sabzipolobamahi.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
 
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.10:80?path=%2Ftelegram-MTMVPN&security=none&encryption=none&host=us.laoyoutiao.link&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
+
+vless://b49357eb-ee45-409a-a7e9-ef5fc4a7e092@81.17.154.89:443?security=reality&encryption=none&pbk=4VP8ksyfY7QjxKmhPAohYWc-nEQbC1wm2L09s83qd1E&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ffaster.mediastreamer.ru&sid=45#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://1ba9daa4-fdbd-407f-88f7-765d30561223@188.164.248.13:2083?path=%2F&security=tls&encryption=none&insecure=0&host=small-cloud-53e9.mohammad100.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=small-cloud-53e9.mohammad100.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://1fa43951-0c8e-4fbc-b350-2b11f67efb57@osre3.jykvpn.com:8443?mode=auto&path=%2F&security=none&encryption=none&host=ads.x5.ru&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://1fa43951-0c8e-4fbc-b350-2b11f67efb57@osre3.jykvpn.com:2048?path=%2F&security=none&encryption=none&host=ads.x5.ru&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://62127868-c841-4f1b-9db7-35b220b0341d@156.241.0.50:52507?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 

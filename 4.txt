@@ -20,3 +20,13 @@ vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.9.145:80?path=%2F%3Fed%3D256
 
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.10:80?path=%2Ftelegram-MTMVPN&security=none&encryption=none&host=us.laoyoutiao.link&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
 
+vless://b49357eb-ee45-409a-a7e9-ef5fc4a7e092@81.17.154.89:443?security=reality&encryption=none&pbk=4VP8ksyfY7QjxKmhPAohYWc-nEQbC1wm2L09s83qd1E&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ffaster.mediastreamer.ru&sid=45#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://1ba9daa4-fdbd-407f-88f7-765d30561223@188.164.248.13:2083?path=%2F&security=tls&encryption=none&insecure=0&host=small-cloud-53e9.mohammad100.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=small-cloud-53e9.mohammad100.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://1fa43951-0c8e-4fbc-b350-2b11f67efb57@osre3.jykvpn.com:8443?mode=auto&path=%2F&security=none&encryption=none&host=ads.x5.ru&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://1fa43951-0c8e-4fbc-b350-2b11f67efb57@osre3.jykvpn.com:2048?path=%2F&security=none&encryption=none&host=ads.x5.ru&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://62127868-c841-4f1b-9db7-35b220b0341d@156.241.0.50:52507?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
