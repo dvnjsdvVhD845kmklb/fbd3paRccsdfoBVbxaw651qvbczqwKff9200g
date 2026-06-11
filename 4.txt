@@ -16,3 +16,11 @@ vmess://eyJhZGQiOiAiMTM5LjE2Mi4xMTcuMTczIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6
 
 vmess://eyJhZGQiOiAiNDUuMTU5LjIxOC4xMTEiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjgyNGM1OGIxLTY1YmEtNDY4MC1hNjA5LTY2M2EwMDBkYmI5MiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3NzMTM4ODkiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1UTFMgfCBASG9wZV9OZXQiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
 
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.32.75:443?encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.76:8443?encryption=none&fp=chrome&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://3617789e-7e53-4bc4-bfe0-015b294734bf@204.168.193.204:8443?security=reality&encryption=none&pbk=Yh9Yr5uJwErzkxoKOCrohpJCDF5KfYK81amxca9VDXw&headerType=none&fp=firefox&spx=%2FEbltX4esG7YtCe0&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=98fecc4ca44d#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://580cdd44-a370-40a7-b845-c04436e44245@gr.irantilci.ir:8443?mode=auto&path=%2Fgr&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=gr.irantilci.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=gr.irantilci.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
