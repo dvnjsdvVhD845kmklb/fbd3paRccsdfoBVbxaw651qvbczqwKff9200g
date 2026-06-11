@@ -12,3 +12,9 @@ vless://73796e63-0000-4000-8000-000000000000@www.speedtest.net:443?path=%2Fv2ngn
 
 vless://d6a8c589-1de2-4680-ae5a-6eefeea65a8d@91.107.175.52:44728?type=tcp&encryption=none&security=reality&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&fp=random&sni=www.cloudflare.com&sid=dbb6ea0b&spx=%2F&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=xhttp&sni=vip.mojaz-persian-music.ir#%F0%9F%87%B8%F0%9F%87%A8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a9e5f630-d0f6-4546-9093-e35feac32f54@141.95.102.240:80?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://e48a3f88-8a19-4e2c-8a02-59dbc68e6788@157.22.230.185:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.microsoft.com&fp=chrome&pbk=RtUmPtY_syKUzlCbrz39Rv9nDYeuvL8bIDNQezYJLwc&sid=034456dc50884eba#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
