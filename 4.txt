@@ -26,3 +26,13 @@ trojan://Masir_Sefid@83.228.225.220:1040?security=reality&pbk=w0XepGv1Hk0gBh1Api
 
 vless://98f9f1d8-eef1-4e3c-ace8-3ab931c6898d@du.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=du.mobileemdad.top#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.160:443?path=%2F%3Fed%3D80&security=tls&encryption=none&insecure=1&host=ssj.new-persian-song.ir&fp=chrome&type=ws&allowInsecure=1&sni=ssj.new-persian-song.ir#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://c8ce425e-1ace-4cc8-a53a-865223ea6009@141.95.102.240:80?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://d0cfc134-447c-4c84-965a-ff5f827c9016@116.203.60.171:8080?security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@104.17.17.136:8443?path=/v2ngfast---v2ngfast---v2ngfast---v2ngfast---v2ngfast&security=tls&encryption=none&host=v2ngfast.njiuhbvgy1458.workers.dev&fp=chrome&type=ws&sni=v2ngfast.njiuhbvgy1458.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@18.159.245.110:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
