@@ -2,26 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.74:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40vmess_ir
-
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.132:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn7-39.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40vmess_ir
-
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.139:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40vmesc
-
-vless://f1508519-0d89-4c65-a0ef-ee720ad5b9fc@www.speedtest.net:8880?path=/mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray%3Fed%3D2048&security=none&encryption=none&host=Chanel.ahang-alpha.IR&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
-
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwbE1qWm1OVEZpTWkxak1tTTNMVFJoWmpBdFlqRmxNeTFqTVRrNE0yVXpZalZoT1RJ@free.2weradf.xyz:36313#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-trojan://acbacab-abca-acba-bcad-cbbbccaaacab@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
-
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7002#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-trojan://telegram-id-privatevpns@176.34.118.216:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
-
-trojan://coldwar2@ttt3.swiftfalcon.app:8443?#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-vless://55b1371b-0f76-46f5-9ac0-a93077351a16@62.60.219.145:443?security=none&type=tcp&path=%2F#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
 ss://bm9uZTpjYmNhYWFiLWFiY2EtYmNhYS1hY2RiLWFjYWNjYmJjYWJiYQ==@127.0.0.1:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOaDl5MGZUQWhFNytJcUE5MTVpUVlBdm1LTkh6QURacE9sUG9XZXNrNDlzPQ@e1.cover20.ir:51570?type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayNG3
@@ -66,31 +46,19 @@ vless://712c9bea-6e56-4268-a641-033e178d5948@193.176.240.129:2087?encryption=non
 
 vless://712c9bea-6e56-4268-a641-033e178d5948@193.176.240.129:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=SG12.artarona.ir&sni=SG12.artarona.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+vless://712c9bea-6e56-4268-a641-033e178d5948@193.176.240.129:2087?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=SG10.artarona.ir&fp=chrome&type=ws&sni=SG10.artarona.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmess_ir
 
-trojan://humanity@104.18.7.147:443?encryption=none&security=tls&sni=www.creationlong.org&fp=chrome&type=ws&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+vless://712c9bea-6e56-4268-a641-033e178d5948@193.176.240.129:2087?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=SG11.artarona.ir&fp=chrome&type=ws&sni=SG11.artarona.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmesc
 
-trojan://humanity@104.18.32.37:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&host=www.gossipglove.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+vless://712c9bea-6e56-4268-a641-033e178d5948@193.176.240.129:2087?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=SG12.artarona.ir&fp=chrome&type=ws&sni=SG12.artarona.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmesc
 
-trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+vless://712c9bea-6e56-4268-a641-033e178d5948@193.176.240.129:2087?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=SG8.artarona.ir&fp=chrome&type=ws&sni=SG8.artarona.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Outline_ir
 
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+vless://712c9bea-6e56-4268-a641-033e178d5948@193.176.240.129:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=SG7.artarona.ir&sni=SG7.artarona.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-trojan://humanity@104.18.13.149:443?encryption=none&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&type=ws&host=www.calmloud.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+vless://712c9bea-6e56-4268-a641-033e178d5948@193.176.240.129:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=SG8.artarona.ir&sni=SG8.artarona.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-trojan://humanity@chat.openai.com:443?encryption=none&security=tls&sni=www.calmlunch.com&alpn=h2&fp=chrome&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&security=none&type=ws&host=google.com&path=%2Fhttp%23telegram@shadowproxy66%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40DeamNet_proxy
-
-trojan://trojan@43.205.45.56:443?encryption=none&security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#%F0%9F%87%AE%F0%9F%87%B3%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-vless://59f93bfa-99f7-473b-a10b-a74950c005ab@141.101.123.252:8443?encryption=none&security=tls&sni=dry-surf6-0c82.jqxkqk.workers.dev&fp=chrome&type=ws&host=dry-surf6-0c82.jqxkqk.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%87%B5%F0%9F%87%B1%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-vless://b991b390-dd0f-4061-9150-bee0cb467bce@172.67.230.207:443?encryption=none&security=tls&sni=opu-ao6.pages.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=opu-ao6.pages.dev&path=%2F1wgvlggw75ayt15e%2Fns4yntuumtizljiz%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-vless://835dca30-9ea8-459b-addb-3f5464a23c14@shop.hyby.ir:8443?security=tls&encryption=none&insecure=0&host=www.hyby.ir&type=ws&allowInsecure=0&sni=www.hyby.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@3.8.48.222:80#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+vless://5ade29da-89c1-4546-bac0-542f856aff2d@hadi.neticoshop.ilove85.net:28360?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Outline_ir
 
@@ -131,4 +99,36 @@ vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@belgium-1.pandaonline.org:443?type=
 vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@canada-1.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=E2WrtLdPasFBE6W9eMFwAK2cWV-QHmpFtBvjvI4Bmng&fp=firefox&sni=canada-1.pandaonline.org#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@ge3.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=lvFOmvUfAoLa9vgvoAQVrZtCmU-wB-HcmgCU66WCQzc&fp=firefox&sni=ge3.pandaonline.org#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@nd.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=EOkMWut8OYEM2zfrAw5ZH8mzK0nnC8jnq9WB7uXJiTw&fp=firefox&sni=nd.pandaonline.org#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@pl-3.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=ONOR-MBmQKF8zCMtYML8YqNQY18UaGoWQX086dAXmic&fp=firefox&sni=pl-3.pandaonline.org#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@fra4.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=hRF-oscBJwfik4P4YkpNTxGYcM2kfJgJhG6zHxcDims&fp=firefox&sni=fra4.pandaonline.org#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@fin-2.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=xPCvUCXRNIH3xV0BCNq1pzF66C-DIsyXw-xaIzjJqAM&fp=firefox&sni=fin-2.pandaonline.org#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@pol1.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=IdybXRDMjWbBoaqkdSiGrD_y8Hjac6sexidfaxWC2mQ&fp=firefox&sni=pol1.pandaonline.org#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@fra2.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=5RyOXahLcEFFL87HYxv-A_StNALGDp3Cy-KbnSKBkhE&fp=firefox&sni=fra2.pandaonline.org#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@ger1.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=6VpnZ7ues41IS5rIwK3duaq1YkqPMvr09V8UWzvoeAc&fp=firefox&sni=ger1.pandaonline.org#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@WHITE:443?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@usa-1.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=T5GnN8php2-J5Jawbhz1lt1OMa9553SVg1nh652T7g0&fp=firefox&sni=usa-1.pandaonline.org#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@62.152.58.86:443?type=grpc&security=reality&pbk=y0Daf6XqACgR39QLM9zaqZtTHix2vg19MiNrOmGeg1c&fp=chrome&sni=5post-gate.x5.ru&sid=aa19486790&serviceName=grpc&mode=gun#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@fra3.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=0QnhGVtTZgDgtWUnotN_69XGFFEIXbyj2equ3da_LUQ&fp=firefox&sni=fra3.pandaonline.org#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@netherlands.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=-o9xOVSLH2PFC64pvO9tJc08yd26qAtK0oDxyuYrdTI&fp=firefox&sni=netherlands.pandaonline.org#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@185.141.227.153:443?type=grpc&security=reality&pbk=PhTCNH7b0Vs9Xq6WQTUyp2WPbdX-Gl8F7SMIQoHeNGY&fp=chrome&sni=ads.x5.ru&serviceName=grpc&mode=gun#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@31.177.111.178:443?type=grpc&security=reality&pbk=gETV15JkIgc_-i8Yn8OwL2923FmbwDIoe08FBHEp-yE&fp=chrome&sni=5post-gate.x5.ru&serviceName=grpc&mode=gun#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@185.141.227.153:8443?type=grpc&security=reality&pbk=qw3rUOYKAhgLpM541_anLwOIR3adHIin2CO2lvsVczw&fp=chrome&sni=ads.x5.ru&serviceName=grpc&mode=gun#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@ger2.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=Giyc3O57Sr1N538YOdAFuORm-mYBXc2juuVQ_eJv7Xo&fp=firefox&sni=ger2.pandaonline.org#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
