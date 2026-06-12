@@ -2,27 +2,19 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://2fbe06dc-1dd6-49d8-ada3-040c13273ffb@104.18.26.90:443?encryption=none&security=tls&sni=ghahve.nikanix.lol&fp=chrome&alpn=http%2F1.1%2Ch3%2Ch2&insecure=0&allowInsecure=0&type=ws&host=ghahve.nikanix.lol&path=%2Fray#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
+vless://7d67ebcd-9b3a-4c9c-9fe0-77de26e2ffda@172.64.159.52:443?encryption=none&security=tls&sni=ghahve.nikanix.lol&fp=chrome&alpn=http%2F1.1%2Ch3%2Ch2&insecure=0&allowInsecure=0&type=ws&host=ghahve.nikanix.lol&path=%2Fray#%F0%9F%8C%90%20WS-TLS%20%7C%20%40meliproxyy
 
-vless://3dc1caec-e128-4101-9a52-54c4bde761e2@tun2.lowping4.ir:443?security=tls&allowInsecure=0&encryption=none&type=ws&path=/pan2?ed%3D2560&sni=tun2.lowping4.ir&fp=firefox#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://f6430eac-b167-4f37-b73d-27e06465d1ee@ghahve.nikanix.lol:443?encryption=none&security=tls&sni=ghahve.nikanix.lol&fp=chrome&alpn=http%2F1.1%2Ch3%2Ch2&insecure=0&allowInsecure=0&type=ws&host=ghahve.nikanix.lol&path=%2Fray#%F0%9F%8C%90%20WS-TLS%20%7C%20%40meliproxyy
 
-vless://82df7034-17b6-4587-a1e2-f274971748a4@lumora20.playon.ir:2087?path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lumora20.playon.ir&fp=chrome&type=ws&allowInsecure=0&sni=lumora20.playon.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://a5cd0c83-f5c0-4268-a7a5-9411fe0858a4@chatgpt.com:443?encryption=none&security=tls&sni=ghahve.nikanix.lol&fp=chrome&alpn=http%2F1.1%2Ch3%2Ch2&insecure=0&allowInsecure=0&type=ws&host=ghahve.nikanix.lol&path=%2Fray#%F0%9F%8C%90%20WS-TLS%20%7C%20%40meliproxyy
 
-vless://fe571bf6-1933-474f-baee-80722c08a4b4@138.201.173.163:20352?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+vless://f88c29a3-f768-44a8-855a-981eb9b9a155@185.228.236.54:8080?path=%2F&security=none&encryption=none&host=185.228.236.54&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
-vless://99899fb0-b47f-4eab-ac4f-7fe47c8bdd2c@45.130.125.20:8443?mode=auto&path=%2Fmediaprocessing&security=tls&encryption=none&insecure=0&host=api.mmad.kdns.fr&fp=chrome&type=xhttp&allowInsecure=0&sni=sni.mmad.kdns.fr#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+vless://4e125438-1a39-440e-95fc-36b9dec03e5f@141.101.115.71:443?path=%2Ffaq&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=adderall.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=adderall.adaspoloandco.com%C2%ACe#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-vless://65309b8f-e98d-432e-be20-b9d39a124d86@img.openaether.cn:443?path=%2F22115%2Fapi&security=tls&encryption=none&insecure=0&host=api.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://5c0700dc-0ce4-4171-ae82-6953911466c1@104.19.64.105:8443?path=%2FRizZrAcK&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=focalin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=focalin.adaspoloandco.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-vless://c07f5179-2d11-41da-8a98-798ff05be1fd@104.17.122.123:2083?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=nf.velizor.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=nf.velizor.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+vless://ed9a429c-1caf-4221-696f-c0b00b1c0f9a@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-vless://65309b8f-e98d-432e-be20-b9d39a124d86@www.jianjimi.cn:443?path=%2F22115%2Fapi&security=tls&encryption=none&insecure=0&host=api.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://26e0613d-8b82-415c-7520-43dc8ed0d75a@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://5966c22e-3da1-438d-4337-ec045389a049@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://2d001eaf-67dc-458d-6226-d92df87a8e73@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://a403d38a-1121-4267-5f99-78c59aad5af0@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.daraflo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daraflo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://14ca5dc2-79d4-458b-a627-93b209921416@lumora21.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora21.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora21.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
