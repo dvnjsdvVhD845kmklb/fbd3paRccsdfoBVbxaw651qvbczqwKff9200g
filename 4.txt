@@ -2,3 +2,17 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
+vless://186eb0b0-d18c-4f77-b4de-3a2d72582c6d@snapp.ir:80?path=%2F&security=&encryption=none&host=mhi.mgshoponline.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+ss://YWVzLTI1Ni1nY206WldZek1tSTROVGxqTmpjNU9HWTRNakkyWXpFeU1qSmxabUV6WkRWaQ@37.32.11.233:11132#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://e967f8fd-a7e8-4c32-a3d9-37ec9a404bd1@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?flow=&type=xhttp&host=www.yallda.com&path=/v2raylink&mode=auto&security=tls&sni=shop.yallda.com&alpn=http/1.1,h2&fp=chrome&allowInsecure=0&echfq=none#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://ac006062-f051-43c6-bd4c-f409285c8635@192.200.160.120:443?flow=&type=xhttp&host=www.yallda.com&path=/v2raylink&mode=auto&security=tls&sni=shop.yallda.com&alpn=http/1.1,h2&fp=chrome&allowInsecure=0&echfq=none#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://ac006062-f051-43c6-bd4c-f409285c8635@config3.yallda.org:443?flow=&type=xhttp&host=www.yallda.com&path=/v2raylink&mode=auto&security=tls&sni=shop.yallda.com&alpn=http/1.1,h2&fp=chrome&allowInsecure=0&echfq=none#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
