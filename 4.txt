@@ -2,3 +2,9 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
+
+trojan://BxceQaOe@52.195.147.173:53307?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.21:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
