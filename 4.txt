@@ -2,33 +2,3 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vmess://eyJhZGQiOiAiMTQxLjEwMS4xMTQuMTM0IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI0NjEyNjE4Yy0yNGNkLTQzNzktOTkyNC1jZmRmM2Q2MWZhNWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL0lZS0xENTNNIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtVExTIHwgQEhvcGVfTmV0IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogIm9wZnIxLnYycmF5ZnJlZTEueHl6In0=
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAiYWRkIjogIjY2NTRjNzM0Y2NhYjhmNDQwZmYwODI1ZWI0NDNkYzdmLnFvcy5vbmwiLCAicG9ydCI6ICIxMDA1NyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNTJmOWNiZmItNWJiMy0zZGQzLWI5NDctNzI1ZTM2NWM1OWYzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJ2MnByOWZlb2gwejg2YW5qMmd6OW9ubmpnOXZpdWV2MGoubW9iZ3NsYi50YmNhY2hlLmNvbSIsICJ0bHMiOiAiIn0=
-
-trojan://d02e3bb7e6b3333e818d36866d40de6e@43.199.62.44:17005?sni=www.nintendogames.net#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
-
-vmess://eyJhZGQiOiAiMTcyLjY3LjIxNC40MSIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiODI0YzU4YjEtNjViYS00NjgwLWE2MDktNjYzYTAwMGRiYjkyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi93c3MxMzg4OSIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBIb3BlX05ldCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-
-vmess://eyJhZGQiOiAibWJ0LmlyY2Yuc3BhY2UiLCAiYWlkIjogMCwgImhvc3QiOiAibWJ0LmlyY2Yuc3BhY2UiLCAiaWQiOiAiNzk3NzBhMzItOTYwNy00OTE5LTk0ODMtMGYxNzk0NTU5MzkwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9qdVlMeXZOQnBZMExCT0FvbW15MmFKRSIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBIb3BlX05ldCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-
-vmess://eyJhZGQiOiAiOC4yMTcuMTg3LjE1IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICIzMzg5MzhjNi00YWNkLTQxM2UtOTU5Yy1jYWUxM2IyMWI5ZTYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMzEyNTQsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBIb3BlX05ldCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-
-vmess://eyJhZGQiOiAiZGRuczIuYWlydGNwLnZpcCIsICJhaWQiOiAyLCAiaG9zdCI6ICJkZG5zMi5haXJ0Y3AudmlwIiwgImlkIjogIjdmNjdmYjExLTgzMmQtMzQ5Mi1hZGZlLTYzZTBjY2VhZmJlMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAxMDAwMSwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1Ob25lIHwgQEhvcGVfTmV0IiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-
-vmess://eyJhZGQiOiAiNDcuMjQ1LjQyLjkyIiwgImFpZCI6IDAsICJob3N0IjogIm4xNzUzNTk4NDUyLndwZzI3Lnh5eiIsICJpZCI6ICI0ZjIzZWI3Yy1lZjJmLTQzYjAtOTBkZC1mMmI4YTc1OTU0YTUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBIb3BlX05ldCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-
-vless://2f0f84ed-9e4c-40ef-8a6c-286839e11a63@172.64.147.104:8880?path=%2F512&security=none&encryption=none&host=hmedrza.ghwhdr51.workers.dev&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://d9164c56-f125-496d-bc8f-f9319db95ac5@lumora15.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora15.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora15.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://d69b3179-fa1c-4cbc-827b-320540aaf70f@cell.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
-
-vless://d69b3179-fa1c-4cbc-827b-320540aaf70f@local.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
-
-vless://d69b3179-fa1c-4cbc-827b-320540aaf70f@euro.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
-
-vless://d69b3179-fa1c-4cbc-827b-320540aaf70f@mci.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
-
-vless://d69b3179-fa1c-4cbc-827b-320540aaf70f@global.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
-
