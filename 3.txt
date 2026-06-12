@@ -2,20 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://b8f2bebf-b598-4190-9473-6eba8fe598c1@91.107.175.52:44728?type=tcp&encryption=none&security=reality&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&fp=random&sni=www.cloudflare.com&sid=dbb6ea0b&spx=%2F&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop:2095?encryption=none&security=reality&sni=refersion.com&fp=random&pbk=9nvQaypTgq2UZ_9wSUctYxStDRWNJqe3o9evmKc5UBE&sid=bc348c28dbc7b9f5&spx=%2F&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop:2095?encryption=none&security=reality&sni=www.speedtest.net&fp=random&pbk=9nvQaypTgq2UZ_9wSUctYxStDRWNJqe3o9evmKc5UBE&sid=bc348c28dbc7b9f5&spx=%2F&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1UTFMgfCBAZmlsZW1iYWQiLCAiYWRkIjogImRlNS50YXNrZmxvd2h1Yi5vcmciLCAicG9ydCI6ICIyMDUzIiwgImlkIjogImNhNThiMTY1LTBmN2QtNDlhYS05ZmFlLWEwMTdlOGEwZjg4NCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImluc2VjdXJlIjogIjAifQ==
-
-vless://da48859d-edf9-4a8c-a026-80910591f284@nytimes.com:80?encryption=none&security=none&type=xhttp&host=tignaltofansv8.global.ssl.fastly.net&path=%2FTignal&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
-
-vless://64c03b7a-f3f3-4d78-bc82-a233ced89cea@divar.ir.shakhle.ir:25000?encryption=none&security=reality&sni=www.yahoo.com&pbk=D9EktvCfJb5l8mBkJHx3U31BIUwIBHJKV85OzyNnDlU&sid=6ba85179e30d4fc3&type=grpc&authority=&serviceName=shakhle&mode=gun#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
-
-vless://ad6d51ab-2d06-4d41-85b7-da9d703ea4fd@dnn4.avaaaal.ir:2087?encryption=none&security=tls&sni=sv333.avaaal.ir&fp=random&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=sv333.avaaal.ir&path=%2F720f09dba195549b424f771551162528%2Fworkers%2Fservices6%2Fview6%2FAvaal6%2Fproduction6%2Fsettings#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40bored_vpn
 
 trojan://mitivpn@188.114.97.6:443?path=https%3A%2F%2Fchatgpt.com&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn.de.ssl.global.fastly.net.mitivpn.site&fp=chrome&type=ws&allowInsecure=0&sni=2.1.mitivpn.dee.srfsl.gleobal.fastl3y.n3et.mitivpn.site#%F0%9F%8C%90%20WS-TLS%20%7C%20%40bored_vpn
@@ -263,6 +249,8 @@ trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&
 vless://d5b52d85-714e-4b3c-95cd-ca0cbfba35c3@185.187.72.117:443?security=reality&encryption=none&pbk=mPzNFHO4pZMzFviRkIhRd7xDUz4dMHyI-flZLOrgDVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=hu.locklance.lol&sid=2f6c940cadef9918#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigV2rayNG
 
 vless://c135158e-5869-4397-8116-6695ca18cd48@lt.hhhhh.eu.org:443?path=%2F&security=tls&encryption=none&insecure=1&host=cf.hulume.ccwu.cc&type=ws&allowInsecure=1&sni=cf.hulume.ccwu.cc#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
+
+vmess://eyJhZGQiOiAiZGU1LnRhc2tmbG93aHViLm9yZyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiY2E1OGIxNjUtMGY3ZC00OWFhLTlmYWUtYTAxN2U4YTBmODg0IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwNTMiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1UTFMgfCBAQ29uZmlnVjJyYXlORyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=%2F&security=&encryption=none&host=45.148.31.0&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigV2rayNG
 
@@ -3602,6 +3590,8 @@ trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.99:47909?sni=is.01.naiu
 
 vmess://eyJhZGQiOiAiMTcyLjY3LjIwNy4yMDkiLCAiYWlkIjogMCwgImhvc3QiOiAiaGFvLmh1YXFpYW4uaWN1IiwgImlkIjogIjA4MjEyMmEyLTg0NzktNDA4OS04MmYwLWYzMmJhNWZjNTQyNiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYmIiLCAicG9ydCI6IDIwODIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBIb3BlX05ldCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
 
+vless://64c03b7a-f3f3-4d78-bc82-a233ced89cea@divar.ir.shakhle.ir:25000?mode=gun&security=reality&encryption=none&pbk=D9EktvCfJb5l8mBkJHx3U31BIUwIBHJKV85OzyNnDlU&type=grpc&serviceName=shakhle&sni=www.yahoo.com&sid=6ba85179e30d4fc3#%F0%9F%87%AB%F0%9F%87%AE%20GRPC-Reality%20%7C%20%40netmelli15
+
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.130:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%87%A7%F0%9F%87%B7%20TCP-TLS%20%7C%20%40netmelli15
 
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.163:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40netmelli15
@@ -4275,4 +4265,8 @@ vless://ba5c8b6b-1685-4563-bbc6-627fd037b3d0@snapp.ir:80?path=%2F&security=none&
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 vless://82f6783d-555b-424f-8d39-eb61bf1e29de@154.91.170.198:8080?security=none&encryption=none&host=gapgpt.app&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://blackRay@188.114.97.6:443?path=%2FTelegram%2F%40blackRay&security=tls&alpn=http%2F1.1&insecure=0&host=mIn.cCnNx.IR&fp=chrome&type=ws&allowInsecure=0&sni=hos.ccnnx.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40proxymaann
+
+trojan://blackRay@188.114.97.6:443?path=%2FTelegram%2F%40blackRay&security=tls&alpn=http%2F1.1&insecure=0&host=mIn.cCnNx.IR&fp=chrome&type=ws&allowInsecure=0&sni=mIn.cCnNx.IR#%F0%9F%8C%90%20WS-TLS%20%7C%20%40proxymaann
 
