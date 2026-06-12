@@ -100,3 +100,11 @@ vless://c07f5179-2d11-41da-8a98-798ff05be1fd@104.17.122.123:2083?mode=auto&path=
 
 vless://65309b8f-e98d-432e-be20-b9d39a124d86@www.jianjimi.cn:443?path=%2F22115%2Fapi&security=tls&encryption=none&insecure=0&host=api.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://26e0613d-8b82-415c-7520-43dc8ed0d75a@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://5966c22e-3da1-438d-4337-ec045389a049@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://2d001eaf-67dc-458d-6226-d92df87a8e73@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://a403d38a-1121-4267-5f99-78c59aad5af0@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.daraflo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daraflo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
