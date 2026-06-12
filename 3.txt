@@ -5600,3 +5600,9 @@ vless://aa0b2683-537f-47ad-82b4-61406a07c622@lumora17.playon.ir:2087?alpn=http%2
 
 vless://d69b3179-fa1c-4cbc-827b-320540aaf70f@euro.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
+vless://d69b3179-fa1c-4cbc-827b-320540aaf70f@local.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://ac006062-f051-43c6-bd4c-f409285c8635@configtow.yallda.org:443?encryption=none&type=xhttp&mode=auto&host=www.yallda.com&path=/v2raylink&security=tls&fp=chrome&sni=shop.yallda.com&alpn=http/1.1,h2#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://ac006062-f051-43c6-bd4c-f409285c8635@config3.yallda.org:443?encryption=none&type=xhttp&mode=auto&host=www.yallda.com&path=/v2raylink&security=tls&fp=chrome&sni=shop.yallda.com&alpn=http/1.1,h2#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
