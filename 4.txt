@@ -2,25 +2,3 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://e98301e0-8848-47dc-830c-db5fdd157217@188.114.97.6:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fwss%3Fed%3D2048&host=hope.skydriftzone.sbs&sni=hope.skydriftzone.sbs&fp=chrome&alpn=http%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://e98301e0-8848-47dc-830c-db5fdd157217@api.aw.nim-hub.ir:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fwss%3Fed%3D2048&host=d2ezqcuneb557k.cloudfront.net&sni=d13nat11ie58lb.cloudfront.net&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://e98301e0-8848-47dc-830c-db5fdd157217@69.84.182.21:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fwss%3Fed%3D2048&host=hope.skydriftzone.sbs&sni=hope.skydriftzone.sbs&fp=chrome&alpn=http%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://e98301e0-8848-47dc-830c-db5fdd157217@18.64.16.26:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fwss%3Fed%3D2048&host=d13nat11ie58lb.cloudfront.net&sni=d13nat11ie58lb.cloudfront.net&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://e98301e0-8848-47dc-830c-db5fdd157217@cd.land4k.com:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fwss%3Fed%3D2048&host=qrc.nimstream.ir&sni=qrc.nimstream.ir&fp=chrome&alpn=http%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://e98301e0-8848-47dc-830c-db5fdd157217@104.16.7.70:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fwss%3Fed%3D2048&host=api9.downloadboxs.com&sni=wwww.downloadboxs.com&fp=chrome&alpn=http%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://e98301e0-8848-47dc-830c-db5fdd157217@d350ccc78zsbd7.cloudfront.net:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fwss%3Fed%3D2048&host=d2qjvn5hq76ev8.cloudfront.net&sni=d350ccc78zsbd7.cloudfront.net&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://e98301e0-8848-47dc-830c-db5fdd157217@81.28.12.12:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fwss%3Fed%3D2048&host=de.hamburg-db.sbs&sni=www.gcore.com&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://e98301e0-8848-47dc-830c-db5fdd157217@api.t2.dns-hub.ir:7443?encryption=none&security=reality&type=xhttp&headerType=none&mode=auto&sni=yahoo.com&fp=chrome&pbk=5KbOXeFZMAX3hZ0cv7s0wGbaQpdx8oehfMXNXA-b3DY&sid=fa40cbf0715c3fb0#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
-
-vless://e98301e0-8848-47dc-830c-db5fdd157217@cd.a.land4k.com:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fwss%3Fed%3D2048&host=api2.downloadboxs.com&sni=wwww.downloadboxs.com&fp=chrome&alpn=http%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://e98301e0-8848-47dc-830c-db5fdd157217@nim.nimuplink.ir:443?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
