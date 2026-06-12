@@ -2,11 +2,25 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+trojan://1taxm8l7-8x0t-en16-qo5t-qdz6wxmzo7pa@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
-vless://82f6783d-555b-424f-8d39-eb61bf1e29de@154.91.170.198:8080?security=none&encryption=none&host=gapgpt.app&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+trojan://mjc4t3uc-6tg3-x3do-ad5s-5vv6mya5unmj@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
-trojan://blackRay@188.114.97.6:443?path=%2FTelegram%2F%40blackRay&security=tls&alpn=http%2F1.1&insecure=0&host=mIn.cCnNx.IR&fp=chrome&type=ws&allowInsecure=0&sni=hos.ccnnx.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40proxymaann
+trojan://rghgwy1x-lves-ztfq-cgpv-45hbwofpp8mr@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
-trojan://blackRay@188.114.97.6:443?path=%2FTelegram%2F%40blackRay&security=tls&alpn=http%2F1.1&insecure=0&host=mIn.cCnNx.IR&fp=chrome&type=ws&allowInsecure=0&sni=mIn.cCnNx.IR#%F0%9F%8C%90%20WS-TLS%20%7C%20%40proxymaann
+vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@spain.torprospeed.ir:587?type=tcp&security=reality&sni=excoino.com&fp=chrome&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
+
+vless://66031b35-3a36-4fc1-9225-b7c39a7b4453@52.76.240.5:35349?type=tcp&security=reality&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=3r4wYm2KaeRLbvchgFhhCNvY1qeM3-fUz91UrX5kry8&sid=4806f5b119797c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
+
+vless://2c53af1c-c440-38f0-94f1-8bc32a4274f8@138.68.150.88:443?type=tcp&security=reality&sni=learn.microsoft.com&flow=xtls-rprx-vision&pbk=SAgG_t0cdKBPSvJzlIjrwTRjtBjfaUZnpYWhXyxEHSg&sid=2fe2afb9c7978f36#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
+
+trojan://cgnp8h0o-4rov-7lsc-mocr-i0018h90ylab@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://zqfclbzc-4xtr-71v8-jrlh-8mt9pdifa4s6@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://o7n0xiim-k53l-dw0w-apnk-etkh0dgncpzq@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@91.225.217.94:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=vYAxsSvDFRv3AFxbenjrq3jRG_p8o_wER-I8x-7aSwU&sid=062f#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
+
+vless://3dc68a32-43aa-4b5e-a60f-e11b27d03edc@94.156.117.79:8443?type=tcp&security=reality&sni=www.google.com&flow=xtls-rprx-vision&pbk=XEOvGJLIn0iPDT1R71F8FCKet0XHg-NTn0sSxurlvV8&sid=ce#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
 
