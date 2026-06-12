@@ -2,6 +2,14 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.21:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://368938e1-a65c-48e7-be82-08faefc341dc@172.64.152.137:443?mode=auto&path=%2Fapi%2Fv9&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=tak.visitsite.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=tak.visitsite.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40NETMelliAnti
+
+vless://8cb6c2c6-ffb9-4eaa-8271-76db3cc4b878@188.114.97.6:443?path=%2Famin&security=tls&encryption=none&insecure=0&host=dmx.ferrarikingfr.ir&fp=firefox&type=ws&allowInsecure=0&sni=dmx.ferrarikingfr.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://186eb0b0-d18c-4f77-b4de-3a2d72582c6d@95.38.189.135:80?encryption=none&host=mhi.mgshoponline.ir&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
 trojan://mitivpn@188.114.97.6:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=sdasdfgv.global.ssl.fastly.top.mitivpn-a.site&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com.mitivpn-a.site#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 trojan://mitivpn@188.114.97.6:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=sdasdfgv.global.ssl.fastly.net.mitivpn-a.site&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com.mitivpn-a.site#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -36,27 +44,7 @@ vless://82d47c52-9738-4d40-93a4-220bab575c60@treng.loralden.com:443?mode=gun&sec
 
 vless://ab666046-f0f0-4348-b086-aa7cf45e2098@lumora24.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora24.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora24.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-vless://ff2afcc3-942f-4de8-4dc6-9d5eef523d3b@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.daraflo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daraflo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
-
-vless://e52df583-5f6f-4425-1e5d-cb153970ebcb@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnYlh4VklHcGpDczVoUHFQ@74.234.78.179:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://0b6060e7-15ae-4e34-b088-a59341223cd1@5.253.25.97:8880?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-ss://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=kl.mojaz-persian-music.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://b97879a8-90f2-483c-8c73-34f07a6a8cbe@lumora23.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora23.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora23.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
 
 trojan://BxceQaOe@52.195.147.173:53307?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.21:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://368938e1-a65c-48e7-be82-08faefc341dc@172.64.152.137:443?mode=auto&path=%2Fapi%2Fv9&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=tak.visitsite.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=tak.visitsite.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40NETMelliAnti
-
-vless://8cb6c2c6-ffb9-4eaa-8271-76db3cc4b878@188.114.97.6:443?path=%2Famin&security=tls&encryption=none&insecure=0&host=dmx.ferrarikingfr.ir&fp=firefox&type=ws&allowInsecure=0&sni=dmx.ferrarikingfr.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://186eb0b0-d18c-4f77-b4de-3a2d72582c6d@95.38.189.135:80?encryption=none&host=mhi.mgshoponline.ir&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
