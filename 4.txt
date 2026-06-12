@@ -2,21 +2,3 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://24a24517-3bc8-4452-9718-9c542de39245@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
-
-vless://5fe5edfe-dc7d-40b6-aff2-088455146002@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
-
-vless://d34f5501-cf3d-9bfa-b955-8e0c13c31515@104.27.54.43:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=black-moon-a03b.zororenger449.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=black-moon-a03b.zororenger449.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://f649985c-9c51-4648-9433-ab98de091579@169.40.32.242:8080?security=none&encryption=none&host=169.40.32.242&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://247986f6-2705-4da5-82f3-c5acb450fa2a@172.67.220.1:8443?path=%2Fapi%2Fv2%2Fstream&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=new2.arshia-nova.ir&fp=chrome&type=ws&allowInsecure=0&sni=new2.arshia-nova.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://247986f6-2705-4da5-82f3-c5acb450fa2a@173.245.58.84:8443?path=%2Fapi%2Fv2%2Fstream&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=new2.arshia-nova.ir&fp=chrome&type=ws&allowInsecure=0&sni=new2.arshia-nova.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://247986f6-2705-4da5-82f3-c5acb450fa2a@new.ansooyefilter.ir:443?path=%2Fapi%2Fv2%2Fstream&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=new.ansooyefilter.ir&fp=chrome&type=ws&allowInsecure=0&sni=new.ansooyefilter.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://247986f6-2705-4da5-82f3-c5acb450fa2a@admin.ansooyefilter.ir:2083?security=reality&encryption=none&pbk=jbkvYfUsJX5cdT5PuCYuOy05WTiUXWEgYL23friKKDA&headerType=&fp=firefox&spx=%2FVpcGhJmaTBjbr9q&type=tcp&sni=www.speedtest.net&sid=c4b570d9457c91d4#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://b157cf80-57ac-4b27-ae10-6989c27d893f@r.cafeplusgame.ir:55277?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
