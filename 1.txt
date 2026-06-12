@@ -2,11 +2,7 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://3e529ddb-d1f2-4d59-9c6f-19496d960827@104.252.19.86:443?encryption=none&security=tls&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
-vless://NanoSecurity@www.speedtest.net:2052?encryption=none&host=dl.summercart.net&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-trojan://humanity@43.169.18.179:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://07dce2d7-9849-4e22-adb9-36d2763c3b89@snapp.ir:2095?path=%2F&security=none&encryption=none&host=api.aramonlineshop.ir&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20WS-None%20%7C%20%40FreakConfig
 
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@212.183.88.2:443?security=tls&sni=vg.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
@@ -29,6 +25,4 @@ trojan://Masir_Sefid@37.156.45.168:443?security=reality&pbk=03be_-tMiVFxrLwXO7TM
 vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&alpn=h2&encryption=none&insecure=0&host=vi.mojaz-persian-music.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=vi.mojaz-persian-music.ir#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40FreakConfig
 
 vless://9cb72288-da5a-40a4-b856-4557f9849016@3.112.19.64:26902?security=reality&encryption=none&pbk=5CqD0ZEtt5W_xA9adU4CxjH4xAV-BdCwhDuthBBnpFM&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=450d60a09ffb65#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40FreakConfig
-
-vless://07dce2d7-9849-4e22-adb9-36d2763c3b89@snapp.ir:2095?path=%2F&security=none&encryption=none&host=api.aramonlineshop.ir&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20WS-None%20%7C%20%40FreakConfig
 
