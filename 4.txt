@@ -2,29 +2,23 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Outline_ir
 
-trojan://humanity@104.18.7.147:443?encryption=none&security=tls&sni=www.creationlong.org&fp=chrome&type=ws&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+vless://1bf3fea3-4393-48cc-01a5-51ac02e91ab5@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-trojan://humanity@104.18.32.37:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&host=www.gossipglove.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+vless://50bc3250-1cf5-4f2e-a06e-956242d3e914@84.32.10.63:23511?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
-trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+vless://9f135709-60a1-4a9b-b31c-78d326d8752a@104.18.152.233:443?mode=stream-one&path=%2Fassignment----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=www.middle.cc.cd&fp=firefox&type=xhttp&allowInsecure=0&sni=www.middle.cc.cd#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?security=reality&encryption=none&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=b9988c11#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
-trojan://humanity@104.18.13.149:443?encryption=none&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&type=ws&host=www.calmloud.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+vless://090002ca-d01d-4dbc-a434-d6e6c2c5e412@185.143.232.122:80?path=%2Fnews&security=none&encryption=none&host=out10.pasargardnet.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
-trojan://humanity@chat.openai.com:443?encryption=none&security=tls&sni=www.calmlunch.com&alpn=h2&fp=chrome&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+vmess://eyJ2IjogIjIiLCAiYWRkIjogInNlb3VsMDMuemdqb2suY29tIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjcyYTBkYWM0LTk2ODktNGE1Ny1iMTY0LTVjNjViZmE5NDc3MiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICItLS0iLCAiaG9zdCI6ICJzZW91bDAzLnpnam9rLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAic2VvdWwwMy56Z2pvay5jb20iLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1UTFMgfCBAZmlsZW1iYWQifQ==
 
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&security=none&type=ws&host=google.com&path=%2Fhttp%23telegram@shadowproxy66%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40DeamNet_proxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg00129437x.cybervena.com:50099#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
-trojan://trojan@43.205.45.56:443?encryption=none&security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#%F0%9F%87%AE%F0%9F%87%B3%20WS-TLS%20%7C%20%40DeamNet_proxy
+vless://37c8b06a-25cf-42d7-b2ea-31d3c8561998@43.175.169.174:443?path=%2F14708%2F31d3c8561998%2F&security=tls&encryption=none&insecure=0&host=imap.mmadcoffee.info&fp=random&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-vless://59f93bfa-99f7-473b-a10b-a74950c005ab@141.101.123.252:8443?encryption=none&security=tls&sni=dry-surf6-0c82.jqxkqk.workers.dev&fp=chrome&type=ws&host=dry-surf6-0c82.jqxkqk.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%87%B5%F0%9F%87%B1%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-vless://b991b390-dd0f-4061-9150-bee0cb467bce@172.67.230.207:443?encryption=none&security=tls&sni=opu-ao6.pages.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=opu-ao6.pages.dev&path=%2F1wgvlggw75ayt15e%2Fns4yntuumtizljiz%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-vless://835dca30-9ea8-459b-addb-3f5464a23c14@shop.hyby.ir:8443?security=tls&encryption=none&insecure=0&host=www.hyby.ir&type=ws&allowInsecure=0&sni=www.hyby.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@3.8.48.222:80#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+vless://99e05eab-c466-4091-aa19-ee9dfb603187@172.67.220.1:8443?path=%2Fapi%2Fv2%2Fstream&security=tls&alpn=http%2F1.1&encryption=none&host=new2.arshia-nova.ir&fp=chrome&type=ws&sni=new2.arshia-nova.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
