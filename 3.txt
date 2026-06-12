@@ -4760,3 +4760,7 @@ vless://487d4a23-be7d-45b4-8a20-671c9ff38319@202.133.91.38:42767/?type=tcp&encry
 
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UzNhbDNKc1NvcklqM1JIeUNaYlVKSnhLREpCRlFPZUN1WDBWcUE3blkvYz06RytNQ0JvREZRYmFJL2pvQVpWN1lsYmxMa0RXS0VYUldTclkreXRobmZhUT0%3D@2.189.86.140:1380#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://3147e3bf-23bb-402f-8b41-19a6df19438e@del.fattsh8.ir:29113?security=reality&encryption=none&pbk=O022ghAvOsnRm9w68MKbfuyvlwWJsmytJBSj4F2dgkQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=aws.amazon.com&sid=2641062b76c9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://af61dca7-0b3d-4d57-85b4-96e6813eb1d8@202.133.91.38:57441/?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
