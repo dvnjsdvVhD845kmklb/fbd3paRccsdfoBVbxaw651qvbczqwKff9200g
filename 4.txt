@@ -2,33 +2,3 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://e98301e0-8848-47dc-830c-db5fdd157217@cd.a.land4k.com:443?path=%2Fwss%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=api2.downloadboxs.com&fp=chrome&type=ws&allowInsecure=0&sni=wwww.downloadboxs.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40NPV_78
-
-vless://e98301e0-8848-47dc-830c-db5fdd157217@nim.nimuplink.ir:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40NPV_78
-
-vless://e98301e0-8848-47dc-830c-db5fdd157217@104.16.7.70:443?path=%2Fwss%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=api9.downloadboxs.com&fp=chrome&type=ws&allowInsecure=0&sni=wwww.downloadboxs.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40NPV_78
-
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNU16TXhZbVU0WXkwNFlXRmlMVFEwTVdZdE9EVmpaaTFpTnpCbFlqTmtNRGRoWkdR@free.2apzhfa.xyz:31141#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMlpHTm1ZbUk1WlMwM01qbGtMVFJqWTJFdFlqTTRZeTB6WWpjMk5UTXdaVEkxWTJR@free.2weradf.xyz:36213#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNU16TXhZbVU0WXkwNFlXRmlMVFEwTVdZdE9EVmpaaTFpTnpCbFlqTmtNRGRoWkdR@free.2apzhfa.xyz:31215#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMlpHTm1ZbUk1WlMwM01qbGtMVFJqWTJFdFlqTTRZeTB6WWpjMk5UTXdaVEkxWTJR@free.2weradf.xyz:36471#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNU16TXhZbVU0WXkwNFlXRmlMVFEwTVdZdE9EVmpaaTFpTnpCbFlqTmtNRGRoWkdR@free.2apzhfa.xyz:31313#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNU16TXhZbVU0WXkwNFlXRmlMVFEwTVdZdE9EVmpaaTFpTnpCbFlqTmtNRGRoWkdR@free.2apzhfa.xyz:31217#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMlpHTm1ZbUk1WlMwM01qbGtMVFJqWTJFdFlqTTRZeTB6WWpjMk5UTXdaVEkxWTJR@free.2weradf.xyz:36211#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-vless://9e3456fa-bcce-44b6-b91e-22c324a2f12f@151.101.130.219:443?security=tls&sni=speedtest.net&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v28.com&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vmess://eyJhZGQiOiAiNDcuMjQ0LjEyMC4xOTciLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjg0NWU2YjA4LTI5MTktNDI5MC1hZGUwLTVkYzdkY2VhNTljYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInBvcnQiOiAiNDQ4NjciLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
-
-vmess://eyJhZGQiOiAiNjY1NGM3MzRjY2FiOGY0NDBmZjA4MjVlYjQ0M2RjN2YucW9zLm9ubCIsICJhaWQiOiAwLCAiaG9zdCI6ICI2NjU0YzczNGNjYWI4ZjQ0MGZmMDgyNWViNDQzZGM3Zi5xb3Mub25sIiwgImlkIjogIjUyZjljYmZiLTViYjMtM2RkMy1iOTQ3LTcyNWUzNjVjNTlmMyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAxMDAyMCwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1Ob25lIHwgQGZpbGVtYmFkIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAidjJwcjlmZW9oMHo4NmFuajJnejlvbm5qZzl2aXVldjBqLm1vYmdzbGIudGJjYWNoZS5jb20ifQ==
-
-trojan://telegram-id-directvpn@3.78.191.119:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.87:47909?security=tls&sni=is.01.naiun.bilibili.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
