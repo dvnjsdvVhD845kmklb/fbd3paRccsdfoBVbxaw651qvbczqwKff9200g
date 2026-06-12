@@ -5630,3 +5630,11 @@ vless://e98301e0-8848-47dc-830c-db5fdd157217@d350ccc78zsbd7.cloudfront.net:443?p
 
 trojan://humanity@216.24.57.6:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
 
+vless://e3004fbc-f35a-43e4-a4ac-e9f85a508a12@cdn.orkidehperfume.ir:443?mode=auto&path=%2Fxh-83f9a2b7&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&type=xhttp&allowInsecure=0&sni=cdn.orkidehperfume.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://ac006062-f051-43c6-bd4c-f409285c8635@188.114.97.6:443?encryption=none&type=xhttp&mode=auto&host=www.yallda.com&path=/v2raylink&security=tls&fp=chrome&sni=shop.yallda.com&alpn=http/1.1,h2#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://ac006062-f051-43c6-bd4c-f409285c8635@192.200.160.120:443?encryption=none&type=xhttp&mode=auto&host=www.yallda.com&path=/v2raylink&security=tls&fp=chrome&sni=shop.yallda.com&alpn=http/1.1,h2#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://9e4c649a-b672-4879-92e3-60e14a9a9400@cdn1.portalcode.ir:2095?encryption=none&type=httpupgrade&host=fr1.monopolitass.ir&path=/&security=none#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+
