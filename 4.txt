@@ -56,3 +56,11 @@ vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?path=%2F&security=
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.221:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
 
+vless://4e125438-1a39-440e-95fc-36b9dec03e5f@141.101.115.71:443?encryption=none&security=tls&sni=adderall.adaspoloandco.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=adderall.adaspoloandco.com&path=%2Ffaq#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+vless://ac006062-f051-43c6-bd4c-f409285c8635@configone.yallda.org:443?encryption=none&type=xhttp&mode=auto&host=www.yallda.com&path=/v2raylink&security=tls&fp=chrome&sni=shop.yallda.com&alpn=http/1.1,h2#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://a7896b5b-1c7d-4148-9429-fcdf949137bf@151.101.7.243:80?encryption=none&type=xhttp&mode=auto&host=kakapi.global.ssl.fastly.net&path=/&security=none#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://17203e48-9069-44e4-8947-62f8215bbd06@cxz.madboy.ir:443?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=alfa.m0a.ir&path=&security=tls&sni=&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
