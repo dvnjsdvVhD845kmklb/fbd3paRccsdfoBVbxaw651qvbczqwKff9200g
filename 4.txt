@@ -34,3 +34,5 @@ vless://3d83546b-146a-410c-b0a1-cf80f36a1d52@vip2.levanoo.shop:443?encryption=no
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfOXUzNmpWUFcta3BXenQ5NnZqNlctU1RFZDd3OEN1UA==@vip2.levanoo.shop:1080#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@Chatgpt.com:8443?path=%2FV2rayNGSelllBoT---V2rayNGSelllBoT---V2rayNGSelllBoT&security=tls&encryption=none&host=nameless-sunset-62b7.jalalpoi77.workers.dev&fp=chrome&type=ws&sni=nameless-sunset-62b7.jalalpoi77.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
