@@ -4978,3 +4978,7 @@ vless://eaee917a-3d4a-42c4-a834-7ddcd264c824@saleh.velizor.ir:5020?encryption=no
 
 vless://a2adcebe-56fb-47c1-a3c5-41d9c93dff6d@lumora24.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora24.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora24.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://3b7950ed-e076-4a51-8df2-222a88689700@45.197.134.24:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d037f6f67cc90016#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://02eea785-ad3e-443b-b435-0198a935f705@146.59.246.219:443?security=reality&encryption=none&pbk=He-IuGOvzVGI6n-8v7jWa1yTUmTaUVcp2ElSn1YeHjU&headerType=none&fp=firefox&spx=%2FeevAmhEkEuM5XzE&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=6eceef8e42#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
