@@ -18,3 +18,7 @@ vless://14c44521-e28f-4561-a12c-337d8cc44d87@188.114.97.6:443?encryption=none&se
 
 vless://884d809e-de48-4fa8-ab97-30b080789702@mci.connectingissues.ir:80?encryption=none&security=none&type=xhttp&host=shirin-kose.de&path=%2F%3Fed%3D2048&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
+vless://306bf0aa-5b36-4803-ebe5-9bdde23be114@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
+
+vless://093bb019-bac6-430c-9e20-e66cfb9f62da@vip3.upahang.space:443?security=reality&encryption=none&pbk=pwCd0591PFhKWPbIT3yBJV3lVB-R8BZlLwMLaCLStj0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.aparat.com&sid=5ad1ef06aa5991b9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayng_Fast
+
