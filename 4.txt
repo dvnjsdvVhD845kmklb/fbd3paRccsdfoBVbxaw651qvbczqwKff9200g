@@ -2,27 +2,29 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://b3f28213-dd8b-4c15-ab0c-8ffd4c2305cf@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+trojan://a1e12464-9208-4583-bd21-ab6889fdd242@45.33.57.17:443?allowInsecure=1&sni=cdn.qchwnd.moe#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
 
-trojan://0z035v02yap10559@87.120.106.53:8443?fp=chrome&pbk=G8S5riGF4RfQHI6QeqcnjN47CEKUEWomywiXDEpO0Rs&security=reality&sid=ddad09466f6f25de&sni=www.trendyol.com&spx=%2Fkpmyv6myNwcd1HX&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.78:443?security=tls&sni=BPFAv2.PAgES.DEV&type=ws&host=bPfaV2.PAgeS.DEv&path=%2FPHgb0hvZsjBDxZTq%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
-vless://0b6060e7-15ae-4e34-b088-a59341223cd1@5.253.25.97:8880?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQEhvcGVfTmV0IiwgImFkZCI6ICJoZy5jeWNmbHkueHl6IiwgInBvcnQiOiAiNTM1MjUiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjljN2RhZWExLWVmNGItNDAzZC04Y2I5LWNlZWQ3ZDUyNmJiYSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogImhnLmN5Y2ZseS54eXoiLCAidGxzIjogIiJ9
 
-vless://9583f662-aee6-4d6b-92f9-db45b35e6b7e@vip10.ghadricfz.ir:36132?encryption=none&host=&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+vless://07aa30ea-6170-494d-8ae2-80a5e18b37f0@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc44.lebasnoo.ir.&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
 
-vless://1f051461-5940-4359-a34b-ef1de69e8152@188.121.124.137:59311?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBIb3BlX05ldCIsICJhZGQiOiAiMTcyLjY3LjE2Ny4xMjAiLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogImY1ZTc0ZTY2LTAyNDEtNDQ3Yy04M2E0LWE0MDA1ZjQzODUzNiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcmF5IiwgImhvc3QiOiAibTQudjJyYXlmcmVlMS54eXoiLCAidGxzIjogInRscyJ9
 
-vless://6c8c4995-57dc-b7ee-a2c9-d64a43e60f79@shiny-cherry-d224.alienintheflesh3.workers.dev:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=shiny-cherry-d224.alienintheflesh3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=shiny-cherry-d224.alienintheflesh3.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAiYWRkIjogIjEwNC4xOS40NS4yNDYiLCAicG9ydCI6ICIyMDk1IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI3YTczN2Y0MS1iNzkyLTQyNjAtOTRmZi0zZDg2NGRhNjdiODAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIm9uZWEuZmxoYS5ydSIsICJ0bHMiOiAiIn0=
 
-vless://e42eb18a-6620-49b2-a578-820da4adcee8@198.41.216.128:443?encryption=none&security=tls&sni=ShoP.cAfEbAzAr.qZz.iO&alpn=http%2F1.1&fp=chrome&type=ws&host=shop.cafebazar.qzz.io&path=%2FeyJqdW5rIjoibVFQM2VXMTZaOVQiLCJwcm90b2NvSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAiYWRkIjogIjEwNC4xOS40NS4xMTciLCAicG9ydCI6ICIyMDk1IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI3YTczN2Y0MS1iNzkyLTQyNjAtOTRmZi0zZDg2NGRhNjdiODAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIm9uZWEuZmxoYS5ydSIsICJ0bHMiOiAiIn0=
 
-vless://e42eb18a-6620-49b2-a578-820da4adcee8@104.25.158.77:443?encryption=none&security=tls&sni=ShoP.cAfEbAzAr.qZz.iO&alpn=http%2F1.1&fp=chrome&type=ws&host=shop.cafebazar.qzz.io&path=%2FeyJqdW5rIjoibVFQM2VXMTZaOVQiLCJwcm90b2NvSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.60.8:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=edtunnel-csc.pages.dev&type=ws&sni=edtunnel-csc.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
-vless://e42eb18a-6620-49b2-a578-820da4adcee8@104.26.10.215:2096?encryption=none&security=tls&sni=cD.rXtEaMoNbToP.qZz.iO&alpn=http%2F1.1&fp=chrome&type=ws&host=cd.rxteamonbtop.qzz.io&path=%2FeyJqdW5rIjoia09KQkRyT1VnUDVHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://e42eb18a-6620-49b2-a578-820da4adcee8@104.16.79.228:2096?encryption=none&security=tls&sni=cD.rXtEaMoNbToP.qZz.iO&alpn=http%2F1.1&fp=chrome&type=ws&host=cd.rxteamonbtop.qzz.io&path=%2FeyJqdW5rIjoia09KQkRyT1VnUDVHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-vless://e42eb18a-6620-49b2-a578-820da4adcee8@104.24.245.168:443?encryption=none&security=tls&sni=ShoP.cAfEbAzAr.qZz.iO&alpn=http%2F1.1&fp=chrome&type=ws&host=shop.cafebazar.qzz.io&path=%2FeyJqdW5rIjoibVFQM2VXMTZaOVQiLCJwcm90b2NvSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://e42eb18a-6620-49b2-a578-820da4adcee8@104.19.31.121:2096?encryption=none&security=tls&sni=cD.rXtEaMoNbToP.qZz.iO&alpn=http%2F1.1&fp=chrome&type=ws&host=cd.rxteamonbtop.qzz.io&path=%2FeyJqdW5rIjoia09KQkRyT1VnUDVHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-vless://e42eb18a-6620-49b2-a578-820da4adcee8@162.159.229.19:443?encryption=none&security=tls&sni=ShoP.cAfEbAzAr.qZz.iO&alpn=http%2F1.1&fp=chrome&type=ws&host=shop.cafebazar.qzz.io&path=%2FeyJqdW5rIjoibVFQM2VXMTZaOVQiLCJwcm90b2NvSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://e42eb18a-6620-49b2-a578-820da4adcee8@104.24.233.31:2096?encryption=none&security=tls&sni=cD.rXtEaMoNbToP.qZz.iO&alpn=http%2F1.1&fp=chrome&type=ws&host=cd.rxteamonbtop.qzz.io&path=%2FeyJqdW5rIjoia09KQkRyT1VnUDVHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-vless://e42eb18a-6620-49b2-a578-820da4adcee8@198.41.203.225:443?encryption=none&security=tls&sni=ShoP.cAfEbAzAr.qZz.iO&alpn=http%2F1.1&fp=chrome&type=ws&host=shop.cafebazar.qzz.io&path=%2FeyJqdW5rIjoibVFQM2VXMTZaOVQiLCJwcm90b2NvSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://e42eb18a-6620-49b2-a578-820da4adcee8@104.24.7.239:443?encryption=none&security=tls&sni=ShoP.cAfEbAzAr.qZz.iO&alpn=http%2F1.1&fp=chrome&type=ws&host=shop.cafebazar.qzz.io&path=%2FeyJqdW5rIjoibVFQM2VXMTZaOVQiLCJwcm90b2NvSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://09c56865-b633-471b-93a3-99415886eaa7@lumora24.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora24.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora24.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
