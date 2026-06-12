@@ -6,3 +6,9 @@ vless://80393d1f-4146-4e84-8dad-fe377ee02c89@saleh.velizor.ir:2020?encryption=no
 
 vless://80393d1f-4146-4e84-8dad-fe377ee02c89@104.17.122.123:2083?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=nf.velizor.ir&mode=auto&path=%2F&security=tls&sni=nf.velizor.ir&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
+vless://4cc40975-1f50-491a-b746-9c518d734ca0@lumora19.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora19.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora19.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBmaWxlbWJhZCIsICJhZGQiOiAiMTg4LjExNC45Ni4xMCIsICJwb3J0IjogNDQzLCAiaWQiOiAiODRjZmYyNjktYTQyMy00ZTZlLTgxNzktN2UxOTdjNmNkZGJmIiwgImFpZCI6IDAsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiY2YuYWNjdXJhdGVuZXR3b3JrY2hlY2tlci5pciIsICJwYXRoIjogIi9hcGkvdjIvd3MvMnIzeFNzekh2YT9lZD0yMDQ4IiwgInRscyI6ICJ0bHMiLCAic25pIjogImNmLmFjY3VyYXRlbmV0d29ya2NoZWNrZXIuaXIifQ==
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBmaWxlbWJhZCIsICJhZGQiOiAiMTA4LjE2NS4yMTYuMzciLCAicG9ydCI6IDQ0MywgImlkIjogIjg0Y2ZmMjY5LWE0MjMtNGU2ZS04MTc5LTdlMTk3YzZjZGRiZiIsICJhaWQiOiAwLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImNmLmFjY3VyYXRlbmV0d29ya2NoZWNrZXIuaXIiLCAicGF0aCI6ICIvYXBpL3YyL3dzLzJyM3hTc3pIdmE/ZWQ9MjA0OCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJjZi5hY2N1cmF0ZW5ldHdvcmtjaGVja2VyLmlyIn0=
+
