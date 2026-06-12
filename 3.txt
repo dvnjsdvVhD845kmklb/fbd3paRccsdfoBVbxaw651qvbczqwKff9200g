@@ -2,70 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://b4a10cb3-9835-4027-a5d5-9404ec7b1e4e@57.128.180.133:8443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=%2FTG%40wxgqlfx&fp=chrome&alpn=http%2F1.1#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?encryption=none&type=tcp&security=reality&headerType=none&sni=cdn.cdnjst.org&fp=chrome&insecure=1&allowInsecure=1&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&sid=a120&flow=xtls-rprx-vision#%F0%9F%87%A7%F0%9F%87%BE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://5729c1fc-c7cf-41b7-8c17-f9b5f59772da@194.26.229.161:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=se.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@162.159.17.189:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://d4eb1900-6515-494e-85c5-306bb9594f56@45.130.125.162:8443?encryption=none&security=tls&sni=vi.mojaz-persian-music.ir&alpn=h2&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%A8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://4dd64641-1e2d-47b1-82a0-d19a158d9012@198.169.1.129:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=cinema.subgift.xyz&path=/subgift&mode=auto&extra={#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://977f2eea-9f37-417b-bdc3-5abfba1e54df@ca-dp-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&security=reality&sid=d3ee47fc2f553c44&sni=storage.yandex.net&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.74:8443?security=tls&encryption=none&insre=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://0bbcbcbf-a964-4e47-b8c5-c4917708ef93@45.130.125.193:8443?security=tls&type=xhttp&headerType=&path=%2F%3Fed%3D80&host=vip.mojaz-persian-music.ir&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=vip.mojaz-persian-music.ir&fp=chrome&alpn=h2#%F0%9F%87%B8%F0%9F%87%A8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://4b581293-af3a-4658-b9b2-06949626bf86@8.6.112.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=tcp&sni=yahoo.com&sid=0e#%F0%9F%87%A6%F0%9F%87%B2%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi¬e=@FreeOnlineVPN#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
-
-vmess://eyJhZGQiOiAiMTkwLjkzLjI0Ni4xOTUiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjQ2MTI2MThjLTI0Y2QtNDM3OS05OTI0LWNmZGYzZDYxZmE1YSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvSVlLTEQ1M00iLCAicG9ydCI6IDQ0MywgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInBzIjogIlx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmNyBXUy1UTFMgfCBAdjJyYXlfY29uZmlnc19wb29sIn0=
-
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.74:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJhZGQiOiAiMTkwLjkzLjI0Ni4yIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI0MGQ0OTZhNi1jZWViLTQwOTYtYmFlYi00Y2M1MmIyMDU2MjEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL0VDVENKMERGIiwgInBvcnQiOiA0NDMsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJwcyI6ICJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjcgV1MtVExTIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
-
-vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@45.12.146.12:443?encryption=none&type=ws&security=tls&path=%2FTG%40wxgqlfx&host=us2.wxgqlfx.xyz&sni=us2.wxgqlfx.xyz&alpn=http%2F1.1&fp=chrome&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJhZGQiOiAiMTkwLjkzLjI0Ni4yIiwgImFpZCI6IDAsICJob3N0IjogImxnMS50cnVtcDIwMjMudXMiLCAiaWQiOiAiNDBkNDk2YTYtY2VlYi00MDk2LWJhZWItNGNjNTJiMjA1NjIxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9FQ1RDSjBERiIsICJwb3J0IjogNDQzLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAicHMiOiAiXHVkODNjXHVkZGU4XHVkODNjXHVkZGY3IFdTLVRMUyB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
-
-vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.193:8443?encryption=none&security=tls&sni=ssj.new-persian-song.ir&alpn=h2&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%A8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://4d6d8e9b-0738-43c6-994f-ab475a7b3381@188.114.96.3:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver4.workers.dev&path=/0pfMXxNJIk81fSwG?ed=2560&sni=cxrolvpn.vipserver4.workers.dev&fp=chrome&alpn=http/1.1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ddb240e0-c7b1-44e3-bfa8-921915fe98cf@104.17.148.22:8443?security=tls&sni=tel.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&type=ws&host=tel.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&path=%2Fwww.speedtest.net%2FVPNCSTOMIZE%3Fed%3D8443&fp=chrome&alpn=h3,h2,http/1.1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://9f135709-60a1-4a9b-b31c-78d326d8752a@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=stream-one&path=%2Fassignment----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=www.middle.cc.cd&type=xhttp&allowInsecure=0&sni=www.middle.cc.cd#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@104.19.229.21:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%AE%F0%9F%87%B9%20GRPC-None%20%7C%20%40v2ray_configs_pool
-
-vless://4311bd3f-4f66-4538-a624-221b87690b2c@188.114.97.6:2087?encryption=none&type=ws&security=tls&path=%2Ffl%3Fed&host=mjtbknetmkhremge.ordak.qzz.io&sni=mjtbknetmkhremge.ordak.qzz.io&fp=chrome&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://bb318dc7-f2c9-48f6-ab96-0fc3466b46e9@188.114.97.6:2087?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=vaslbeshim_dop54.mgwarrior.ir&fp=firefox&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=vaslbeshim_dop54.mgwarrior.ir&path=%2FMgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial-Mgv2rayOfficial%b3Fed%3D1024&mode=auto#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://7e854867-65ae-416d-9c09-1a2e437e989b@45.196.224.216:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@208.103.161.170:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://0d5cba76-b113-4085-ae38-1cd3f0f77523@quarenty.site:8443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=205748bc0f24a747#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://2065a8c9-8b3d-4dba-b0ce-90d649aa3da7@greb.loralden.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=EUK_ePvEKUGcezQYHqgJ5P462XxLPXPm9CZWGLaL33k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=&sid=3620820fe66d6731#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-trojan://s_WEN9lMmufG%2BqDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&sni=172.236.220.10&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://4625910d-2d82-4494-9afe-63947c306e74@130.49.179.87:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&headerType=none&security=reality&encryption=none&sni=nl04.nocto.online&fp=firefox&pbk=FZGOwvNZ6SMtIp9M1u4z55FLxEMnnGt-5dWCwpRp0Eg&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://b4a10cb3-9835-4027-a5d5-9404ec7b1e4e@185.17.2.109:443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=%2FTG%40wxgqlfx&fp=chrome&alpn=http%2F1.1#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d515d6cfdfe60b02#%F0%9F%87%A8%F0%9F%87%AD%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -510,6 +446,8 @@ vless://4d6d8e9b-0738-43c6-994f-ab475a7b3381@188.114.96.3:80?Telegram=@GozargahA
 
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.99:4443?security=none&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20GRPC-None%20%7C%20%40v2ray_configs_pool
 
+trojan://humanity@162.159.17.189:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca8.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
 
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.68:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -722,6 +660,8 @@ vless://c931f737-cafe-4e4f-998a-a65517941256@node-de.dostup-est.info:8444?securi
 
 vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?path=%2Faymdlws%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=picassooo.info&fp=chrome&type=ws&allowInsecure=0&sni=picassooo.info#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://977f2eea-9f37-417b-bdc3-5abfba1e54df@ca-dp-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&security=reality&sid=d3ee47fc2f553c44&sni=storage.yandex.net&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
 vmess://eyJhZGQiOiAiMjAzLjI4LjguMjA3IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI3MmY3NmMzNi0zZTNjLTQ1YjMtYTYxZi1kOGYwMTczNDU5NTgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLz9lZD0yMDQ4IiwgInBvcnQiOiAyMDUzLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAicHMiOiAiXHVkODNjXHVkZGU4XHVkODNjXHVkZGZlIFdTLVRMUyB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
 
 vless://d4eb1900-6515-494e-85c5-306bb9594f56@45.130.125.162:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/?ed%3D80&sni=vi.mojaz-persian-music.ir&fp=chrome&mode=auto&alpn=h2#%F0%9F%87%B8%F0%9F%87%A8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
@@ -829,6 +769,8 @@ vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.163:80?security=none&enc
 trojan://H7JYmmq83ud-nKwYVZMsVchJJNjSd_6x@158.160.24.104:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=yy7ircoME_G27Bh0vXCP7VJg0MrtPovonmY7kGJv0F4&sid=cc22f2896048a3bf#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://696915f2-5ad4-452b-987c-d83d29d0503a@185.191.118.33:443?security=reality&encryption=none&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.moktana.app&sid=89c7866901c21bce#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.74:8443?security=tls&encryption=none&insre=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 vmess://eyJhZGQiOiAiMjAzLjMwLjE4OC4xODkiLCAiYWlkIjogMCwgImhvc3QiOiAib3BsZzEuemh1amljbjIuY29tIiwgImlkIjogIjU2YTIxODhiLTJhYjctNDAyYy1iOWI4LTM0ODQ3ZmRmMDk1OCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvNVFOUk9TUlYiLCAicG9ydCI6IDQ0MywgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInBzIjogIlx1ZDgzY1x1ZGRlN1x1ZDgzY1x1ZGRmZiBXUy1UTFMgfCBAdjJyYXlfY29uZmlnc19wb29sIn0=
 
@@ -1172,6 +1114,8 @@ trojan://humanity@198.41.223.96:443?security=tls&sni=www.ignitelimit.com&fp=chro
 
 vless://5176c140-be46-459b-b5b6-8a87478034f5@104.19.250.28:2086?mode=packet-up&path=/&security=&encryption=none&host=xvh.andishehparenting.com&type=xhttp#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-None%20%7C%20%40v2ray_configs_pool
 
+vless://4dd64641-1e2d-47b1-82a0-d19a158d9012@198.169.1.129:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=cinema.subgift.xyz&path=/subgift&mode=auto&extra={#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
 vless://8bcdc02a-6197-4e5b-bbbf-4e7790d2796a@151.101.108.223:443?path=%2F&security=tls&encryption=none&insecure=1&host=nesfeshzksab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.36:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%AE%F0%9F%87%B9%20GRPC-None%20%7C%20%40v2ray_configs_pool
@@ -1199,6 +1143,8 @@ vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?mode=auto&path=
 vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.194:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vip.mojaz-persian-music.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://ddb240e0-c7b1-44e3-bfa8-921915fe98cf@104.17.148.22:8443?security=tls&sni=tel.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&type=ws&host=tel.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&path=%2Fwww.speedtest.net%2FVPNCSTOMIZE%3Fed%3D8443&fp=chrome&alpn=h3,h2,http/1.1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none¬e=#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -1659,6 +1605,8 @@ vless://8bbf020e-653f-4a82-9900-1214e4e37dab@103.119.18.158:443?security=reality
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@112.213.102.188:41632#%F0%9F%87%AD%F0%9F%87%B0%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@64.176.15.110:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&fp=chrome&host=linek.perry.us.kg&path=%2Fstore%2Ffavorite%2Fads&security=tls&sni=linek.perry.us.kg&type=ws#%F0%9F%87%A8%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://b4a10cb3-9835-4027-a5d5-9404ec7b1e4e@57.128.180.133:8443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=%2FTG%40wxgqlfx&fp=chrome&alpn=http%2F1.1#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://536b1843-a13a-4a57-b778-bfc58e6cadb9@104.21.18.219:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=g1.nybaz.space&path=/#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -3450,6 +3398,8 @@ vless://7b241232-208d-4d36-857e-913f91b044f4@193.111.248.101:443?encryption=none
 
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-None%20%7C%20%40v2ray_configs_pool
 
+vless://4311bd3f-4f66-4538-a624-221b87690b2c@188.114.97.6:2087?encryption=none&type=ws&security=tls&path=/fl?ed&host=mjtbknetmkhremge.ordak.qzz.io&sni=mjtbknetmkhremge.ordak.qzz.io&fp=chrome&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
 vless://4311bd3f-4f66-4538-a624-221b87690b2c@188.114.97.6:443?encryption=none&security=tls&sni=mjtbknetmkhremge.ordak.qzz.io&type=ws&host=mjtbknetmkhremge.ordak.qzz.io&path=/fl?ed=2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://d5b52d85-714e-4b3c-95cd-ca0cbfba35c3@185.86.147.209:443?encryption=none&type=xhttp&security=reality&extra=null&fp=chrome&sni=vk.com&pbk=6IphheVqBS7n6Z_GMobp0IezWgotxGAeZpaPbUSOAC0&sid=0271d9ea2d573137#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-Reality%20%7C%20%40v2ray_configs_pool
@@ -3703,6 +3653,8 @@ vmess://eyJhZGQiOiAiZGU1LnRhc2tmbG93aHViLm9yZyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIs
 vmess://eyJhZGQiOiAiNTEuMTk1LjIzNS43MSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNTllMjhmNzgtYzMxYi00NjEzLTlkOWYtMWU2NzMyYTMxZjQ2IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyMDUyIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiJ9
 
 vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?encryption=none&security=tls&sni=cdg-1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.74:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 vless://a6349c3f-5234-4821-80b4-d99b33f0924d@fr-gt-01.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&fp=&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=f34818a561dfd1fe&sni=storage.yandex.net&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
