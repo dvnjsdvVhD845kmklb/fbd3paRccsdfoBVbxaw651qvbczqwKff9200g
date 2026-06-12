@@ -2,3 +2,7 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
+vless://3120446f-78e3-4974-8a00-42b718382bda@213.21.246.51:29800?encryption=none&type=tcp&security=reality&sni=dl.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=8Ct5aCwudtGt9MtmAP1kPmoWgaHyrb0iBzmINPHRgSo&sid=b7d4820f3f&spx=%2F#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@3.27.212.11:80#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+

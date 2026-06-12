@@ -2,6 +2,8 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
+vless://b42d3240-51e0-4b7e-b17e-90bd1c83e6ad@speedtestnetggogleyahoo.abczy.ir:443?encryption=none&security=tls&sni=speedtestnetggogleyahoo.abczy.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=httpupgrade&host=speedtestnetggogleyahoo.abczy.ir&path=%2F11961%2Fmehdi#%F0%9F%8C%90%20HTTPUpgrade-TLS%20%7C%20%40v2ray_configs_pool
+
 vless://75497bd5-3382-4590-8344-eb0738efdcce@speedtestnetggogleyahoo.abczy.ir:443?encryption=none&security=tls&sni=speedtestnetggogleyahoo.abczy.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=httpupgrade&host=speedtestnetggogleyahoo.abczy.ir&path=%2F21285%2Fmehdi#%F0%9F%8C%90%20HTTPUpgrade-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://4fe33c6f-881f-481f-b987-e006231928dd@speedtestnetggogleyahoo.abczy.ir:443?encryption=none&security=tls&sni=speedtestnetggogleyahoo.abczy.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=httpupgrade&host=speedtestnetggogleyahoo.abczy.ir&path=%2F54566%2Fmehdi#%F0%9F%8C%90%20HTTPUpgrade-TLS%20%7C%20%40v2ray_configs_pool
@@ -32,21 +34,9 @@ vless://204757fe-a727-4e86-de95-73abe4b92e47@www.n.ahmadhamoumi.fun:2087?mode=pa
 
 vless://204757fe-a727-4e86-de95-73abe4b92e47@www.n.ahmadhamoumi.fun:2083?mode=packet-up&security=tls&encryption=none&insecure=0&host=usa.sannest.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=usa.sannest.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
-vless://712c9bea-6e56-4268-a641-033e178d5948@193.176.240.129:2087?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=SG7.artarona.ir&fp=chrome&type=ws&sni=SG7.artarona.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmess_ir
+vless://3120446f-78e3-4974-8a00-42b718382bda@213.21.246.51:29800?encryption=none&type=tcp&security=reality&sni=dl.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=8Ct5aCwudtGt9MtmAP1kPmoWgaHyrb0iBzmINPHRgSo&sid=b7d4820f3f&spx=%2F#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
-vless://712c9bea-6e56-4268-a641-033e178d5948@193.176.240.129:2087?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=SG9.artarona.ir&fp=chrome&type=ws&sni=SG9.artarona.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmess_ir
-
-vless://d2bb7482-97fc-45fa-8ef3-032ed3bd66a7@188.94.191.252:22329?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://712c9bea-6e56-4268-a641-033e178d5948@193.176.240.129:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=SG11.artarona.ir&sni=SG11.artarona.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://712c9bea-6e56-4268-a641-033e178d5948@151.101.109.223:443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=FINIM.global.ssl.fastly.net&mode=auto&sni=biography.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://712c9bea-6e56-4268-a641-033e178d5948@193.176.240.129:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=SG10.artarona.ir&sni=SG10.artarona.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://712c9bea-6e56-4268-a641-033e178d5948@193.176.240.129:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=SG9.artarona.ir&sni=SG9.artarona.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://712c9bea-6e56-4268-a641-033e178d5948@193.176.240.129:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=SG12.artarona.ir&sni=SG12.artarona.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@3.27.212.11:80#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://712c9bea-6e56-4268-a641-033e178d5948@193.176.240.129:2087?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=SG10.artarona.ir&fp=chrome&type=ws&sni=SG10.artarona.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmess_ir
 
@@ -131,4 +121,14 @@ vless://09f38245-bdbf-456e-b992-d1f44773c96e@speedtestnetggogleyahoo.abczy.ir:44
 vless://011bb0fe-fe3f-45c7-b1ed-74b0949986db@speedtestnetggogleyahoo.abczy.ir:443?encryption=none&security=tls&sni=speedtestnetggogleyahoo.abczy.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=speedtestnetggogleyahoo.abczy.ir&path=%2F56628%2Fmehdi#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://33318e37-b8c0-4725-b96c-742147b24a4d@speedtestnetggogleyahoo.abczy.ir:443?encryption=none&security=tls&sni=speedtestnetggogleyahoo.abczy.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=speedtestnetggogleyahoo.abczy.ir&path=%2F35106%2Fmehdi#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://c3aea909-e1bd-48b2-a73c-5f2e28c146bc@speedtestnetggogleyahoo.abczy.ir:443?encryption=none&security=tls&sni=speedtestnetggogleyahoo.abczy.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=httpupgrade&host=speedtestnetggogleyahoo.abczy.ir&path=%2F20195%2Fmehdi#%F0%9F%8C%90%20HTTPUpgrade-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://d63626da-edff-41e3-a8ad-93118a1c7aa7@speedtestnetggogleyahoo.abczy.ir:443?encryption=none&security=tls&sni=speedtestnetggogleyahoo.abczy.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=httpupgrade&host=speedtestnetggogleyahoo.abczy.ir&path=%2F58135%2Fmehdi#%F0%9F%8C%90%20HTTPUpgrade-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://47f5be01-6323-4e67-b874-8e69548bf5d4@speedtestnetggogleyahoo.abczy.ir:443?encryption=none&security=tls&sni=speedtestnetggogleyahoo.abczy.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=httpupgrade&host=speedtestnetggogleyahoo.abczy.ir&path=%2F29232%2Fmehdi#%F0%9F%8C%90%20HTTPUpgrade-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a77b2540-0f51-4e3c-8576-cb258ec3e2a2@speedtestnetggogleyahoo.abczy.ir:443?encryption=none&security=tls&sni=speedtestnetggogleyahoo.abczy.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=httpupgrade&host=speedtestnetggogleyahoo.abczy.ir&path=%2F56006%2Fmehdi#%F0%9F%8C%90%20HTTPUpgrade-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://103a3eaa-c357-49f5-92b2-7a1d55f4a7dd@speedtestnetggogleyahoo.abczy.ir:443?encryption=none&security=tls&sni=speedtestnetggogleyahoo.abczy.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=httpupgrade&host=speedtestnetggogleyahoo.abczy.ir&path=%2F45512%2Fmehdi#%F0%9F%8C%90%20HTTPUpgrade-TLS%20%7C%20%40v2ray_configs_pool
 
