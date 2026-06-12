@@ -4222,3 +4222,27 @@ vless://d15cce83-9de9-4e37-98bc-ea5a8882f213@199.232.78.159:443?path=%2F%3FTELEG
 
 vless://2406380c-89d0-40ad-9e03-92d83824a650@89.125.151.77:20630?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+trojan://humanity@104.20.6.134:443?encryption=none&security=tls&sni=www.calmloud.com&type=ws&host=www.calmloud.com&path=%252fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+vless://82e3f88a-891f-46f7-991d-1138641f8245@base.hosamobenl.co.uk:2095?security=none&allowInsecure=0&encryption=none&type=xhttp&path=/xhttp&mode=stream-up#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40V2rayng_Fast
+
+vless://7b85b51d-4b64-4931-854c-5130389297ab@snapp.ir:80?path=/&security=none&encryption=none&host=dl2.avenflow.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+
+vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=%2F&security=tls&encryption=none&host=apiv2.global.ssl.fastly.net&type=ws&sni=speedtest.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2RAYROZ
+
+vless://c099b429-e805-44df-8a61-2d7e7603f832@lumora24.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora24.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora24.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://90b0e717-6753-40a6-b970-6d0f811eff15@185.143.232.6:80?path=%2Fpathhhh&security=&encryption=none&host=22324.44070.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://6e16baf3-82cd-4e5e-bfea-5bd4d2253b4f@188.114.97.0:443?encryption=none&security=tls&type=ws&host=telegram.proxie2-tel.workers.dev&path=/eyJqdW5rIjoidXYyRXNUTXEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&sni=tELEGRAM.prOXIe2-TEL.wOrKErS.DEV&fp=chrome&alpn=http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://74b1f2da-0e37-4795-b1df-a2896d5e7cde@172.64.149.54:443?encryption=none&type=xhttp&mode=auto&host=meow.tanvexor.ir&path=/api/?ref=supervoid&security=tls&fp=chrome&sni=meow.tanvexor.ir&alpn=h2,http/1.1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://78a9bf4f-3bec-48b2-b98f-a3f8151506ac@europeless.duckdns.org:443?security=tls&sni=europeless.duckdns.org&fp=random&type=ws&path=/getupdates&host=europeless.duckdns.org&encryption=none#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://8ef7f7c1-f8fd-0114-a41e-bd6a44ccc3aa@ads.convix-kino.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=Prr6JvDC5zYwU0lKszA8VpWU9mglYdRAW2VlnCL83TE&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://5b6046bc-82fc-4b92-99c4-eda0f4df13f3@45.15.152.73:40268?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.68:8880?security=&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
+
