@@ -2,14 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://fb0d9fcf-ec45-40d0-a3f4-78b4ec5d0676@lumora24.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora24.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora24.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://a81f80ac-8b7b-45e9-b103-06f46dc06450@de.connfull.org:9443?path=%2Fstream&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=de.connfull.org&fp=chrome&type=ws&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vmess://eyJhZGQiOiAiaXQuY29ubmZ1bGwub3JnIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogImNocm9tZSIsICJob3N0IjogIiIsICJpZCI6ICIyNGI3MjY5ZS05ODU2LTQ3NjgtOGQ3ZS1hMGI3M2NlOTI5ZWUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjA1MyIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLVRMUyB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-
-vmess://eyJhZGQiOiAiZGU1LnRhc2tmbG93aHViLm9yZyIsICJhaWQiOiAiMCIsICJhbHBuIjogImgzLGgyLGh0dHAvMS4xIiwgImZwIjogImNocm9tZSIsICJob3N0IjogImRlNS50YXNrZmxvd2h1Yi5vcmciLCAiaWQiOiAiYmI1ZmZkZmEtZWNjOC00YmZhLTk1MWEtYjBkZWRlZGY4MTg0IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3JlYWx0aW1lIiwgInBvcnQiOiAiMjA4NyIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtVExTIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
-
 vless://79654121-9510-45f4-9d66-070074792476@fr.connfull.org:7443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=fr.connfull.org&insecure=0&fp=chrome&type=grpc&serviceName=grpc&allowInsecure=0#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
 
 vless://c931f737-cafe-4e4f-998a-a65517941256@85.208.139.98:8444?security=reality&encryption=none&pbk=Hp6K5hsiPY4_zATgAtef9YTxNGpSkhAHTTo9MUO7fik&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=77e934f68f02ab4c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
@@ -72,39 +64,11 @@ vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=%2Fvless&se
 
 trojan://SoftNetConnect@194.5.192.89:2087?type=grpc&security=reality&authority=45.151.102.87&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=rR5VQnDatIXiWpvI3BtfUypXGWwXAXVEjyiB0aBgK1I&sid=160b91b3&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40Tweety_Proxy
 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.221:8880?encryption=none&security=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.233.46.174:2096?mode=gun&security=none&encryption=none&type=grpc&serviceName=fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop#%F0%9F%8C%90%20GRPC-None%20%7C%20%40NETMelliAnti
 
-vless://9bccefee-13d9-4005-8cc4-c3fe3af87ed6@38.180.104.124:49709?encryption=none&security=none&type=ws&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZVZXSms0VXNXUjJhcE83TTlYQTFFSVVGSlJyelU4RDB0MVJib3cwQ1V0RT06Q3Fld3dPK0RCL1psK0pOMjN4MkE1NytZcFpoL1AvL3ZxRmRIMjI1ZXhqRT0@shop.webchipro2.ir:34907#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
-vless://11eab240-5261-4d61-9e00-6834f5ec1e0a@i.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://7270612b-49f6-4b04-999c-34d8263da767@188.114.97.6:443?encryption=none&security=tls&sni=picassooo.info&insecure=0&allowInsecure=0&type=ws&host=picassooo.info&path=%2Faymdlws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://2f33d154-1106-4944-9e59-c27ae239e30d@91.107.166.66:1080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.sony.com&fp=random&pbk=8UADlZT6MI4J51E-Az4n4x68utNVUewjAPygkG_6Nyo&sid=af60baa7d97af27e&spx=%2Fdq4nK71JznxV53V&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://b9f1436b-71af-44d5-a629-20ebb1e9610f@shop.speedexopen.ir:2070?encryption=none&security=tls&sni=www.robinnom.ir&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=0&allowInsecure=0&type=ws&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://2f33d154-1106-4944-9e59-c27ae239e30d@91.107.166.66:4043?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=random&pbk=ymlfKdtlbiHM7nfc15dfg_bnv0tnyd3GZR06Gz5W6R4&sid=0a28&spx=%2FSdk3kz80sTI8J8V&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://e907e6a9-8602-4fc6-a66f-f8afa641dfea@del.fattsh8.ir:29113?encryption=none&security=reality&sni=aws.amazon.com&fp=chrome&pbk=O022ghAvOsnRm9w68MKbfuyvlwWJsmytJBSj4F2dgkQ&sid=2641062b76c9&spx=%2F&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://2f33d154-1106-4944-9e59-c27ae239e30d@91.107.166.66:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=arvancloud.ir&fp=random&pbk=Hwe7g18fPOB7YoeqGLarigYkna0GsXcTC8-ounz25AQ&sid=8561add0befd&spx=%2FaXRVVzbT5FdxuE3&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://2f33d154-1106-4944-9e59-c27ae239e30d@91.107.166.66:2026?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=chrome&pbk=k_XqDLeMBsuDxeunm-TlN_dDvx2RR292cVWrpL-QvUE&sid=5e3777b9ab&spx=%2FTNxaLvPb9UYtLcg&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://76ec063b-06be-478f-9cf2-cde571803b27@helixgaming.ir:80?encryption=none&security=none&type=ws&host=play.google.com&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://9d81c81f-20ed-46dc-8aef-39caf03ed9ac@e2356ac407f33f54.tracketshop.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://ac006062-f051-43c6-bd4c-f409285c8635@configone.yallda.org:443?encryption=none&security=tls&sni=shop.yallda.com&fp=chrome&alpn=http%2F1.1%2Ch2&insecure=0&allowInsecure=0&type=xhttp&host=www.yallda.com&path=%2Fv2raylink&mode=auto#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://3d83546b-146a-410c-b0a1-cf80f36a1d52@vip2.levanoo.shop:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfOXUzNmpWUFcta3BXenQ5NnZqNlctU1RFZDd3OEN1UA==@vip2.levanoo.shop:1080#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@Chatgpt.com:8443?path=%2FV2rayNGSelllBoT---V2rayNGSelllBoT---V2rayNGSelllBoT&security=tls&encryption=none&host=nameless-sunset-62b7.jalalpoi77.workers.dev&fp=chrome&type=ws&sni=nameless-sunset-62b7.jalalpoi77.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://b5274364-4143-4662-9e3b-c9428ac36085@lumora24.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora24.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora24.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 trojan://a1e12464-9208-4583-bd21-ab6889fdd242@172.105.222.177:443?allowInsecure=1&sni=cdn.qchwnd.moe#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
 
@@ -121,4 +85,12 @@ trojan://telegram-id-privatevpns@54.246.68.159:22222?security=tls&sni=trojan.bur
 vless://4877d1f2-2ff0-40e0-b43e-b31d35b4ce3a@172.67.204.84:2053?security=tls&sni=aPI.mOTWebservERsdMMiaN.cOm.&type=ws&host=api.motwebserversdmmian.com.&path=%2Fv3rbuify.yinte.ir.shop.com%3Fed%3D2560&fp=randomized&alpn=h2#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@172.67.139.111:443?security=tls&sni=Pages.dev&type=ws&host=telgram-%78v2ray--%78v2ray--%78v2ray--%78v2ray--%78v2ray2.pages.dev&path=%2FTelegram-%58V2ry2%3Fed%3D512#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+vless://fb0d9fcf-ec45-40d0-a3f4-78b4ec5d0676@lumora24.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora24.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora24.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://a81f80ac-8b7b-45e9-b103-06f46dc06450@de.connfull.org:9443?path=%2Fstream&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=de.connfull.org&fp=chrome&type=ws&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiaXQuY29ubmZ1bGwub3JnIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogImNocm9tZSIsICJob3N0IjogIiIsICJpZCI6ICIyNGI3MjY5ZS05ODU2LTQ3NjgtOGQ3ZS1hMGI3M2NlOTI5ZWUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjA1MyIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLVRMUyB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
+vmess://eyJhZGQiOiAiZGU1LnRhc2tmbG93aHViLm9yZyIsICJhaWQiOiAiMCIsICJhbHBuIjogImgzLGgyLGh0dHAvMS4xIiwgImZwIjogImNocm9tZSIsICJob3N0IjogImRlNS50YXNrZmxvd2h1Yi5vcmciLCAiaWQiOiAiYmI1ZmZkZmEtZWNjOC00YmZhLTk1MWEtYjBkZWRlZGY4MTg0IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3JlYWx0aW1lIiwgInBvcnQiOiAiMjA4NyIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtVExTIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
 
