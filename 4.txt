@@ -2,3 +2,11 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
+vless://516bbce0-815c-4fc8-af38-506aee25dc38@lumora24.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora24.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora24.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://af61dca7-0b3d-4d57-85b4-96e6813eb1d8@202.133.91.38:57441?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://487d4a23-be7d-45b4-8a20-671c9ff38319@202.133.91.38:42767?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UzNhbDNKc1NvcklqM1JIeUNaYlVKSnhLREpCRlFPZUN1WDBWcUE3blkvYz06RytNQ0JvREZRYmFJL2pvQVpWN1lsYmxMa0RXS0VYUldTclkreXRobmZhUT0@2.189.86.140:1380#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
