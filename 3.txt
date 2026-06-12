@@ -2,14 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&fp=chrome&type=xhttp&sni=kl.mojaz-persian-music.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://3ef170be-05d0-479c-9753-aa2f860964ea@78.17.96.198:443?security=reality&encryption=none&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=a1b2c3d4e5f6#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://2e576beb-1f96-455f-95f3-2db7a9a4c2a4@164.92.207.154:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XsCLhGoQvJTwqdiwHVhZxe113VBE6jwNA65iGzfLBgQ&security=reality&sid=cd85f71ba9&sni=icloud.com&spx=%2FwV1DzO8JJ6cdM52&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@208.103.161.170:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 trojan://tx6u21o0-woyq-zhpd-rj5i-m792jt1fnmf5@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://94rxhks9-26kb-l9qk-adxp-5psebiprc5ny@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -63,6 +55,8 @@ vless://a6349c3f-5234-4821-80b4-d99b33f0924d@45.196.224.216:8443?security=realit
 vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=ea10cd5686751ec5#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://356ccb34-22cc-4446-a137-072bc60d65ca@bypass.fr-gt-01.com:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://2e576beb-1f96-455f-95f3-2db7a9a4c2a4@164.92.207.154:443?security=reality&encryption=none&pbk=XsCLhGoQvJTwqdiwHVhZxe113VBE6jwNA65iGzfLBgQ&headerType=&fp=firefox&spx=%2FwV1DzO8JJ6cdM52&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=cd85f71ba9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.72:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
@@ -1615,6 +1609,8 @@ vless://09548571-364e-4876-8e92-98f423e73913@a.r-o-o-t3.ir:443?encryption=none&f
 vless://82a114fc-1760-4833-aacb-69887fe94f40@aa.nerdsfeed.com:2095?encryption=mlkem768x25519plus.native.0rtt.nCh1CLzIKn7KRTVDcOg_2WRJNLySR9MSvHPrKjnHswM&security=reality&sni=chatgpt.com&fp=chrome&pbk=zJFz_giueKfUBJuG-rb91_-PQUnU45J7agIKcVM4c1o&sid=0e40&spx=%2Fcache%2Fid&type=xhttp&path=%2Finvalid%2Fapi%2Ftype%2Fkey&mode=stream-one#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
 
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.26.0.7:443?path=%2Fdownload.php&security=tls&encryption=none&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&sni=sertraline.adaspoloandco.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@208.103.161.170:443?encryption=none&type=ws&security=tls&path=%2Ftsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
 
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?encryption=none&type=ws&security=tls&path=%2Ftsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
 
