@@ -30,3 +30,7 @@ vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni4zNyIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6
 
 vless://707f4355-8467-46ed-8904-adedb42737bf@13.58.63.16:443?security=reality&encryption=none&pbk=6fI6ZY3iJ_Xg0HmrwqjwRvDwyG6rU6vbP2uIeWSjWQQ&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=1f33c4e4092e888b#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+vless://cab31dd7-340d-481b-920a-11b1b3ea8eb4@167.233.109.213:19741?path=%2F&security=none&encryption=none&host=167.233.109.213&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=ea10cd5686751ec5#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
