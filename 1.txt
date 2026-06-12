@@ -60,6 +60,14 @@ vless://e682b2f6-f0c6-4fa7-a81d-06344998219c@91.107.175.52:44728?type=tcp&encryp
 
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?path=%2F&security=&encryption=none&host=cnmfangbinxing.cnmfangbinxing-f.workers.dev&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQiLCAiYWRkIjogInd3dy5zcGVlZHRlc3QubmV0IiwgInBvcnQiOiAiODA4MCIsICJpZCI6ICI5ZTdiZDE2Mi1jZTEzLTQ5MTItODk1OS0zYjMyODA1YjQ2MmUiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImRsLnN1bW1lcmNhcnQubmV0IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImluc2VjdXJlIjogIjAifQ==
+
+vless://c1437123-271c-4600-0613-005b041b0459@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws&sni=max-gb1.global.ssl.fastly.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
 vless://9c10d8b0-e1fb-48d5-af5d-03ad736f37bb@188.114.97.6:2086?path=%2FeyJqdW5rIjoiMENyWGlPUjVmIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiODcuMTIwLjE2Ni4xNCJdfQ&security=&encryption=none&host=snowy-fire-7369.mmdiborobav.workers.dev&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2HUBIR
 
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=&fp=edge&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2HUBIR
