@@ -26,3 +26,7 @@ vmess://eyJhZGQiOiAibXl2cHNob3N0aW5nLm5hbWUubmciLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIi
 
 vless://ba5c8b6b-1685-4563-bbc6-627fd037b3d0@snapp.ir:80?path=%2F&security=none&encryption=none&host=s1.denver19.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://82f6783d-555b-424f-8d39-eb61bf1e29de@154.91.170.198:8080?security=none&encryption=none&host=gapgpt.app&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
