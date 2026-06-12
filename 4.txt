@@ -2,17 +2,21 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://119dbe1c-ff6c-4d14-b168-a43892c66c7e@159.69.102.5:8844?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
 
-vless://119dbe1c-ff6c-4d14-b168-a43892c66c7e@159.69.102.5:8842?security=reality&encryption=none&pbk=vsk5Gct4zcJxWTgDqAj5wtv9dCa-Zk-uNVQHq44vFhI&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=2a7f6b8788caca70#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?alpn=http%2F1.1&encryption=none&security=tls&sni=de1.fromblancwithlove.com&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
-vless://119dbe1c-ff6c-4d14-b168-a43892c66c7e@116.203.6.53:8841?security=&encryption=none&host=dl.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+vless://9f135709-60a1-4a9b-b31c-78d326d8752a@141.193.213.21:443?mode=stream-one&path=%2Fassignment----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=www.middle.cc.cd&fp=firefox&type=xhttp&allowInsecure=0&sni=www.middle.cc.cd#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
-vless://119dbe1c-ff6c-4d14-b168-a43892c66c7e@188.114.97.6:8443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=clientc.denizmoda.tr&fp=chrome&type=ws&sni=clientc.denizmoda.tr#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://6ae59d63-32e4-496e-ba60-09a5ad85a454@nytimes.com:80?encryption=none&security=none&type=xhttp&headerType=none&path=%2F&host=networkcfz.global.ssl.fastly.net&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
-vless://79665271-4a29-4cee-e7c0-cc26e3b8286b@47.250.195.7:11381?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+vless://6ae59d63-32e4-496e-ba60-09a5ad85a454@www.calmlunch.com:2052?encryption=none&security=none&type=ws&headerType=none&path=%2F%3Fed%3D8880&host=gamer1.zeroping-game.click#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaejV3Y1hpYzU4RmlxWW1Q@74.234.78.179:443?outline=1&prefix=POST%20t33adc7L#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+vless://6ae59d63-32e4-496e-ba60-09a5ad85a454@thisisthatthatisthis.king-ping.site:2052?encryption=none&security=none&type=ws&headerType=none&path=%2F%3Fed%3D8880&host=gamer1.zeroping-game.click#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
-trojan://SoftNetConnect@77.110.114.75:8443?mode=auto&path=%2F&security=reality&pbk=bIzRyt6-wut4bghVAF7v_12wkM1McpzZFwsPAqCtrHY&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=78851a413f5033b0#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaaVRoRTd4X1lBemgxYnZjQ1lLNnM2dmFpNXRocnNfdg==@gamer2ping.zeroping-game.click:55947#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://6ae59d63-32e4-496e-ba60-09a5ad85a454@104.17.121.43:2052?encryption=none&security=none&type=ws&headerType=none&path=%2F%3Fed%3D8880&host=gamer1.zeroping-game.click#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://6ae59d63-32e4-496e-ba60-09a5ad85a454@gamer2ping.zeroping-game.click:2090?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=chrome&pbk=UFhyFMat4CZfN4Zym0WlhMT3U8-qyd5o03lNrpaKqnY&sid=eac5a26869310bf5#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
