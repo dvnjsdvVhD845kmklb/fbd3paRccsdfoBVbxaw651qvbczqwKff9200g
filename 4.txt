@@ -2,23 +2,3 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://59931360-0ee5-4ebd-8535-20e917bd8091@198.41.208.118:2083?path=%2F%3Fu&security=tls&encryption=none&insecure=0&host=testservers0.arminbetatest2-cc5.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=testservers0.arminbetatest2-cc5.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vmess://eyJhZGQiOiAid3d3Lm9udmlwNS5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJzdWItODl5dGRkMHp5LXJ1YmlrYS5pci5nb29nbGUuY29tLnd3dy5zcGVlZHRlc3QubmV0LmNoYXRncHQuY29tLm9wZW5haS5jb20ubm9UYUxpZW5TLkNvTS5Uci5cdTI2MDZcdTI2MDZcdTI2NjRcdTI2NjFcdTI2NjdcdTI2NjdcdTI2NjdcdTI2MDZoXy0ubmFzYS5pci5pc25hLmlyLmZhcmFkYXJzLm9yZy5maWRpYm8uY29tLnNwZWVkdGVzdC5uZXQuY28ub252aXA1LmlyLiIsICJpZCI6ICIxMzYxMmJjZC0xNmQ0LTQ5MDUtODNlOS1mYjdiMDFlMTcyMTAiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAiaHR0cHVwZ3JhZGUiLCAicGF0aCI6ICIvYWNjb3VudC92dnY/ZWQ9MjU2MCIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBIVFRQVXBncmFkZS1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
-
-vless://ab4b9f02-3c8e-4e2f-b71d-f3fd80790cc8@rbtx.aruxg.ir:443?alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.ApC5QvghbRK2AeTHXQKQnCEr6gXOai2QA9_64O54lRM&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=towsponshw.my&mode=auto&path=%2Fapi%2Fv3%2Fuser%2Fget-auth-token%2F%3Fid%3D2650&security=tls&sni=towsponshw.my&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://ab4b9f02-3c8e-4e2f-b71d-f3fd80790cc8@127.0.0.1:65535?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://ab4b9f02-3c8e-4e2f-b71d-f3fd80790cc8@185.143.232.200:443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&host=faesay.aruxg.ir&path=%2FTic45WG9JTXJ2rnA5XB5roAndsTdDwkm7c%3Fed%3D2560&security=tls&sni=faesay.aruxg.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://ab4b9f02-3c8e-4e2f-b71d-f3fd80790cc8@rx4.mmsbz.com:8443?alpn=http%2F1.1&encryption=mlkem768x25519plus.native.0rtt.0-251Cmzf8Buo2wXanAJ3sxwqY0qMDF1WocyHds6i2E&fp=chrome&host=dcbx.meplteam.blog&path=%2Fapi%2Fv3%2Fuser%2Fget-auth-token&security=tls&sni=dcbx.meplteam.blog&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&allowinsecure=0&type=xhttp…#None%20TCP-Reality%20%7C%20%40BigSmoke_Config
-
-vless://ab4b9f02-3c8e-4e2f-b71d-f3fd80790cc8@auto1.aruxg.ir:443?encryption=none&fp=chrome&pbk=x0kfWjTiGUdijlMbIdc4M8uA78zp9xde-i9MGjTVuQI&security=reality&sid=36f32c90&sni=www.google.com&spx=%2FZl7FUjt7Orsbe3j&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://ab4b9f02-3c8e-4e2f-b71d-f3fd80790cc8@dcfsxp.towsponshw.my:2083?alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.Pi58RnEeVBIT8f2uaNDtxx5j6y7zAJzYnaOoIc2z1zk&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=dec.towsponshw.my&mode=auto&path=%2Fapi%2Fv3%2Fuser%2Fget-auth-token%2F%3Fid%3D2650&security=tls&sni=dec.towsponshw.my&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://cd4a3be5-6e56-47fa-45ce-e869806224b6@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
