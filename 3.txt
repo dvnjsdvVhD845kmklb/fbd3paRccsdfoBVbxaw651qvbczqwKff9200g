@@ -5622,3 +5622,19 @@ vless://45d14516-4d2a-49f9-b71f-7bdd1a6cc3a8@62.220.122.147:442?security=none&en
 
 vless://1a6b9b6e-0724-49b0-9bb6-e8cdb27e28b9@62.220.122.178:441?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2RAYROZ
 
+vless://0086b4b4-5aaf-4298-9d7a-74a6ad66b624@lumora12.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora12.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora12.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://458fe179-b6ff-422e-971b-5a42672b61c4@ikco.ir:80?encryption=none&security=none&type=ws&host=api.mgshoponline.ir&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://3f245e8a-9125-43a5-a78c-aee8faefd2f9@159.69.102.5:8841?security=&encryption=none&host=dl.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://3f245e8a-9125-43a5-a78c-aee8faefd2f9@116.203.6.53:8844?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://33093274-f50c-475f-a594-199b7541e424@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&host=Cdn8-pro.postshup.ir.&path=/?ed%3D2082&security=none#%F0%9F%87%AB%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_freex
+
+vless://33093274-f50c-475f-a594-199b7541e424@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&host=cdn-pro5.postshup.ir&path=/?ed%3D2082&security=none#%F0%9F%87%B9%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_freex
+
+vless://33093274-f50c-475f-a594-199b7541e424@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&host=cdn-pro2.postshup.ir&path=/?ed%3D2082&security=none#%F0%9F%87%A9%F0%9F%87%AA%20HTTPUpgrade-None%20%7C%20%40v2ray_freex
+
+vless://33093274-f50c-475f-a594-199b7541e424@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&host=cdn-pro4.postshup.ir.&path=/?ed%3D2082&security=none#%F0%9F%87%A9%F0%9F%87%AA%20HTTPUpgrade-None%20%7C%20%40v2ray_freex
+
