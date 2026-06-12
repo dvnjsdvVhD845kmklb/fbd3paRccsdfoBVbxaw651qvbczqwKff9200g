@@ -2,48 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://c013c9f9-64d5-4a1e-aa46-4c280cc57a80@xco.xonline.sbs:8443?type=xhttp&encryption=none&path=%2Fcocjslfnr&host=xco.trevor.ir&mode=auto&x_padding_bytes=100-1000&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&sni=xco.trevor.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d515d6cfdfe60b02#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-ss://Shh-proxy@45.131.5.144:8880?encryption=none&type=ws&host=shhp.akbarjoojeh.shop&path=/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@144.31.217.99:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://0cdd0cc6-9ff6-4523-af81-8186a1cdab87@188.114.97.6:443?encryption=none&type=ws&security=tls&path=%2Fuser%3Fed%3D2560&host=api.igately.com&sni=api.igately.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://7b241232-208d-4d36-857e-913f91b044f4@uk.noooo.win:443?security=tls&encryption=none&insecure=0&headerType=none&fp=edge&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6a20f558.noooo.win#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
-vless://ada060be-163b-4804-8cb7-0fe9937db6de@104.24.164.8:443?path=%2Ft%2Fmy%2F3%2Fp%2Fws%2Fe8c2f6a14b79%3Fed%3D2047&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=madig.qzz.io&fp=chrome&type=ws&allowInsecure=1&sni=madig.qzz.io#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://ada060be-163b-4804-8cb7-0fe9937db6de@104.16.191.196:443?path=%2Ft%2Fmy%2F3%2Fp%2Fws%2Fe8c2f6a14b79%3Fed%3D2047&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=madig.qzz.io&fp=chrome&type=ws&allowInsecure=1&sni=madig.qzz.io#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://ada060be-163b-4804-8cb7-0fe9937db6de@104.16.188.40:443?path=%2Ft%2Fmy%2F3%2Fp%2Fws%2Fe8c2f6a14b79%3Fed%3D2047&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=madig.qzz.io&fp=chrome&type=ws&allowInsecure=1&sni=madig.qzz.io#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://ada060be-163b-4804-8cb7-0fe9937db6de@172.67.145.191:443?path=%2Ft%2Fmy%2F3%2Fp%2Fws%2Fe8c2f6a14b79%3Fed%3D2047&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=madig.qzz.io&fp=chrome&type=ws&allowInsecure=1&sni=madig.qzz.io#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://ada060be-163b-4804-8cb7-0fe9937db6de@172.67.159.147:443?path=%2Ft%2Fmy%2F3%2Fp%2Fws%2Fe8c2f6a14b79%3Fed%3D2047&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=madig.qzz.io&fp=chrome&type=ws&allowInsecure=1&sni=madig.qzz.io#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://ada060be-163b-4804-8cb7-0fe9937db6de@162.159.235.240:443?path=%2Ft%2Fmy%2F3%2Fp%2Fws%2Fe8c2f6a14b79%3Fed%3D2047&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=madig.qzz.io&fp=chrome&type=ws&allowInsecure=1&sni=madig.qzz.io#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://ada060be-163b-4804-8cb7-0fe9937db6de@104.16.194.109:443?path=%2Ft%2Fmy%2F3%2Fp%2Fws%2Fe8c2f6a14b79%3Fed%3D2047&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=madig.qzz.io&fp=chrome&type=ws&allowInsecure=1&sni=madig.qzz.io#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://ada060be-163b-4804-8cb7-0fe9937db6de@172.66.193.207:443?path=%2Ft%2Fmy%2F3%2Fp%2Fws%2Fe8c2f6a14b79%3Fed%3D2047&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=madig.qzz.io&fp=chrome&type=ws&allowInsecure=1&sni=madig.qzz.io#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://ada060be-163b-4804-8cb7-0fe9937db6de@104.21.15.105:443?path=%2Ft%2Fmy%2F3%2Fp%2Fws%2Fe8c2f6a14b79%3Fed%3D2047&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=madig.qzz.io&fp=chrome&type=ws&allowInsecure=1&sni=madig.qzz.io#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://ada060be-163b-4804-8cb7-0fe9937db6de@172.67.153.234:443?path=%2Ft%2Fmy%2F3%2Fp%2Fws%2Fe8c2f6a14b79%3Fed%3D2047&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=madig.qzz.io&fp=chrome&type=ws&allowInsecure=1&sni=madig.qzz.io#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://ada060be-163b-4804-8cb7-0fe9937db6de@104.16.190.140:443?path=%2Ft%2Fmy%2F3%2Fp%2Fws%2Fe8c2f6a14b79%3Fed%3D2047&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=madig.qzz.io&fp=chrome&type=ws&allowInsecure=1&sni=madig.qzz.io#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://ada060be-163b-4804-8cb7-0fe9937db6de@104.17.248.9:443?path=%2Ft%2Fmy%2F3%2Fp%2Fws%2Fe8c2f6a14b79%3Fed%3D2047&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=madig.qzz.io&fp=chrome&type=ws&allowInsecure=1&sni=madig.qzz.io#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=apiv2.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayNG_SPDNet
 
 vless://6dcca3b0-4a1b-40d0-9bf7-9c0f2c9d45b7@cell.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
@@ -755,6 +713,8 @@ trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&hos
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@itarmy.com.ua:2095?path=%2Ffp%3Drandomized&security=&encryption=none&host=cnmfangbinxing.cnmfangbinxing-k.workers.dev&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2HUBIR
 
 vmess://eyJhZGQiOiI0NS45Mi43MC4yMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjIzMjQiLCJwcyI6Ilvwn4eu8J+HuV10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
+
+vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d515d6cfdfe60b02#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2HUBIR
 
 vmess://eyJhZGQiOiI4NS45LjEyNS44OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2MjQ0YzQxYS1mNGMxLTQ3MzMtYTY1NC1jMzhmNzcyOWIxM2MiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwMjAiLCJwcyI6Ilvwn4eu8J+Ht110Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
 
@@ -3953,4 +3913,14 @@ trojan://humanity@www.ignitelimit.com:443?encryption=none&security=tls&type=ws&p
 trojan://humanity@172.64.152.38:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
 
 trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.calmlunch.com&alpn=http%2F1.1&fp=chrome&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+trojan://humanity@104.18.7.147:443?encryption=none&security=tls&sni=www.creationlong.org&fp=chrome&type=ws&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+trojan://humanity@104.18.32.37:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&host=www.gossipglove.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
