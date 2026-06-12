@@ -2,19 +2,13 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://3b7950ed-e076-4a51-8df2-222a88689700@45.197.134.24:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d037f6f67cc90016#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+vless://3ae4e550-0938-44b8-a12a-3fb736e3e6fb@by_info.allcaline.ir:6690?security=reality&encryption=none&pbk=QZWXGRyvifcdtbfxZ2YxNRDqkfvaUeOC0uhfCs_ITEI&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=a334d0f1d82608de#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
-vless://02eea785-ad3e-443b-b435-0198a935f705@146.59.246.219:443?security=reality&encryption=none&pbk=He-IuGOvzVGI6n-8v7jWa1yTUmTaUVcp2ElSn1YeHjU&headerType=none&fp=firefox&spx=%2FeevAmhEkEuM5XzE&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=6eceef8e42#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+vless://3ae4e550-0938-44b8-a12a-3fb736e3e6fb@journalist_info.allcaline.ir:6690?security=reality&encryption=none&pbk=QZWXGRyvifcdtbfxZ2YxNRDqkfvaUeOC0uhfCs_ITEI&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=a334d0f1d82608de#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
-vless://a2adcebe-56fb-47c1-a3c5-41d9c93dff6d@lumora24.playon.ir:2087?path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lumora24.playon.ir&fp=chrome&type=ws&allowInsecure=0&sni=lumora24.playon.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40NPV_78
+vless://Masir_Sefid@83.228.225.226:443?flow=xtls-rprx-vision-udp443&type=tcp&headerType=http&host=&path=/@Masir_Sefid-@Masir_Sefid-@Masir_Sefid-@Masir_Sefid&security=reality&fp=chrome&sni=store.steampowered.com&pbk=YqYac44A9qFfTzfnEmebzZwty08xnA6fcxX8dT-9jXk&sid=0b98876df2e3&spx=/LrV8Ot6Nt0WBvbA#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
-vless://eaee917a-3d4a-42c4-a834-7ddcd264c824@104.17.122.123:2083?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=nab.velizor.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=nab.velizor.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40NPV_78
+vless://2d4f1be8-21f5-426a-b782-5aab9311f6ab@lumora24.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora24.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora24.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-vless://ac006062-f051-43c6-bd4c-f409285c8635@188.114.97.6:443?mode=auto&path=%2Fv2raylink&security=tls&encryption=none&insecure=0&host=www.yallda.com&fp=chrome&type=xhttp&allowInsecure=0&sni=shop.yallda.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40NPV_78
-
-vless://ac006062-f051-43c6-bd4c-f409285c8635@configone.yallda.org:443?mode=auto&path=%2Fv2raylink&security=tls&encryption=none&insecure=0&host=www.yallda.com&fp=chrome&type=xhttp&allowInsecure=0&sni=shop.yallda.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40NPV_78
-
-vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=%2Fv2raylink&security=tls&encryption=none&insecure=0&host=www.yallda.com&fp=chrome&type=xhttp&allowInsecure=0&sni=shop.yallda.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40NPV_78
-
-vless://ac006062-f051-43c6-bd4c-f409285c8635@configtow.yallda.org:443?mode=auto&path=%2Fv2raylink&security=tls&encryption=none&insecure=0&host=www.yallda.com&fp=chrome&type=xhttp&allowInsecure=0&sni=shop.yallda.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40NPV_78
+vless://02eea785-ad3e-443b-b435-0198a935f705@146.59.246.219:443?security=reality&encryption=none&pbk=He-IuGOvzVGI6n-8v7jWa1yTUmTaUVcp2ElSn1YeHjU&headerType=&fp=firefox&spx=%2FeevAmhEkEuM5XzE&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=6eceef8e42#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 

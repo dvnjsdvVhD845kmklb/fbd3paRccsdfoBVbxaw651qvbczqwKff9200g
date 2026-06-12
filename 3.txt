@@ -4942,3 +4942,13 @@ vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=%2F
 
 vless://ac006062-f051-43c6-bd4c-f409285c8635@configtow.yallda.org:443?mode=auto&path=%2Fv2raylink&security=tls&encryption=none&insecure=0&host=www.yallda.com&fp=chrome&type=xhttp&allowInsecure=0&sni=shop.yallda.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40NPV_78
 
+vless://3ae4e550-0938-44b8-a12a-3fb736e3e6fb@by_info.allcaline.ir:6690?security=reality&encryption=none&pbk=QZWXGRyvifcdtbfxZ2YxNRDqkfvaUeOC0uhfCs_ITEI&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=a334d0f1d82608de#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://3ae4e550-0938-44b8-a12a-3fb736e3e6fb@journalist_info.allcaline.ir:6690?security=reality&encryption=none&pbk=QZWXGRyvifcdtbfxZ2YxNRDqkfvaUeOC0uhfCs_ITEI&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=a334d0f1d82608de#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://Masir_Sefid@83.228.225.226:443?flow=xtls-rprx-vision-udp443&type=tcp&headerType=http&host=&path=/@Masir_Sefid-@Masir_Sefid-@Masir_Sefid-@Masir_Sefid&security=reality&fp=chrome&sni=store.steampowered.com&pbk=YqYac44A9qFfTzfnEmebzZwty08xnA6fcxX8dT-9jXk&sid=0b98876df2e3&spx=/LrV8Ot6Nt0WBvbA#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://2d4f1be8-21f5-426a-b782-5aab9311f6ab@lumora24.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora24.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora24.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://02eea785-ad3e-443b-b435-0198a935f705@146.59.246.219:443?security=reality&encryption=none&pbk=He-IuGOvzVGI6n-8v7jWa1yTUmTaUVcp2ElSn1YeHjU&headerType=&fp=firefox&spx=%2FeevAmhEkEuM5XzE&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=6eceef8e42#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
