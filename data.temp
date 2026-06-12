@@ -2894,3 +2894,10 @@
 1781290534.048395|filembad|vless://5b6046bc-82fc-4b92-99c4-eda0f4df13f3@45.15.152.73:40268?security=&encryption=none&headerType=&type=tcp#%40filembad
 1781290534.048395|filembad|vless://82e3f88a-891f-46f7-991d-1138641f8245@base.hosamobenl.co.uk:2095?security=none&allowInsecure=0&encryption=none&type=xhttp&path=/xhttp&mode=stream-up#%40filembad
 1781290534.048395|filembad|vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.68:8880?security=&encryption=none&type=grpc#%40filembad
+1781290850.645601|DeamNet_proxy|trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%252fassignment#%F0%9F%87%A8%F0%9F%87%A6Canada+%E2%9A%A1@DeamNet_Proxy
+1781290850.645601|Capoit|vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?path=%2Fws&security=tls&encryption=none&host=greattehran.hozheen.ir&type=ws&sni=07e357aa7e747ca4.hOzHeEn.Ir#@Capoit
+1781290850.645601|filembad|vless://bbb9db67-9cb1-4dc6-9b92-5fef93331332@213.156.152.234:13852?security=reality&encryption=none&pbk=GoV94qiMciumXTs0_K2bYdXHPYZx6Qez_RoF-oqqCzo&headerType=http&fp=chrome&spx=%2FeeIEEdN0AKf7SiZ&type=tcp&sni=www.oracle.com&sid=6ea841a9a1bb9b8d#%40filembad
+1781290850.645601|filembad|vless://62179f84-34d6-4aae-bd79-13cc000400dd@lumora24.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora24.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora24.playon.ir&type=ws#%40filembad
+1781290850.645601|filembad|vless://d15cce83-9de9-4e37-98bc-ea5a8882f213@199.232.78.159:443?encryption=none&type=ws&security=tls&path=%2F&host=Appxdn.global.ssl.fastly.net&sni=default.ssl.fastly.net%26&fp=chrome&insecure=1&allowInsecure=1#%40filembad
+1781290850.645601|filembad|ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NnRkcHk2YnZ3djJxZjE0@31.57.157.207:1007?type=tcp&headerType=none#%40filembad
+1781290850.645601|SPARTAN_YT|vless://bbb9db67-9cb1-4dc6-9b92-5fef93331332@213.156.152.234:13852?security=reality&encryption=none&pbk=GoV94qiMciumXTs0_K2bYdXHPYZx6Qez_RoF-oqqCzo&headerType=http&fp=chrome&spx=%2FeeIEEdN0AKf7SiZ&type=tcp&sni=www.oracle.com&sid=6ea841a9a1bb9b8d#%40SPARTAN_YT
