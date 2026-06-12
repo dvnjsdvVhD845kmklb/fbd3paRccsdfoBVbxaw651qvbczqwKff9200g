@@ -4298,3 +4298,7 @@
 1781257833.151033|filembad|vless://119dbe1c-ff6c-4d14-b168-a43892c66c7e@159.69.102.5:8842?security=reality&encryption=none&pbk=vsk5Gct4zcJxWTgDqAj5wtv9dCa-Zk-uNVQHq44vFhI&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=2a7f6b8788caca70#%40filembad
 1781257833.151033|filembad|vless://119dbe1c-ff6c-4d14-b168-a43892c66c7e@116.203.6.53:8841?security=&encryption=none&host=dl.google.com&headerType=http&type=tcp#%40filembad
 1781257833.151033|filembad|vless://119dbe1c-ff6c-4d14-b168-a43892c66c7e@188.114.97.6:8443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=clientc.denizmoda.tr&fp=chrome&type=ws&sni=clientc.denizmoda.tr#%40filembad
+1781258127.072165|filembad|vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#%40filembad
+1781258127.072165|filembad|vless://79665271-4a29-4cee-e7c0-cc26e3b8286b@47.250.195.7:11381?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%40filembad
+1781258127.072165|filembad|ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaejV3Y1hpYzU4RmlxWW1Q@74.234.78.179:443?outline=1&prefix=POST%20t33adc7L#%40filembad
+1781258127.072165|filembad|trojan://SoftNetConnect@77.110.114.75:8443?mode=auto&path=%2F&security=reality&pbk=bIzRyt6-wut4bghVAF7v_12wkM1McpzZFwsPAqCtrHY&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=78851a413f5033b0#%40filembad

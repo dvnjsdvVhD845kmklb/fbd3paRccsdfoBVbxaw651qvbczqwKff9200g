@@ -5600,3 +5600,9 @@ vless://119dbe1c-ff6c-4d14-b168-a43892c66c7e@116.203.6.53:8841?security=&encrypt
 
 vless://119dbe1c-ff6c-4d14-b168-a43892c66c7e@188.114.97.6:8443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=clientc.denizmoda.tr&fp=chrome&type=ws&sni=clientc.denizmoda.tr#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://79665271-4a29-4cee-e7c0-cc26e3b8286b@47.250.195.7:11381?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaejV3Y1hpYzU4RmlxWW1Q@74.234.78.179:443?outline=1&prefix=POST%20t33adc7L#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://SoftNetConnect@77.110.114.75:8443?mode=auto&path=%2F&security=reality&pbk=bIzRyt6-wut4bghVAF7v_12wkM1McpzZFwsPAqCtrHY&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=78851a413f5033b0#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
+
