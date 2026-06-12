@@ -22,3 +22,5 @@ vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=%2F%3Fed
 
 vless://89a09074-875a-4da8-8957-9cc31d584194@lumora24.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora24.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora24.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://042db613-e55d-484d-8641-ae34e5d2bee2@188.114.97.6:80?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=KUI2.torprospeed.ir&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
