@@ -2,10 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi¬e=@FreeOnlineVPN#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
-
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.34.244.68:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
-
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBIb3BlX05ldCIsICJhZGQiOiAiMTUxLjEwMS4xMzAuMjE5IiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI2ZDg2N2RhMS04MjYwLTQ1ZDQtYjEzMC0yZTNkOTY5OGVmZjkiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAid3MvP2VkPTIwNDgiLCAiaG9zdCI6ICJEYmRqaGl3NzJlYnN1MjcyaHM1MTlqLmNvbSIsICJ0bHMiOiAidGxzIn0=
 
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@139.64.165.144:9101#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
@@ -19,4 +15,8 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@121.145.59.207:10201?security=tls&s
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.130:2053?path=%2F%40V2RayyNGvpn%2FiEqRN0mjgnUcoSwK%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=4Bf8fC80.MiRACLEshOp.pAGES.Dev&fp=randomized&type=ws&sni=4Bf8FC80.mIRaCLEsHOp.PAgeS.deV#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
 vless://9c4347f6-6c96-4358-8d11-167d6e9c2583@104.17.148.22:8880?security=none&type=ws&host=www.speedtest.net.B.lightning-6.LiVE.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D8880#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
+
+hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi¬e=@FreeOnlineVPN#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
+
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.34.244.68:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
 
