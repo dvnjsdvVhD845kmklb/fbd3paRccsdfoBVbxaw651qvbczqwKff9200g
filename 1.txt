@@ -2,8 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@45.67.215.81:443?security=tls&sni=vg.ylkszy.eu.org&type=ws&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
 trojan://auto@172.67.174.252:443?security=tls&sni=esetsecuritylicense1.vowexa5791.workers.dev&type=ws&host=esetsecuritylicense1.vowexa5791.workers.dev&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwbVkyWTBZVGhpT0MwMU5XWXhMVFJqTW1VdE9XWTBNaTA1TUdFNE1qbGxOMk5qWTJV@free.2apzhfa.xyz:31171#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
@@ -17,4 +15,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.124.186:22222?path=/telegram
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.198.88.254:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
 trojan://telegram-id-directvpn@52.19.135.77:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
+
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@45.67.215.81:443?security=tls&sni=vg.ylkszy.eu.org&type=ws&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
