@@ -2,6 +2,12 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@139.64.165.101:8090#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
+
+vless://3f2a8ac5-f359-4333-865a-7064e31c2537@monitor.tgju.org:443/?type=ws&encryption=none&host=nufilter.pages.dev&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&sni=nufilter.pages.dev&fp=randomized#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+vmess://eyJhZGQiOiAiMTA0LjE2LjYwLjgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiaGRmeTZjMS5mcmVlbGluZXMubmV0IiwgImlkIjogIjQ4MDRmMTRiLWMxZjgtNDUyZC1hNmVjLWVmZjE0OTBhZWFjOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbFJrR0NrWVM5WDVHRE5KWU1XWE43a0NtM2xMIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNU16TXhZbVU0WXkwNFlXRmlMVFEwTVdZdE9EVmpaaTFpTnpCbFlqTmtNRGRoWkdR@free.2apzhfa.xyz:31315#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
 
 vless://a51ed10f-93e1-40ae-9af1-88d916d666bb@page.irhubby.ir:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=vips.irhubby.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=vips.irhubby.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
@@ -44,9 +50,11 @@ vless://19af5f63-e318-4e58-8cdb-b3057ef31967@lumora19.playon.ir:2087?alpn=http%2
 
 vless://0b6060e7-15ae-4e34-b088-a59341223cd1@5.253.25.97:8880?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
-vless://80393d1f-4146-4e84-8dad-fe377ee02c89@saleh.velizor.ir:2020?encryption=none&fp=chrome&pbk=r_OFsG5Lkgc-64qy2AQON3UX7-EWK2fBnynIMzC2MA8&security=reality&sid=f04ca5&sni=yahoo.com&spx=%2F7JlsIGYKhaeV90T&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+vless://1717e2c9-2214-43d2-b8b5-b381b833cfdb@iconnect.spacemc.ir:28897?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.thYaM-gf4NMLgdhWubtyYv3ObhJlHoOp7sJKC3gtVEI&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
 
-vless://80393d1f-4146-4e84-8dad-fe377ee02c89@104.17.122.123:2083?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=nf.velizor.ir&mode=auto&path=%2F&security=tls&sni=nf.velizor.ir&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+vless://146eb6cf-a99c-4022-85ca-022cf81502dc@194.127.179.220:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://c07f5179-2d11-41da-8a98-798ff05be1fd@saleh.velizor.ir:6026?encryption=none&fp=chrome&pbk=NdK-N9-1R_mUcyYg3kBYdlYed3B8RoZunnkBGJxiLXk&security=reality&sid=58e91e80ffba5bad&sni=store.steampowered.com&spx=%2FG5RUKMo0uBEzlN2&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://4cc40975-1f50-491a-b746-9c518d734ca0@lumora19.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora19.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora19.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
@@ -67,10 +75,4 @@ vless://78c5381d-3283-533c-ba54-805a5cc3b4a4@104.17.147.22:2095/?type=ws&encrypt
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNU16TXhZbVU0WXkwNFlXRmlMVFEwTVdZdE9EVmpaaTFpTnpCbFlqTmtNRGRoWkdR@free.2apzhfa.xyz:31219#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
 
 vless://a2102319-f1f1-4e23-bee4-c6d1da55b6db@62.60.219.145:443?security=none&type=tcp&path=%2F#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@139.64.165.101:8090#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-vless://3f2a8ac5-f359-4333-865a-7064e31c2537@monitor.tgju.org:443/?type=ws&encryption=none&host=nufilter.pages.dev&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&sni=nufilter.pages.dev&fp=randomized#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vmess://eyJhZGQiOiAiMTA0LjE2LjYwLjgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiaGRmeTZjMS5mcmVlbGluZXMubmV0IiwgImlkIjogIjQ4MDRmMTRiLWMxZjgtNDUyZC1hNmVjLWVmZjE0OTBhZWFjOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbFJrR0NrWVM5WDVHRE5KWU1XWE43a0NtM2xMIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
 
