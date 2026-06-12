@@ -2,14 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-trojan://humanity@104.18.13.149:443?encryption=none&security=tls&sni=www.calmloud.com&fp=chrome&type=ws&host=www.calmloud.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-trojan://trojan@13.200.192.197:443?encryption=none&security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F@chinaportgfw%2B@chinaportgfw#%F0%9F%87%AE%F0%9F%87%B3%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-vless://57e090c6-99b4-4035-a284-5b24f635af00@lumora10.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora10.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora10.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-trojan://qFgh3C8Ei8@188.114.97.6:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dh.aananas.ir.&sni=dh.aananas.ir.&fp=firefox&insecure=0&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://c013c9f9-64d5-4a1e-aa46-4c280cc57a80@xco.xonline.sbs:8443?type=xhttp&encryption=none&path=%2Fcocjslfnr&host=xco.trevor.ir&mode=auto&x_padding_bytes=100-1000&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&sni=xco.trevor.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d515d6cfdfe60b02#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
@@ -1037,6 +1029,8 @@ vless://e98301e0-8848-47dc-830c-db5fdd157217@104.16.7.70:443?path=%2Fwss%3Fed%3D
 vless://0bbcbcbf-a964-4e47-b8c5-c4917708ef93@45.130.125.162:8443?mode=auto&path=%2F%3Fed&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=sh.mojaz-persian-music.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40NPV_78
 
 vless://d4eb1900-6515-494e-85c5-306bb9594f56@45.130.125.194:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vo.new-persian-song.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40NPV_78
+
+trojan://qFgh3C8Ei8@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&insecure=0&host=dh.aananas.ir.&fp=firefox&type=ws&allowInsecure=0&sni=dh.aananas.ir.#None%20WS-TLS%20%7C%20%40Free_World2
 
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNU16TXhZbVU0WXkwNFlXRmlMVFEwTVdZdE9EVmpaaTFpTnpCbFlqTmtNRGRoWkdR@free.2apzhfa.xyz:31141#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
 
@@ -3951,4 +3945,12 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&s
 vless://cb1c797b-72e1-44ef-8f93-b740775056bb@169.40.32.242:8080?security=none&allowInsecure=0&encryption=none&type=ws&host=169.40.32.242&path=/Path#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://798ee7f1-d4f9-4e8c-d9f9-70b8a6cf0797@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.daraflo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daraflo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://humanity@172.67.180.92:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+trojan://humanity@www.ignitelimit.com:443?encryption=none&security=tls&type=ws&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+trojan://humanity@172.64.152.38:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.calmlunch.com&alpn=http%2F1.1&fp=chrome&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
 
