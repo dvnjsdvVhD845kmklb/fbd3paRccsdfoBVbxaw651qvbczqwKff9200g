@@ -2,7 +2,19 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://c07f5179-2d11-41da-8a98-798ff05be1fd@saleh.velizor.ir:2020?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=r_OFsG5Lkgc-64qy2AQON3UX7-EWK2fBnynIMzC2MA8&sid=9828&spx=%2F9dR8ncfflAOSDeW&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Va3lSho
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1HUlBDLVRMUyAtIEFTLVZVTFRSIFx1MjUwNyA0NS43Ni45Mi4yNiIsImFkZCI6IjQ1Ljc2LjkyLjI2IiwicG9ydCI6MjA4NywiaWQiOiI5MmFmYzk2ZS02M2M5LTQyMGEtOWE1Yy00MTBmNTI5ZDhiMjMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwidHlwZSI6Imd1biIsImhvc3QiOiJ0dHR0dHR0dHR0dC5hbm94MDAxLm9ubGluZSIsInRscyI6InRscyIsInNuaSI6InR0dHR0dHR0dHR0LmFub3gwMDEub25saW5lIn0#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
+
+trojan://sa2nlt2d-yf5a-z0o6-k6bg-fa37iwtgg01e@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://2f9tkr38-msku-2mr2-ze3c-6z6y22itlec0@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://qg2p3erf-xirv-9pw4-dvi5-b0023k8icyrg@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6%3DVIM@172.237.145.189:443?sni=172.237.145.189&peer=172.237.145.189&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://humanity@216.24.57.1:443?sni=www.calmloud.com&peer=www.calmloud.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://humanity@104.18.12.149:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@www.speedtest.net:2052?encryption=none&type=xhttp&mode=auto&host=p1.pabloping.cloud&path=/pabloping&security=none#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40meliproxyy
 
@@ -74,39 +86,11 @@ vless://04032c7a-f743-4002-a79d-0090c35a8d5d@87.120.106.53:443?encryption=none&f
 
 vless://7e458cd5-bbde-4d36-bef2-d651fb175fa6@87.120.106.53:440?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=B2MbH583-Bo9IaPXkxHKTrDDNqRDJ-sFc23K8gG9cnM&security=reality&sid=6888c761f4&sni=www.intel.com&spx=%2FHYrm6eYq61zRWeh&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
-vless://0bbcbcbf-a964-4e47-b8c5-c4917708ef93@45.130.125.162:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F%3Fed%3D80&host=ssd.mojaz-persian-music.ir&sni=ssd.mojaz-persian-music.ir&fp=chrome#None%20WS-TLS%20%7C%20%40Free_World2
+trojan://sft74wnu-aowk-smyz-yddn-shw3mvs0gh1g@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
-vless://0bbcbcbf-a964-4e47-b8c5-c4917708ef93@45.130.125.162:8443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F%3Fed%3D80&mode=auto&sni=ssd.mojaz-persian-music.ir&fp=chrome#None%20XHTTP-TLS%20%7C%20%40Free_World2
+trojan://odxnropu-kf1e-17pd-h3tz-8iys0lp5sffk@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
-vless://0bbcbcbf-a964-4e47-b8c5-c4917708ef93@45.130.125.162:8443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F%3Fed%3D2053&mode=auto&sni=sh.mojaz-persian-music.ir&fp=chrome&alpn=h3%2Ch2#None%20XHTTP-TLS%20%7C%20%40Free_World2
+trojan://vy3x6hl8-acci-ftge-426i-heuksxtj2ucp@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
-vless://0bbcbcbf-a964-4e47-b8c5-c4917708ef93@45.130.125.162:8443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F%3Fed%3D2053&mode=auto&sni=cji.new-persian-song.ir&fp=chrome&alpn=h3%2Ch2#None%20XHTTP-TLS%20%7C%20%40Free_World2
-
-vless://0bbcbcbf-a964-4e47-b8c5-c4917708ef93@45.130.125.162:8443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F%3Fed%3D2053&mode=auto&sni=vo.new-persian-song.ir&fp=random&alpn=h2#None%20XHTTP-TLS%20%7C%20%40Free_World2
-
-vless://0bbcbcbf-a964-4e47-b8c5-c4917708ef93@45.130.125.162:8443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F%3Fed%3D2053&mode=auto&sni=vi.new-persian-song.ir&fp=chrome&alpn=h3%2Ch2#None%20XHTTP-TLS%20%7C%20%40Free_World2
-
-vless://0bbcbcbf-a964-4e47-b8c5-c4917708ef93@45.130.125.162:8443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F%3Fed%3D2053&mode=auto&sni=kl.mojaz-persian-music.ir&fp=chrome&alpn=h3%2Ch2#None%20XHTTP-TLS%20%7C%20%40Free_World2
-
-vmess://eyJhZGQiOiAiNS43NS4xNjguMTU1IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI2YjdjYmM0MS1mYjgwLTQxYTgtOGViNi1iNWJkYjBlODYxNDciLCAibmV0IjogImh0dHAiLCAicGF0aCI6ICIiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBIb3BlX05ldCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-
-vmess://eyJhZGQiOiAiMTc4LjEyOC42MS4xNDkiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogImQxODYwNTg3LWFhMzMtNGI3Ni04NWNkLWMxOTFlZGVjYjMzOCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA1MDMyOCwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1Ob25lIHwgQEhvcGVfTmV0IiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-
-vmess://eyJhZGQiOiAicmVuZGVyZXItc3RyZWFtLTEtNDExLm1pcnJhLm5vdyIsICJhaWQiOiAwLCAiaG9zdCI6ICJyZW5kZXJlci1zdHJlYW0tMS00MTEubWlycmEubm93IiwgImlkIjogImRmOWM5MzU1LWIwMmMtNGMxMi05MDlkLTBkYmViNzI1ZDUyYiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtVExTIHwgQEhvcGVfTmV0IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-
-vmess://eyJhZGQiOiAiMTk5LjI0Ny4yMy4zMSIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzEzMjc3Y2UtY2RhNi00ZDAxLWNlZGMtMWUzNjA1YTBlYjcyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8xMjc5Nj9lZD0yMDQ4IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtVExTIHwgQEhvcGVfTmV0IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-
-vmess://eyJhZGQiOiAiMzcuNDguMTAyLjk1IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICIxNDdlODkyNC00MDc5LTQxMjUtYmU1Zi0xNWIzZDA0NjJjNGQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2RnZmRyZzVHQjV0NWVyIiwgInBvcnQiOiA0MjA2NiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1Ob25lIHwgQEhvcGVfTmV0IiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-
-vmess://eyJhZGQiOiAiNDUuMTQ5LjEyLjc1IiwgImFpZCI6IDAsICJob3N0IjogIm9iZGlpLmNmZCIsICJpZCI6ICIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBIb3BlX05ldCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-
-vmess://eyJhZGQiOiAiMWFmMTMxLmZmNDhmYWRlLnNob3AiLCAiYWlkIjogMCwgImhvc3QiOiAidXMwMnMuZmY0OGZhZGUuc2hvcCIsICJpZCI6ICI1MzU5ODQwMS0zMWUxLTRjZTMtYmIyZS02YzAwYThmYzNlMDEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODAsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBIb3BlX05ldCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-
-vmess://eyJhZGQiOiAiMjAzLjMwLjE4OC4xMjAiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjQ2MTI2MThjLTI0Y2QtNDM3OS05OTI0LWNmZGYzZDYxZmE1YSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvSVlLTEQ1M00iLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1UTFMgfCBASG9wZV9OZXQiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-
-vless://df11c950-c98a-4e43-9e94-3663dc4f9c45@app.epiconline.ir:2053?path=%2Fshop&security=tls&encryption=none&insecure=0&host=login.epiconline.ir&type=ws&allowInsecure=0&sni=login.epiconline.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://d51f13b6-00c2-466f-9d68-62f15895cbd9@91.107.175.52:44728?type=tcp&encryption=none&security=reality&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&fp=random&sni=www.cloudflare.com&sid=dbb6ea0b&spx=%2F&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://ff2afcc3-942f-4de8-4dc6-9d5eef523d3b@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=cdn.daraflo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daraflo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vmess://eyJ2IjoiMiIsInBzIjoiQ1kgXHVkODNjXHVkZGU4XHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyAxNTQuOTIuOS43MCIsImFkZCI6IjE1NC45Mi45LjcwIiwicG9ydCI6NDQzLCJpZCI6ImRkNDFiNWNiLWI3MmUtNGE4Yy1jNzVhLTNlY2M5MjhkNmViMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2JsdWUiLCJ0bHMiOiJ0bHMifQ#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
 
