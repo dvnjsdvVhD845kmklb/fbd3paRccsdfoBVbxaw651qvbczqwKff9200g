@@ -2,3 +2,27 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#None%20WS-None%20%7C%20%40Free_World2
+
+vless://b1074fc7-5e9f-4331-a4dd-c46cb7cd8e1a@dubai.gmax12.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://b1074fc7-5e9f-4331-a4dd-c46cb7cd8e1a@fi.mobileemdad.top:42538?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=fi.mobileemdad.top#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://b1074fc7-5e9f-4331-a4dd-c46cb7cd8e1a@ips.list.nonpath.ir:3350?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=ios&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://b1074fc7-5e9f-4331-a4dd-c46cb7cd8e1a@ips.it.mobileemdad.top:42538?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=ips.it.mobileemdad.top#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://b1074fc7-5e9f-4331-a4dd-c46cb7cd8e1a@i.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://b1074fc7-5e9f-4331-a4dd-c46cb7cd8e1a@du.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=du.mobileemdad.top#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://b1074fc7-5e9f-4331-a4dd-c46cb7cd8e1a@finland.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://b1074fc7-5e9f-4331-a4dd-c46cb7cd8e1a@de.mobileemdad.top:42538?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=de.mobileemdad.top#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://b1074fc7-5e9f-4331-a4dd-c46cb7cd8e1a@s1.gmax12.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://b1074fc7-5e9f-4331-a4dd-c46cb7cd8e1a@am.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTNmY25qcTVhamppanY4@31.57.157.20:1005#None%20TCP-None%20%7C%20%40vaslbemonim7
+
