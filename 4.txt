@@ -26,3 +26,29 @@ vless://82a114fc-1760-4833-aacb-69887fe94f40@aa.nerdsfeed.com:2095?encryption=ml
 
 vless://7bb263c8-50d5-438a-aa63-a3bbe34b52c4@turkk.aghanami.ir:38323?security=reality&encryption=none&pbk=Zdztd0WeWuTM3PcqIwTI5RW4yJ4HM6gxT_bjwnZxjTM&headerType=none&fp=chrome&spx=%2F5rjMxtYGB4cl1IC&type=tcp&sni=dl2.soft98.ir&sid=6280#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+trojan://lkqxev85-q5bm-t0r8-dp7g-f22rzlgbbkjl@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://v7wm4que-1yhj-apuk-fsmw-vkxfc95werz0@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://w2hvjf04-lshv-n5ln-pvmn-cqkbtdww3xzf@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+vmess://eyJ2IjoiMiIsInBzIjoiWFggXHVkODNjXHVkZmYzXHVmZTBmIFx1MjUwNyBWTUVTUy1XUy1UTFMgXHUyNTA3IE5vbmUiLCJhZGQiOiJ4Y21nMTkuZHRrajAzMjguY29tIiwicG9ydCI6NDQzLCJpZCI6ImJjOTRmNzQyLTBlN2ItNGNmOC1lODk3LTYyMTRmOWJlYzhkYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6InhjbWcxOS5kdGtqMDMyOC5jb20iLCJwYXRoIjoiL3hjbWcxMjM0IiwidGxzIjoidGxzIiwic25pIjoieGNtZzE5LmR0a2owMzI4LmNvbSJ9#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
+
+vmess://eyJ2IjoiMiIsInBzIjoiWFggXHVkODNjXHVkZmYzXHVmZTBmIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyBcdTI1MDcgTm9uZSIsImFkZCI6ImlyYW4uYWl0ZWFtcGx1cy5pciIsInBvcnQiOjgwODEsImlkIjoiOGQwMDA4NzUtZGIyZS00NWE1LThlY2MtYzM3NmZkODQ3MmI3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
+
+trojan://2b9dzvvn-186o-rkxy-9ih6-59htkw2u1eqz@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://vpsbco3r-9ivw-pc4o-psj9-blb5p5000jc1@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://hal3p9wa-xjj8-maon-tw0i-1b9rahshc4p4@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://SoftNetConnect@77.110.114.75:443?sni=www.yahoo.com&peer=www.yahoo.com&security=reality#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
+
+trojan://humanity@216.24.57.6:443?sni=www.creationlong.org&peer=www.creationlong.org&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://BxceQaOe@95.40.19.84:1123?sni=t.me/ripaojiedian&peer=t.me/ripaojiedian&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+vless://7bb263c8-50d5-438a-aa63-a3bbe34b52c4@185.143.233.5:80?path=%2F&security=none&encryption=none&host=finland.ketabkhan24.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=%2F&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
