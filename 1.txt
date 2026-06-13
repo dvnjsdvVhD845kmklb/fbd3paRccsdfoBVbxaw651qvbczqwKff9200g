@@ -2,31 +2,7 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://7dd33c4f-003a-4b18-b7f1-dcbd0d48233c@xn-ger.onlinernet.ir:20018?encryption=none&security=none&type=tcp&headerType=http&host=status.play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.18:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jp.s3-cloud.org&fp=edge&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&sid=7a3f9e2b1c8d4f6a&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-hysteria2://Masir_Sefid@37.156.46.29:443?sni=api.masir-sefid-1.my&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid&mport=443%2C20000-56000#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40filembad
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096?#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388?#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@pl.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=avatars.mds.yandex.net&sid=2f49bccf11150ef2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@fi.riotvpn.eu:6443?mode=auto&path=%2F&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=xhttp&sni=avatars.mds.yandex.net&sid=844352756c1fabba#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
-
-vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@fi.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=avatars.mds.yandex.net&sid=b76dcf9e1183fe1b#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@ee.riotvpn.eu:6443?mode=auto&path=%2F&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=xhttp&sni=avatars.mds.yandex.net&sid=e67fb918ed6b9ffb#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
-
-vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@ee.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=avatars.mds.yandex.net&sid=b76dcf9e1183fe1b#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@fi.riotvpn.eu:8443?mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=grpc&serviceName=grpc-yandex&sni=avatars.mds.yandex.net&sid=844352756c1fabba#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
-
-vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@ee.riotvpn.eu:8443?mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=grpc&serviceName=grpc-yandex&sni=avatars.mds.yandex.net&sid=844352756c1fabba#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
-
-vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@auto.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=b76dcf9e1183fe1b#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
 
 vmess://eyJhZGQiOiAiMTU0Ljg1LjEuMyIsICJhaWQiOiA2NCwgImhvc3QiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcGF0aC8xNjgzNjI5MzE0OTE1IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtVExTIHwgQEhvcGVfTmV0IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
 
@@ -56,5 +32,11 @@ vless://b32f200c-3556-46a4-bc96-7bb3e6b87b39@91.107.166.66:44728?type=tcp&encryp
 
 trojan://humanity@104.16.174.121:443?security=tls&type=ws&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-vless://7dd33c4f-003a-4b18-b7f1-dcbd0d48233c@xn-usa.onlineblog.ir:20018?encryption=none&security=none&type=tcp&headerType=http&host=status.play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
+
+hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
+
+hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
+
+hy2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056/?insecure=1&sni=de.eyucdn.xyz#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
 
