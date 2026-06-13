@@ -2,7 +2,11 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
+vless://datis-vpn@fast2.datgame.ir:8443?encryption=none&type=xhttp&mode=auto&path=/?ed%3D2560&security=tls&fp=chrome&sni=web.catix.ir&alpn=h3,h2#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
 ss://YWVzLTEyOC1nY206QFYyUmF5eU5HdnBu@93.114.98.239:2087#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://0cdd12e0-69b7-4ed0-9fac-65e894d12a37@lumora30.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora30.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora30.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://8d1803b9-f9ff-4c09-a6d0-aceb98c4a019@de.srv.anti-zapret.com:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de.srv.anti-zapret.com&sid=58fbcddfaae3ade9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
@@ -57,6 +61,4 @@ vmess://eyJhZGQiOiAiMzguMTEuNjkuMzUiLCAiYWlkIjogNjQsICJob3N0IjogInd3dy41MjE0MDM0
 vmess://eyJhZGQiOiAiNDcuMjQyLjEuMTYwIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI2Y2VhNzE3Ni0xNDhkLTRmNTEtOWJmNC0zMTMxOTljODM5YmEiLCAibmV0IjogImh0dHAiLCAicGF0aCI6ICIiLCAicG9ydCI6IDM2Mjk4LCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQEhvcGVfTmV0IiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogIjQ3LjI0Mi4xLjE2MCJ9
 
 vless://177bf7ef-fcd2-4508-a6c3-d8997353dcec@128.140.2.203:20287?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://datis-vpn@fast2.datgame.ir:8443?encryption=none&type=xhttp&mode=auto&path=/?ed%3D2560&security=tls&fp=chrome&sni=web.catix.ir&alpn=h3,h2#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 

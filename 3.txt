@@ -2,28 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-trojan://humanity@104.18.9.83:443?encryption=none&security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-vless://95e118b4-4352-4218-8493-f20cc7fc467a@nl08.abvpn.ru:443?encryption=none&security=tls&fp=chrome&type=ws&path=%2Fwebsocket#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-trojan://humanity@www.multiplydose.com:443?encryption=none&security=tls&sni=www.multiplydose.com&type=ws&path=%252fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-trojan://humanity@104.16.7.70:443?encryption=none&security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2F%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-trojan://humanity@104.21.40.34:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-trojan://humanity@172.64.155.209:443?encryption=none&security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-trojan://humanity@104.16.80.73:443?encryption=none&security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-vless://d4733e5a-5850-4523-942e-f28f82ebf4a9@www.speedtest.net:443?encryption=none&security=tls&sni=party-5cn.pages.dev&fp=randomized&type=ws&host=party-5cn.pages.dev&path=%2F%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&security=none&type=ws&host=google.com&path=%2Fhttp%23telegram@v2ray_alpha%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40DeamNet_proxy
-
-vless://cb1c797b-72e1-44ef-8f93-b740775056bb@169.40.32.242:8080?security=none&allowInsecure=0&encryption=none&type=ws&host=169.40.32.242&path=/Path#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://798ee7f1-d4f9-4e8c-d9f9-70b8a6cf0797@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.daraflo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daraflo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 trojan://humanity@172.67.180.92:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
 
 trojan://humanity@www.ignitelimit.com:443?encryption=none&security=tls&type=ws&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
@@ -3961,4 +3939,6 @@ vless://177bf7ef-fcd2-4508-a6c3-d8997353dcec@128.140.2.203:20287?encryption=none
 vless://datis-vpn@fast2.datgame.ir:8443?encryption=none&type=xhttp&mode=auto&path=/?ed%3D2560&security=tls&fp=chrome&sni=web.catix.ir&alpn=h3,h2#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 ss://YWVzLTEyOC1nY206QFYyUmF5eU5HdnBu@93.114.98.239:2087#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://0cdd12e0-69b7-4ed0-9fac-65e894d12a37@lumora30.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora30.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora30.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
