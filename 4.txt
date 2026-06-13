@@ -2,23 +2,5 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://536d7bf5-a1d7-4ac6-b3da-35d88e4d88ed@104.17.148.22:8443?security=tls&sni=02.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech&type=grpc&serviceName=%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40Hope_Net
-
-vless://d2a056cd-a157-4a0c-b32b-d4eea86d3163@172.66.213.38:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vless://c5f67ba2-f20d-4d61-acb9-d107894a08db@www.speedtest.net:8443?path=%2Fwww.speedtest.net%2FVPNCSTOMIZE%3Fed%3D8443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=tel.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=tel.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vless://4e1e465f-49e7-4c19-a8a8-ab6aba81d883@104.17.148.22:2082?security=none&type=ws&host=download.ir.shad.ir.bmi.ir.www.speedtest.net.zula.com.aparat.com.spikevpn.cfd&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAiYWRkIjogIjEwNC4xNy4yNTMuMjE3IiwgInBvcnQiOiAiMjA1MiIsICJpZCI6ICJkZThhNmZkNS05YjdmLTRmNWMtOTgwMC1iM2ZmNTliYzBkNDQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImNzY0VxRmVrc2cxLnd6andrcXlhLnh5eiIsICJwYXRoIjogIi92aWRlby9vcmJIUGhrUCIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==
-
-vless://01fa7ee4-ef31-4e5f-9e4c-c998b912e1a1@ipclean.northernlight.monster:8880?path=%2Fglobalizzer&security=none&encryption=none&host=stockcitywild.northernlight.monster&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
-
-vless://d713fd08-c072-4bff-aca8-6faa522f705b@185.146.173.251:8080?security=none&type=ws&host=paydarloop.gostarservers.ir&path=%2F%3Fed%3D2048#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@51.112.89.221:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-vless://ZoRoVPN@203.202.232.11:36068?encryption=none&type=ws&path=%2FZoRoVpn&host=Play.google.com#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://3228b0ea-5421-4199-a099-f06b49602052@panel.riziro.ir:40445?security=reality&encryption=none&pbk=jVpsWb-3_iQnbkIJQOcYNdJ6udbsUovFUJKF84S30ls&headerType=none&fp=chrome&spx=%2FrszcjPVfajBcdyX&type=tcp&sni=www.speedtest.net&sid=79959769da3461#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+vless://62f84170-36b0-47a8-80dd-9d369ad83bcc@88.99.73.167:80?path=%2Fevilcu&security=none&encryption=none&host=its.realreza.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40vmess_ir
 
