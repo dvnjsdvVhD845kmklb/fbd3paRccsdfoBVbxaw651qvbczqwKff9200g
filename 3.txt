@@ -2,28 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.34.244.68:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBIb3BlX05ldCIsICJhZGQiOiAiMTUxLjEwMS4xMzAuMjE5IiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI2ZDg2N2RhMS04MjYwLTQ1ZDQtYjEzMC0yZTNkOTY5OGVmZjkiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAid3MvP2VkPTIwNDgiLCAiaG9zdCI6ICJEYmRqaGl3NzJlYnN1MjcyaHM1MTlqLmNvbSIsICJ0bHMiOiAidGxzIn0=
-
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@139.64.165.144:9101#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.124.186:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vmess://eyJhZGQiOiAiMTA0LjE2LjEyNi40MiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJob3N0IjogImpwYWZ6eWhmc2czLnlvZm5oa2ZjLnh5eiIsICJpZCI6ICIxZGJmNWM5Ni0zMWNiLTRmZDctOGY2My1iYThkMmJkYWNlMzQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZpZGVvL3U0ZUNaVHhXIiwgInBvcnQiOiAiMjA1MiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBIb3BlX05ldCJ9
-
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@121.145.59.207:10201?security=tls&sni=kg.ylks.xyz&type=ws&path=%2Fblue#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.130:2053?path=%2F%40V2RayyNGvpn%2FiEqRN0mjgnUcoSwK%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=4Bf8fC80.MiRACLEshOp.pAGES.Dev&fp=randomized&type=ws&sni=4Bf8FC80.mIRaCLEsHOp.PAgeS.deV#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vless://9c4347f6-6c96-4358-8d11-167d6e9c2583@104.17.148.22:8880?security=none&type=ws&host=www.speedtest.net.B.lightning-6.LiVE.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D8880#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40Tunder_vpn
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40Tunder_vpn
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40Tunder_vpn
-
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi¬e=@FreeOnlineVPN#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
 
 vmess://eyJhZGQiOiAiOTYuNDMuOTEuNjAiLCAiYWlkIjogNjQsICJob3N0IjogIjk2LjQzLjkxLjYwIiwgImlkIjogIjNiZmI0M2UyLTdkZmUtNDc1Ny04NmVlLTFjZTlmYjlmZDEzYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcGF0aC8zMTA5MTAyMTE5MTYiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1UTFMgfCBASG9wZV9OZXQiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
@@ -148,6 +126,8 @@ trojan://k23bzoz1zfi9ig9r@xipanel2.khashinet.ir:443?security=none&headerType=non
 
 vless://60e4027e-d9d0-46a4-8665-edc27ba5d9bb@91.107.175.52:44728?security=reality&encryption=none&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&headerType=&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=dbb6ea0b#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2HUBIR
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
+
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.76:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2HUBIR
 
 vless://060cd76b-72e1-478f-b6c9-8e6d2bdc5517@151.101.109.223:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
@@ -167,6 +147,8 @@ vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?path=%2F&security=&en
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.133:8443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2HUBIR
 
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.whatismyip.net:2095?path=%2Ffp&security=&encryption=none&host=cnmfangbinxing.cnmfangbinxing-a.workers.dev&type=ws&sni=cnmfangbinxing.cnmfangbinxing-a.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
 
 ss://YWVzLTI1Ni1nY206N051QjBZNW0zYU56a0tNS2xGb013a2lhanN1NkYzNmM5b2s0VktFWm5CND0%3D@162.19.254.232:2083#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
 
@@ -445,6 +427,8 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.3.186:2095?path=%2Ffp&securi
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&host=OV-Italy1.09vpn.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigV2rayNG
 
 vless://650dfdf6-66ff-4110-9a5b-1712754c18b1@full.digifactorydez.shop:2052?encryption=none&host=full.digifactorydez.shop&path=%2Fconnect&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40vmesskhodam
 
 vmess://eyJhZGQiOiAiMTA0LjMxLjE2LjQ2IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI4YWJlOTQ5Ni01ZTI0LTRlNDktYjU2Ni1kY2Y4NjExNjAxN2QiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2k5OUxndlNhc2xic1BMTFFRN2o2WiIsICJwb3J0IjogODAsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBIb3BlX05ldCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
 
