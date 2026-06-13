@@ -2,22 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.143:443?security=tls&sni=kg.ylks.xyz&type=ws&path=%2Fblue#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.59:443?security=tls&sni=xg.ylks.xyz&type=ws&path=%2F%3Fproxyip#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vless://cbabaac-abca-baac-dacb-acaccbabcabb@127.0.0.1:8080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAiYWRkIjogIjIzLjE1Ni4xNTIuMTA2IiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjJkOWE4MWY2LWU4NmUtNDhlNi05NjQ2LWIzYjEzMjVmOGQ2MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvc3lqc3EvZGF0YSIsICJob3N0IjogInN5anNxLnVzNC5mbHlpZGMudG9wIiwgInRscyI6ICIifQ==
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAiYWRkIjogImNmY2RuMS5zYW5mZW5jZG45LmNvbSIsICJwb3J0IjogIjIwNTIiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNkNDdjYjEwLWQ4NTEtNDg5Yi04NmNkLWZmYWY2NTllZDk0MyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdmlkZW8vV05NaWNuRGgiLCAiaG9zdCI6ICJ0dzFlc2tKcEtjQS5pbml2dHJhay54eXoiLCAidGxzIjogIiJ9
-
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvM1pHUTNNRFE1TnkxbFpESmxMVFEzTkdRdE9Ua3pPUzA1TldZM01qY3daak0wWVRJ@free.2weradf.xyz:36115#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNU16TXhZbVU0WXkwNFlXRmlMVFEwTVdZdE9EVmpaaTFpTnpCbFlqTmtNRGRoWkdR@free.2apzhfa.xyz:31671#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNU16TXhZbVU0WXkwNFlXRmlMVFEwTVdZdE9EVmpaaTFpTnpCbFlqTmtNRGRoWkdR@free.2apzhfa.xyz:31721#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
 vless://9c10d8b0-e1fb-48d5-af5d-03ad736f37bb@188.114.97.6:2086?path=%2FeyJqdW5rIjoiMENyWGlPUjVmIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiODcuMTIwLjE2Ni4xNCJdfQ&security=&encryption=none&host=snowy-fire-7369.mmdiborobav.workers.dev&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2HUBIR
 
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=&fp=edge&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2HUBIR
@@ -4233,4 +4217,10 @@ vless://adc4b902-81ee-4469-98c1-4066fe9d0da7@91.107.166.66:44728?type=tcp&encryp
 vmess://eyJhZGQiOiAid3d3LnNwZWVkdGVzdC5uZXQiLCAiaG9zdCI6ICJkbC5zdW1tZXJjYXJ0Lm5ldCIsICJpZCI6ICI5ZTdiZDE2Mi1jZTEzLTQ5MTItODk1OS0zYjMyODA1YjQ2MmUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODA4MCwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
 
 vless://7b795586-7da4-4943-a3e0-99f822b4dd02@k11.fastspeeds.ir:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=f-watashi-r-jacket-o-people-jan.saft89.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYmZhYWY0OWRmYzUyODhiZmRkMzZmZmQ4MzE5MjY4Mg@148.113.141.164:1083?#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYmZhYWY0OWRmYzUyODhiZmRkMzZmZmQ4MzE5MjY4Mg@de.vncbiz.infom.ew.usdtbama.site:1080?#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYmZhYWY0OWRmYzUyODhiZmRkMzZmZmQ4MzE5MjY4Mg@fr.bazrilornam.txt.usdtbama.site:1082?#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
