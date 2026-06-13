@@ -56,3 +56,9 @@ vless://610cf913-63e0-4a54-92bd-d8e83b37f71d@89.45.89.214:34353?mode=gun&securit
 
 vless://f70735cf-08e5-44a8-a3e5-e219c7d93601@193.33.133.189:2443?security=reality&encryption=none&pbk=Ga_FpKnw8ZXngh86KkciKc7SrKNljVat1_8fkyVWbjY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fi1.foxnezia.dev&sid=4fd3840415403f31#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2HUBIR
 
+vless://e728b6c6-3d24-424d-9958-476e5e06a2c5@87.199.195.191:443?security=reality&encryption=none&pbk=I4mX3_v_BOUAHA06CQxNEn13NgjuTmN-DWzOy1182lc&headerType=&fp=safari&spx=%2FZqHNUedEV1xLXDo&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=e17ac910754a8b61#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://e8100531-773a-48fb-b53e-9a251efb6638@chatgpt.com:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fl2.hknet.pro&type=ws&allowInsecure=0&sni=fl2.hknet.pro#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://3471b69d-78e7-4efe-852b-e72f04388511@gva2.meligolit.lol:8443?path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.U85KTpSWYXR7Wym90HWiCe1SC2OkGrMTAiLPFySZuRo&host=gva2.meligolit.lol&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
