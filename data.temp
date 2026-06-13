@@ -2812,3 +2812,6 @@
 1781327736.021317|Hope_Net|trojan://babccaa-abca-aabc-bdca-bcbbacabccaa@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 1781327736.021317|Hope_Net|vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.98.214.2:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#@Hope_Net-join-us-on-Telegram
 1781327736.021317|Hope_Net|vless://abaf193b-eeb9-4a8a-afa7-6b6385156e94@104.24.196.20:443?security=tls&sni=rsfndc6.iraniancpi.uk&type=grpc&serviceName=2sg8k6ktNBzuCJ7tOInMZQZNim&fp=chrome&alpn=h2#@Hope_Net-join-us-on-Telegram
+1781328330.149217|filembad|ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ%3D@108.181.58.239:8388#%40filembad
+1781328330.149217|filembad|vless://94498f1a-26c1-4d86-a38c-fb33e0eb1ded@188.114.97.6:443?path=%2Fcloud-vps&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=icloud-ios-chrome.yas-nowin.ir#%40filembad
+1781328330.149217|filembad|vless://550170d4-9051-418a-8ef4-22e3681cc8f7@199.232.78.159:443?security=tls&type=ws&headerType=&path=%2F&host=lsjaoijji.global.ssl.fastly.net.&sni=default.ssl.fastly.net&fp=#%40filembad

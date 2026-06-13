@@ -2,6 +2,12 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYmZhYWY0OWRmYzUyODhiZmRkMzZmZmQ4MzE5MjY4Mg@148.113.141.164:1083?#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYmZhYWY0OWRmYzUyODhiZmRkMzZmZmQ4MzE5MjY4Mg@de.vncbiz.infom.ew.usdtbama.site:1080?#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYmZhYWY0OWRmYzUyODhiZmRkMzZmZmQ4MzE5MjY4Mg@fr.bazrilornam.txt.usdtbama.site:1082?#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
 vless://8ff05d1d-b8db-5bb7-baa3-7040e1e6418a@151.101.130.219:443?security=tls&sni=speedtest.net&type=ws&host=%68%71%762%72%61%79%6e%67.Cc&path=/www.speedtest.net?ed%3D1024&fp=firefox&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvME5UTTNNREF5T1MwNVpUbGlMVFEwWmpBdFlUVTVZeTA0TW1NeFlUTTBNVEEwTkdJ@free.2apzhfa.xyz:31571#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
@@ -18,9 +24,9 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.98.214.2:22222?path=/telegram-cha
 
 vless://abaf193b-eeb9-4a8a-afa7-6b6385156e94@104.24.196.20:443?security=tls&sni=rsfndc6.iraniancpi.uk&type=grpc&serviceName=2sg8k6ktNBzuCJ7tOInMZQZNim&fp=chrome&alpn=h2#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40Hope_Net
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYmZhYWY0OWRmYzUyODhiZmRkMzZmZmQ4MzE5MjY4Mg@148.113.141.164:1083?#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ%3D@108.181.58.239:8388#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYmZhYWY0OWRmYzUyODhiZmRkMzZmZmQ4MzE5MjY4Mg@de.vncbiz.infom.ew.usdtbama.site:1080?#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+vless://94498f1a-26c1-4d86-a38c-fb33e0eb1ded@188.114.97.6:443?path=%2Fcloud-vps&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=icloud-ios-chrome.yas-nowin.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYmZhYWY0OWRmYzUyODhiZmRkMzZmZmQ4MzE5MjY4Mg@fr.bazrilornam.txt.usdtbama.site:1082?#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+vless://550170d4-9051-418a-8ef4-22e3681cc8f7@199.232.78.159:443?security=tls&type=ws&headerType=&path=%2F&host=lsjaoijji.global.ssl.fastly.net.&sni=default.ssl.fastly.net&fp=#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
