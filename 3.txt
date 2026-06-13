@@ -2,14 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBmaWxlbWJhZCIsICJhZGQiOiAiMTA0LjI1Ljc3LjI0OCIsICJwb3J0IjogNDQzLCAiaWQiOiAiODRjZmYyNjktYTQyMy00ZTZlLTgxNzktN2UxOTdjNmNkZGJmIiwgImFpZCI6IDAsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiY2YuYWNjdXJhdGVuZXR3b3JrY2hlY2tlci5pciIsICJwYXRoIjogIi9hcGkvdjIvd3MvMnIzeFNzekh2YT9lZD0yMDQ4IiwgInRscyI6ICJ0bHMiLCAic25pIjogImNmLmFjY3VyYXRlbmV0d29ya2NoZWNrZXIuaXIifQ==
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBmaWxlbWJhZCIsICJhZGQiOiAiMTA0LjE4LjE1NC45NiIsICJwb3J0IjogNDQzLCAiaWQiOiAiODRjZmYyNjktYTQyMy00ZTZlLTgxNzktN2UxOTdjNmNkZGJmIiwgImFpZCI6IDAsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiY2YuYWNjdXJhdGVuZXR3b3JrY2hlY2tlci5pciIsICJwYXRoIjogIi9hcGkvdjIvd3MvMnIzeFNzekh2YT9lZD0yMDQ4IiwgInRscyI6ICJ0bHMiLCAic25pIjogImNmLmFjY3VyYXRlbmV0d29ya2NoZWNrZXIuaXIifQ==
-
-vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?path=%2Fws&security=tls&encryption=none&host=greattehran.hozheen.ir&type=ws&sni=07e357aa7e747ca4.hOzHeEn.Ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://80393d1f-4146-4e84-8dad-fe377ee02c89@saleh.velizor.ir:2020?security=reality&encryption=none&pbk=r_OFsG5Lkgc-64qy2AQON3UX7-EWK2fBnynIMzC2MA8&headerType=none&fp=chrome&spx=%2F7JlsIGYKhaeV90T&type=tcp&sni=yahoo.com&sid=f04ca5#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
 vless://78c5381d-3283-533c-ba54-805a5cc3b4a4@104.17.147.22:2095/?type=ws&encryption=none&host=Rubika.ir.Join--ELiV2ry.com.tr1.vless.Sitespeedtest.net.&path=%2F%40ELiV2ry-%40ELiV2ry-%40ELiV2ry-%40ELiV2ry%3Fed%3D2048#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
 
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNU16TXhZbVU0WXkwNFlXRmlMVFEwTVdZdE9EVmpaaTFpTnpCbFlqTmtNRGRoWkdR@free.2apzhfa.xyz:31219#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
@@ -1755,6 +1747,8 @@ vless://5b6046bc-82fc-4b92-99c4-eda0f4df13f3@45.15.152.73:40268?security=&encryp
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.68:8880?security=&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
 
 trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%252fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?path=%2Fws&security=tls&encryption=none&host=greattehran.hozheen.ir&type=ws&sni=07e357aa7e747ca4.hOzHeEn.Ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Capoit
 
 vless://bbb9db67-9cb1-4dc6-9b92-5fef93331332@213.156.152.234:13852?security=reality&encryption=none&pbk=GoV94qiMciumXTs0_K2bYdXHPYZx6Qez_RoF-oqqCzo&headerType=http&fp=chrome&spx=%2FeeIEEdN0AKf7SiZ&type=tcp&sni=www.oracle.com&sid=6ea841a9a1bb9b8d#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
@@ -4205,4 +4199,10 @@ vless://f4428ca0-5841-4c05-8b2e-ff6a23bcfa2d@nt.rubikaweb.sbs:2080?encryption=ml
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880?encryption=none&type=grpc&mode=gun#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
 
 vless://3ba6d12a-4abe-48f2-9a07-aa4fc0f39f58@server1.tehranssh.net:443?encryption=none&security=none&type=ws&host=www.varzesh3.com&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40DeamNet_proxy
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.74:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Outline_ir
+
+vless://b6e42688-3076-47aa-9345-6ff10fe1a36b@173.245.49.22:8880?path=%2Fsync&security=none&encryption=none&host=wandering-rice-1ac4.cloudfelar.workers.dev&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://be9cf965-2f18-4722-9836-ba2ecd62c0ee@91.107.166.66:44728?type=tcp&encryption=none&security=reality&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&fp=random&sni=aws.amazon.com&sid=dbb6ea0b&spx=%2F&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
