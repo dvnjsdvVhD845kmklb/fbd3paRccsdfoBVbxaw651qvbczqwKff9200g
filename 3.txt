@@ -2,10 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-trojan://blackRay@188.114.97.6:443?path=%2FTelegram%2F%40blackRay&security=tls&alpn=http%2F1.1&insecure=0&host=mIn.cCnNx.IR&fp=chrome&type=ws&allowInsecure=0&sni=hos.ccnnx.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40proxymaann
-
-trojan://blackRay@188.114.97.6:443?path=%2FTelegram%2F%40blackRay&security=tls&alpn=http%2F1.1&insecure=0&host=mIn.cCnNx.IR&fp=chrome&type=ws&allowInsecure=0&sni=mIn.cCnNx.IR#%F0%9F%8C%90%20WS-TLS%20%7C%20%40proxymaann
-
 trojan://1taxm8l7-8x0t-en16-qo5t-qdz6wxmzo7pa@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://mjc4t3uc-6tg3-x3do-ad5s-5vv6mya5unmj@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -47,6 +43,8 @@ vless://26dd9c99-dac8-4a5d-9086-05d6af8567dd@www.speedtest.net:8443?mode=auto&pa
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 vmess://eyJhZGQiOiAiMTA0LjI0LjE4OS4zNCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiODI0YzU4YjEtNjViYS00NjgwLWE2MDktNjYzYTAwMGRiYjkyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi93c3MxMzg4OSIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBmaWxlbWJhZCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+
+trojan://blackRay@188.114.97.6:443?path=%2FTelegram%2F%40blackRay&security=tls&alpn=http%2F1.1&insecure=0&host=mIn.cCnNx.IR&fp=chrome&type=ws&allowInsecure=0&sni=hos.ccnnx.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.210:443?security=tls&sni=kp.ylks.xyz&type=ws&path=%2Fblue#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
@@ -4083,4 +4081,12 @@ vless://b7adcc2e-44bf-4804-2034-ec2fb0d0e62e@snapp.ir:2087?path=%2FBetForward&se
 vless://72a740b4-8ec4-4942-12c3-e555a4e50cc5@snapp.ir:2087?security=tls&allowInsecure=0&encryption=none&type=ws&host=cdn.daraflo.ir&path=/BetForward&sni=cdn.daraflo.ir&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748?security=none&encryption=none&host=e1roj9ul.divarcdn.com%2C%20e1roj9ul.alibaba.ir%2C%20e1roj9ul.splus.ir%2C%20e1roj9ul.cafebazaar.ir%2C%20e1roj9ul.yjc.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiMTA0LjIzMy4yMTQuMTc2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJkNGQ3MTVhNi0wYTJlLTQzMDQtZGYyZi1kNWVmZDg1YTVhNWQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIxMzU4MSIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+
+vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?security=reality&encryption=none&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.cdnjst.org&sid=a120#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748?security=&encryption=none&host=e1roj9ul.divarcdn.com%2C%20e1roj9ul.alibaba.ir%2C%20e1roj9ul.splus.ir%2C%20e1roj9ul.cafebazaar.ir%2C%20e1roj9ul.yjc.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
