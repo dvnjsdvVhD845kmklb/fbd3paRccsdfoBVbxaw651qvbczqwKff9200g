@@ -2,10 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
-vless://82f6783d-555b-424f-8d39-eb61bf1e29de@154.91.170.198:8080?security=none&encryption=none&host=gapgpt.app&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 trojan://blackRay@188.114.97.6:443?path=%2FTelegram%2F%40blackRay&security=tls&alpn=http%2F1.1&insecure=0&host=mIn.cCnNx.IR&fp=chrome&type=ws&allowInsecure=0&sni=hos.ccnnx.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40proxymaann
 
 trojan://blackRay@188.114.97.6:443?path=%2FTelegram%2F%40blackRay&security=tls&alpn=http%2F1.1&insecure=0&host=mIn.cCnNx.IR&fp=chrome&type=ws&allowInsecure=0&sni=mIn.cCnNx.IR#%F0%9F%8C%90%20WS-TLS%20%7C%20%40proxymaann
