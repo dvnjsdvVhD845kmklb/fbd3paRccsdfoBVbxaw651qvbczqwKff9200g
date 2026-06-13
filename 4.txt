@@ -4,3 +4,9 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010
 
 vless://62f84170-36b0-47a8-80dd-9d369ad83bcc@88.99.73.167:80?path=%2Fevilcu&security=none&encryption=none&host=its.realreza.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40vmess_ir
 
+trojan://humanity@104.16.174.36:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.ignitelimit.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmesc
+
+trojan://mitivpn@eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz:443?security=tls&sni=www.ssl.global.digi.my.mitivpn.xyz&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/ed%3Dmitivpn#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://999bd2f6-a001-4013-9652-ce7cab8a3ddc@87.199.195.191:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=I4mX3_v_BOUAHA06CQxNEn13NgjuTmN-DWzOy1182lc&security=reality&sid=2ed28a1e&sni=www.icloud.com&spx=%2F97taOq8bFpzhAor&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
