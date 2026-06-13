@@ -2,6 +2,24 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8091#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
+
+ss://bm9uZTphYmNjYWJhLWNhYmEtYWJhYy1iZGFjLWNjYWNjYmJhYmFiYQ==@127.0.0.1:1080#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
+
+vless://dae3d8da-ef69-4a30-bc92-803804db4d6f@www.speedtest.net:8880?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2056&security=none&encryption=none&host=www.speedtest.net.A.lightning-6.LiVE.&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
+
+trojan://telegram-id-privatevpns@13.39.240.239:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MzN4QjVTQkozRHVGcTJDY2Q0ZXBm@212.113.106.76:61992#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
+
+trojan://SoftNetConnect@185.204.169.164:8443?security=reality&pbk=5FGOl7H4K-VOCZ48lIoizknLgL3Vn5FADs8bsCXKPW4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=ca14e14437#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+trojan://SoftNetConnect@185.204.169.164:2087?mode=gun&security=reality&authority=45.151.102.87&pbk=rR5VQnDatIXiWpvI3BtfUypXGWwXAXVEjyiB0aBgK1I&fp=chrome&spx=%2F&type=grpc&sni=www.yahoo.com&sid=160b91b3#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+trojan://SoftNetConnect@185.204.169.164:443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=pzGahS_T6emOUchRxzUgeL-2CEg2cuJs0-AxYtaK-ic&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=d591#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
+
+trojan://15dde292f853ec5@ip.feywebsite.ir:8443?mode=auto&path=%2F&security=tls&alpn=h2&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=us.asukasimp.com&fp=chrome&type=xhttp&sni=us.asukasimp.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40vmess_ir
+
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40FarazV2ray
 
 vless://ca4173e8-aac1-4d59-8be8-f4881dc88683@51.254.21.65:443?security=reality&encryption=none&pbk=-yocQKQaxMZCMFI1drVJWLhXrJk7R5M252tbYTpRW2A&headerType=none&fp=chrome&spx=%2FqUkoZjxgPMYcEkc&type=tcp&sni=www.microsoft.com&sid=9242fd8c012f#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40FarazV2ray
@@ -113,14 +131,4 @@ vless://adba441d-b22e-4228-b6f7-9f7a32bf1ccf@anten.ir:80?path=%2F&security=none&
 vless://544843ba-8a4e-432e-a490-c326a8f4d51c@chatgpt.com:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=de.hknet.pro&type=ws&allowInsecure=0&sni=de.hknet.pro#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 trojan://6d9c4400-671a-11f1-ac62-1239d0255272@news.microsoft.com:443?path=%2Fhowdy&security=tls&insecure=0&host=usa.test3.net&type=ws&allowInsecure=0&sni=usa.test3.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vmess://eyJhZGQiOiAid3d3LnNwZWVkdGVzdC5uZXQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICJoMixodHRwLzEuMSIsICJmcCI6ICJyYW5kb20iLCAiaG9zdCI6ICIiLCAiaWQiOiAiYjgxMDA0NWEtOGRhYi00MjY3LWE0ZjctODQ4NjFjYjRlZDI3IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInhodHRwIiwgInBhdGgiOiAiL3BocC9hZG1pbi9sb2cvQHYyYm94X3YyL0B2MmJveF92Mi9AdjJib3hfdjIvQHYyYm94X3YyP2VkPTIwNDgiLCAicG9ydCI6ICI4NDQzIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBYSFRUUC1UTFMgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogImdFcnRPdzEubE9vbE9vbE9vbE9vLmNPTSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJ2IjogIjIifQ==
-
-vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@188.114.97.6:2096?path=%2Fws%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=greattehran.hozheen.ir&fp=ios&type=ws&allowInsecure=0&sni=f53d749fda28cb85.hozheen.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://0a9d9b4f-38f8-4343-947c-d16ce65b25c5@188.114.97.6:80?mode=auto&path=%2F&security=none&encryption=none&host=KUI.fastspeeds.ir&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
-
-trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmesc
-
-trojan://15dde292f853ec5@ip.feywebsite.ir:8443?mode=auto&path=%2F&security=tls&alpn=h2&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=us.asukasimp.com&fp=chrome&type=xhttp&sni=us.asukasimp.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40vmess_ir
 
