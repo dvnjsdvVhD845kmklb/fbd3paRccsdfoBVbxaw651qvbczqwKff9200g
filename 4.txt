@@ -38,3 +38,11 @@ vless://76e90bfa-4851-438d-8a58-04b84a264039@xco.xonline.sbs:8443?mode=auto&path
 
 trojan://x5cDfADabj@45.130.125.75:443?path=%2F%3Fed%3D2048&security=tls&insecure=0&host=a.aananas.ir&fp=chrome&type=ws&allowInsecure=0&sni=a.aananas.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://d39664df-5bc0-4f49-9894-8f03b4150082@netherland.soft26.ir:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&spx=%2Fil4uDVFQ4uJ9mPb&type=xhttp&sni=www.yahoo.com&sid=6f3192#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
+
+vless://cb1c797b-72e1-44ef-8f93-b740775056bb@169.40.32.242:8080?path=%2FPath&security=&encryption=none&host=169.40.32.242&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+ss://YWVzLTI1Ni1nY206d2MvZXFSUHJZam54ZkFKMkpLbmlvN2NHMktvOUs5RGlNd3pvblJqVTNMST0@103.130.147.40:1122?#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://humanity@89.116.46.68:443?security=tls&sni=www.calmloud.com&insecure=0&allowInsecure=0&type=ws&host=www.calmloud.com&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
