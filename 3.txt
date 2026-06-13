@@ -2,14 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-trojan://humanity@172.67.180.92:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-trojan://humanity@www.ignitelimit.com:443?encryption=none&security=tls&type=ws&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-trojan://humanity@172.64.152.38:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.calmlunch.com&alpn=http%2F1.1&fp=chrome&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
-
 trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
 
 trojan://humanity@104.18.7.147:443?encryption=none&security=tls&sni=www.creationlong.org&fp=chrome&type=ws&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
@@ -3941,4 +3933,10 @@ vless://datis-vpn@fast2.datgame.ir:8443?encryption=none&type=xhttp&mode=auto&pat
 ss://YWVzLTEyOC1nY206QFYyUmF5eU5HdnBu@93.114.98.239:2087#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://0cdd12e0-69b7-4ed0-9fac-65e894d12a37@lumora30.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora30.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora30.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca30.mysilipdir.com:8880?encryption=none&type=grpc&mode=gun#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
+
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.30:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=1&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=1&sni=octopusss4.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=%2Fhttp&security=&encryption=none&host=de.vpnbase.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
