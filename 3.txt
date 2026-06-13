@@ -2,32 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-trojan://a1e12464-9208-4583-bd21-ab6889fdd242@45.33.57.17:443?allowInsecure=1&sni=cdn.qchwnd.moe#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.78:443?security=tls&sni=BPFAv2.PAgES.DEV&type=ws&host=bPfaV2.PAgeS.DEv&path=%2FPHgb0hvZsjBDxZTq%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQEhvcGVfTmV0IiwgImFkZCI6ICJoZy5jeWNmbHkueHl6IiwgInBvcnQiOiAiNTM1MjUiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjljN2RhZWExLWVmNGItNDAzZC04Y2I5LWNlZWQ3ZDUyNmJiYSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogImhnLmN5Y2ZseS54eXoiLCAidGxzIjogIiJ9
-
-vless://07aa30ea-6170-494d-8ae2-80a5e18b37f0@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc44.lebasnoo.ir.&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBIb3BlX05ldCIsICJhZGQiOiAiMTcyLjY3LjE2Ny4xMjAiLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogImY1ZTc0ZTY2LTAyNDEtNDQ3Yy04M2E0LWE0MDA1ZjQzODUzNiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcmF5IiwgImhvc3QiOiAibTQudjJyYXlmcmVlMS54eXoiLCAidGxzIjogInRscyJ9
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAiYWRkIjogIjEwNC4xOS40NS4yNDYiLCAicG9ydCI6ICIyMDk1IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI3YTczN2Y0MS1iNzkyLTQyNjAtOTRmZi0zZDg2NGRhNjdiODAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIm9uZWEuZmxoYS5ydSIsICJ0bHMiOiAiIn0=
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAiYWRkIjogIjEwNC4xOS40NS4xMTciLCAicG9ydCI6ICIyMDk1IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI3YTczN2Y0MS1iNzkyLTQyNjAtOTRmZi0zZDg2NGRhNjdiODAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIm9uZWEuZmxoYS5ydSIsICJ0bHMiOiAiIn0=
-
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.60.8:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=edtunnel-csc.pages.dev&type=ws&sni=edtunnel-csc.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vless://e42eb18a-6620-49b2-a578-820da4adcee8@104.16.79.228:2096?encryption=none&security=tls&sni=cD.rXtEaMoNbToP.qZz.iO&alpn=http%2F1.1&fp=chrome&type=ws&host=cd.rxteamonbtop.qzz.io&path=%2FeyJqdW5rIjoia09KQkRyT1VnUDVHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://e42eb18a-6620-49b2-a578-820da4adcee8@104.19.31.121:2096?encryption=none&security=tls&sni=cD.rXtEaMoNbToP.qZz.iO&alpn=http%2F1.1&fp=chrome&type=ws&host=cd.rxteamonbtop.qzz.io&path=%2FeyJqdW5rIjoia09KQkRyT1VnUDVHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://e42eb18a-6620-49b2-a578-820da4adcee8@104.24.233.31:2096?encryption=none&security=tls&sni=cD.rXtEaMoNbToP.qZz.iO&alpn=http%2F1.1&fp=chrome&type=ws&host=cd.rxteamonbtop.qzz.io&path=%2FeyJqdW5rIjoia09KQkRyT1VnUDVHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://e42eb18a-6620-49b2-a578-820da4adcee8@104.24.7.239:443?encryption=none&security=tls&sni=ShoP.cAfEbAzAr.qZz.iO&alpn=http%2F1.1&fp=chrome&type=ws&host=shop.cafebazar.qzz.io&path=%2FeyJqdW5rIjoibVFQM2VXMTZaOVQiLCJwcm90b2NvSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://09c56865-b633-471b-93a3-99415886eaa7@lumora24.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora24.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora24.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca37.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#None%20GRPC-None%20%7C%20%40Free_World2
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#None%20GRPC-None%20%7C%20%40Free_World2
@@ -4225,4 +4199,12 @@ trojan://BxceQaOe@95.40.19.84:1123?sni=t.me/ripaojiedian&peer=t.me/ripaojiedian&
 vless://7bb263c8-50d5-438a-aa63-a3bbe34b52c4@185.143.233.5:80?path=%2F&security=none&encryption=none&host=finland.ketabkhan24.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=%2F&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://71508fc3-6c66-4ce0-b62c-0cf26b3a4138@91.107.166.66:44728?type=tcp&encryption=none&security=reality&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&fp=random&sni=aws.amazon.com&sid=dbb6ea0b&spx=%2F&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://af6904c1-4349-4448-8e99-0024824a0c33@sgxi.959555.xyz:10000?security=reality&encryption=none&pbk=xELgry1aUBwZLDAAvyiBkLTXsIi1M-mKhuqvwiP6FxU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=3b0b73e5#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca30.mysilipdir.com:8880?mode=gun&security=none&encryption=none&type=grpc&sni=sca30.mysilipdir.com#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
 
