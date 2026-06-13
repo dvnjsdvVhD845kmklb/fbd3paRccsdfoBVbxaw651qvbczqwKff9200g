@@ -2,15 +2,7 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://e3b31837-faaa-4dfc-907b-06232f36ec4b@delber.deliber.xyz:2902?path=%2Fa8f3k2ws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=delber.deliber.xyz&fp=chrome&type=ws&sni=delber.deliber.xyz#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://e7c9c831-b26f-4b73-ba2b-9f372eaed956@local.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
-vless://16ccf445-152f-40b7-b712-84d920b7bc7e@olds-1.lubbs.de:2086?path=%2F&security=none&encryption=none&host=beh2.salonemojallal.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
-
-trojan://mitivpn@188.114.97.6:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http/1.1&host=eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz&fp=chrome&allowinsecure=0&type=ws&sni=www.ssl.global.digi.my.mitivpn.xyz#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vmess://eyJhZGQiOiAic2F2dy5kYXB1dncuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInNhdncuZGFwdXZ3LmNvbSIsICJpZCI6ICJiNmJiZGJhYi03ZmVhLTQ0YmItYWM0NS03YjVlMDAxNTI2NmUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1UTFMgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogInNhdncuZGFwdXZ3LmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
-
-vless://46d71764-e77f-469b-b6f7-83ec086d46cc@sv3.azparadox.ir:8880?path=%2F&security=none&encryption=none&host=azsv3.ir5ive.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://870d3183-17a1-4a87-9021-e12e3ac2939f@tr.go-vpn.club:443?security=reality&encryption=none&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&host=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=ed7b9bdfedb9b8e5#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40NormanV2ray
+vless://7b70d330-6d32-45a8-b15f-44deebc9f195@169.40.32.242:8080?path=%2FPath&security=&encryption=none&host=169.40.32.242&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
