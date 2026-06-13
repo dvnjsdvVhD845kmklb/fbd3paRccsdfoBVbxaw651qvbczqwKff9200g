@@ -2,12 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://7be2c804-9681-4b3f-8043-be22a816686d@digitalocean.com:443?path=%2Fproxyip%3D38.180.78.255&security=tls&encryption=none&host=holy-credit-6c50.gorgalibombom.workers.dev&fp=chrome&type=ws&sni=holy-credit-6c50.gorgalibombom.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://e30ba9e9-afc6-4236-803f-7b4ca30ce44b@193.22.229.138:80?encryption=none&host=pimxpass.alex96336997.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.170:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.175:2087?allowInsecure=1&encryption=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=%2F&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://ac25a33c-a88d-514f-b37b-7e57d4f268c0@195.54.161.222:2052?encryption=none&path=%2Fvless&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -30,6 +24,12 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.163:8443?allowInsecure=1
 
 vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?alpn=http%2F1.1&encryption=none&security=tls&sni=cdg-1.fromblancwithlove.com&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
+vless://21c25bef-eb3b-44a8-9b26-fa7f674e5bfc@51.195.116.82:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=RWE5ORdQ2SzuFWX8DlaRP415wbhee9ynJkqC7yFPgQw&security=reality&sid=d13ddfca12760d03&sni=speedtest.net&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@45.195.137.5:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=40ce08cf20c67003&sni=storage.yandex.net&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://7706376d-4af2-410a-be3b-eac10b17a67a@199.232.78.159:80?mode=auto&path=%2Fxhttp&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%220%22%7D&host=simorghbot.global.ssl.fastly.net&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
 vmess://eyJhZGQiOiAiMS42NS4yMDkuMjEzIiwgImFpZCI6IDIsICJob3N0IjogImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwgImlkIjogImIyYzYzODRjLWY2M2QtMTFlYy1iMWIzLWYyM2M5MWNmYmJjOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4MDgwLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
 
 vmess://eyJhZGQiOiAiYWMyMDg4Lmhlcm9rdWFwcC5jb20iLCAiYWlkIjogMCwgImhvc3QiOiAiYWMyMDg4Lmhlcm9rdWFwcC5jb20iLCAiaWQiOiAiZDFiYWJlMDgtZjhhYy00OTBiLWI2NmYtOWJlMjc0NjdmM2NjIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kMWJhYmUwOC1mOGFjLTQ5MGItYjY2Zi05YmUyNzQ2N2YzY2Mtdm1lc3MiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1UTFMgfCBASG9wZV9OZXQiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
@@ -47,4 +47,10 @@ vless://FrjxoMII5YnJhxjddykNn4xbE55CdWAMZ1va21jKSBdtYZKDoXVr8QrxsJx5Sh0xRRwkfLZb
 vless://i0UuwnFQI155eMWE2lV/8g63zMFbHsZHvelyoSnW43tcT2N7RBr+E6vHNZpiS5FcPG80Zw6Y/AajbQ25uzK/rj1nMWIsB4fDSJL7KQrnsAaglEeYnx6QICzMMEXUDwCGUDvawzWD67vIfQLb+ngoLb7hKz4KGKaAqasQGq1HWg8WTAZOY0a8LX+fqB/XSu9Uw5MZ/dpE/T0lmT7ZCRrRm8muRiGFz…#None%20TCP-None%20%7C%20%40V2rayNG_SPDNet
 
 vless://8d1803b9-f9ff-4c09-a6d0-aceb98c4a019@de.srv.anti-zapret.com:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=de.srv.anti-zapret.com&sid=58fbcddfaae3ade9&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://7be2c804-9681-4b3f-8043-be22a816686d@digitalocean.com:443?path=%2Fproxyip%3D38.180.78.255&security=tls&encryption=none&host=holy-credit-6c50.gorgalibombom.workers.dev&fp=chrome&type=ws&sni=holy-credit-6c50.gorgalibombom.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://e30ba9e9-afc6-4236-803f-7b4ca30ce44b@193.22.229.138:80?encryption=none&host=pimxpass.alex96336997.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.170:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
