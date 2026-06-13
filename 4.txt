@@ -32,3 +32,5 @@ trojan://humanity@188.114.97.6:443?security=tls&sni=www.creationlong.org&insecur
 
 vless://2d998f70-fa42-40c8-8bc3-e5a224c16afd@fhejcbejfjfejfjdijfdj.fars-daxter.ir:80?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.130:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=ams1.fromblancwithlove.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
