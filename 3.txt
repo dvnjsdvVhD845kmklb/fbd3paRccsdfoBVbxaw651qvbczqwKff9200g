@@ -2,68 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.calmloud.com&fp=ios&type=ws&host=www.calmloud.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-vless://b195bde5-cd18-4962-b494-4b046a67eaae@104.17.147.22:8880?security=none&type=ws&host=www.speedtest.net.B.lightning-6.LiVE.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D8880#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
-
-trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=6b777a91&host=jobscareerforstudent.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vless://bbaacac-abca-baca-adbc-abacbaccbabc@127.0.0.1:8080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
-
-ss://bm9uZTphY2FjYWJiLWJjYWEtYmNhYS1hZGNiLWJiYWJjYWFjYmFjYw==@127.0.0.1:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-vless://caabcba-caab-abac-cdba-babccacbaacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
-
-vmess://eyJhZGQiOiAic3BlZWR0ZXN0Lm5ldCIsICJhaWQiOiAiMCIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgImZwIjogImZpcmVmb3giLCAiaG9zdCI6ICJEYmRqaGl3NzJlYnN1MjcyaHM1MTlqLmNvbSIsICJpZCI6ICI0ZDZlZWQ0My01ZmJhLTRkZmItYWQ2Zi0xMzBkNDM2NzQwM2MiLCAibmV0IjogIndzIiwgInBhdGgiOiAid3MvP2VkPTIwNDgiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBIb3BlX05ldCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAic3BlZWR0ZXN0Lm5ldCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.37.151:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpreXdOS0xPbEFha21nUnhhOXhxdkhV@141.98.169.248:25757#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-vless://b202d27a-6310-4c11-9de3-0af66e675c04@tivoli4.arvhamrah.ir:2095?security=none&type=ws&headerType=&path=%2FTV&host=tivoli4.arvhamrah.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://b202d27a-6310-4c11-9de3-0af66e675c04@tivoli6.arvhamrah.ir:2095?security=none&type=ws&headerType=&path=%2FTV&host=tivoli6.arvhamrah.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://b202d27a-6310-4c11-9de3-0af66e675c04@tivoli5.arvhamrah.ir:2095?security=none&type=ws&headerType=&path=%2FTV&host=tivoli5.arvhamrah.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&fp=chrome&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://7e78692a-2c4c-4be4-bfe6-95526c4197c1@188.114.97.6:443?path=%2Famin&security=tls&encryption=none&insecure=0&host=dmx.ferrarikingfr.ir&fp=firefox&type=ws&allowInsecure=0&sni=dmx.ferrarikingfr.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://22cf9e1d-81bd-4340-ad54-b567b417d89c@104.16.118.137:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=Dnlu2.iranucshop.ir&sni=Dnlu2.iranucshop.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://22cf9e1d-81bd-4340-ad54-b567b417d89c@104.19.173.68:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=IGVsgsg.downloadgameiran.ir&sni=IGVsgsg.downloadgameiran.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://22cf9e1d-81bd-4340-ad54-b567b417d89c@104.20.7.182:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=Rabir.downloadgameiran.ir&sni=Rabir.downloadgameiran.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://22cf9e1d-81bd-4340-ad54-b567b417d89c@188.114.97.6:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=Dnlu2.iraniranshopdashnoard.ir&mode=auto&sni=Dnlu2.iraniranshopdashnoard.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://22cf9e1d-81bd-4340-ad54-b567b417d89c@188.114.97.6:2083?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=Arm2.downloadgameiran.ir&sni=Arm2.downloadgameiran.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://22cf9e1d-81bd-4340-ad54-b567b417d89c@188.114.97.6:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=Dnlu2.downloadgameiran.ir&mode=auto&sni=Dnlu2.downloadgameiran.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://22cf9e1d-81bd-4340-ad54-b567b417d89c@89.167.80.120:8080?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://22cf9e1d-81bd-4340-ad54-b567b417d89c@188.114.97.6:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=IGVsgsg.cdnpros.ir&mode=auto&sni=IGVsgsg.cdnpros.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://22cf9e1d-81bd-4340-ad54-b567b417d89c@151.101.109.223:443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=DEYXX.global.ssl.fastly.net&mode=auto&sni=biography.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://22cf9e1d-81bd-4340-ad54-b567b417d89c@91.107.175.28:8443?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://22cf9e1d-81bd-4340-ad54-b567b417d89c@151.101.109.223:443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=dnlu2.global.ssl.fastly.net&mode=auto&sni=biography.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://22cf9e1d-81bd-4340-ad54-b567b417d89c@151.101.109.223:443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=sdffgh.global.ssl.fastly.net&mode=auto&sni=biography.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://22cf9e1d-81bd-4340-ad54-b567b417d89c@193.176.240.129:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=SG11.artarona.ir&sni=SG11.artarona.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://22cf9e1d-81bd-4340-ad54-b567b417d89c@151.101.109.223:443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=FINIM.global.ssl.fastly.net&mode=auto&sni=biography.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://22cf9e1d-81bd-4340-ad54-b567b417d89c@193.176.240.129:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=SG9.artarona.ir&sni=SG9.artarona.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://22cf9e1d-81bd-4340-ad54-b567b417d89c@193.176.240.129:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=SG12.artarona.ir&sni=SG12.artarona.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://22cf9e1d-81bd-4340-ad54-b567b417d89c@193.176.240.129:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=SG10.artarona.ir&sni=SG10.artarona.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 trojan://humanity@104.16.7.70:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
 
 trojan://humanity@104.18.1.55:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
@@ -1035,6 +973,8 @@ vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@45.85.119.122:2096?path=%2Fws%3Fed&
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.27.66.214:443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
 
 vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@172.67.74.10:443?path=%2FGoorBah&security=tls&encryption=none&insecure=0&host=baguette.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=baguette.adaspoloandco.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
+
+vless://7e78692a-2c4c-4be4-bfe6-95526c4197c1@188.114.97.6:443?path=%2Famin&security=tls&encryption=none&insecure=0&host=dmx.ferrarikingfr.ir&fp=firefox&type=ws&allowInsecure=0&sni=dmx.ferrarikingfr.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40FreakConfig
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPWGhOeGlqQXZ5S0prbEM4@20.87.212.8:443#%F0%9F%87%BF%F0%9F%87%A6%20TCP-None%20%7C%20%40FreakConfig
 
@@ -4015,4 +3955,22 @@ vless://8d1803b9-f9ff-4c09-a6d0-aceb98c4a019@de.srv.anti-zapret.com:443?security
 vless://f64177db-ac19-4cbf-76d9-296f740331df@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://536d7bf5-a1d7-4ac6-b3da-35d88e4d88ed@104.17.147.22:8443?security=tls&sni=02.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech&type=grpc&serviceName=%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40Hope_Net
+
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.89:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=hf.ylks.xyz#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+vless://349ece52-713d-4955-b8c7-5874b4906235@151.101.194.219:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v14.com#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
+
+vless://8ed3a3a9-9440-4e15-bf8e-06f06fb2c365@paydars.gostarservers.ir:8443/?type=grpc&serviceName=&authority=&security=tls&fp=edge&alpn=h2%2Chttp%2F1.1%2Ch3&sni=paydar.gostarservers.ir#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40Hope_Net
+
+vless://2f334b88-470a-48c7-a620-8d73bc539005@speedtest.net:443?path=%2F%40melov2ray%2Fws%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=melofin.ir&fp=firefox&type=ws&sni=speedtest.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.198:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=xf.ylks.xyz#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748?security=none&allowInsecure=0&encryption=none&type=tcp&host=e1roj9ul.divarcdn.com,%20e1roj9ul.alibaba.ir,%20e1roj9ul.splus.ir,%20e1roj9ul.cafebazaar.ir,%20e1roj9ul.yjc.ir&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://a06c22c0-527c-4cb1-9051-b64971c4a06a@104.21.68.9:2096?path=%2FeyJqdW5rIjoicXQxME5lZHVzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIl19%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=divine-leaf-28e3.amydrdam453.workers.dev&fp=chrome&type=ws&sni=DIVINE-LeAF-28E3.AMYdrdAm453.woRKERS.deV#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
