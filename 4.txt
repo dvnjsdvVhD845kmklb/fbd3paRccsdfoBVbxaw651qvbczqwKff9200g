@@ -2,17 +2,13 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://f8683277-cdc3-4bc1-9593-eb8f40b81b2c@185.143.232.4:80?path=%2FdfaahgSDGDS&security=none&encryption=none&host=eco.44070.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+vless://6e0a18d3-2598-4a73-9a41-1030b165e447@inkie.mmrknight.app:80?path=%2F&security=&encryption=none&host=play.google.com&type=httpupgrade#None%20HTTPUpgrade-None%20%7C%20%40Free_World2
 
-vless://f8683277-cdc3-4bc1-9593-eb8f40b81b2c@185.143.232.2:80?path=%2FdfaahgSDGDS&security=none&encryption=none&host=eco.44070.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+vless://647fe1b7-2fac-405c-a0b8-b7c405be5a9e@lumora29.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora29.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora29.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-vless://1a1b7f65-6507-4c2a-ad05-7199c5002093@84.32.100.252:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=decher10.potatosubge20.org#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+vless://8e6caa9b-d304-49a0-84b7-ecd4a96cc02c@turkk.aghanami.ir:38323?encryption=none&fp=chrome&pbk=Zdztd0WeWuTM3PcqIwTI5RW4yJ4HM6gxT_bjwnZxjTM&security=reality&sid=10da07d45a084237&sni=dl2.soft98.ir&spx=%2FXH1OiXzDFwMF7Im&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
-vless://1a1b7f65-6507-4c2a-ad05-7199c5002093@84.32.102.248:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nlcher20.potatosubge20.org#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+vless://76f199d2-9b21-421c-ba66-88367e94e981@turkk.aghanami.ir:38323?encryption=none&fp=chrome&pbk=Zdztd0WeWuTM3PcqIwTI5RW4yJ4HM6gxT_bjwnZxjTM&security=reality&sid=1a6c8e2a&sni=dl2.soft98.ir&spx=%2F14ci2Z09xOnGG7p&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
-vless://1a1b7f65-6507-4c2a-ad05-7199c5002093@84.32.209.102:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ltcher25.potatosubge20.org#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
-trojan://SoftNetConnect@194.5.192.89:2087?type=grpc&security=reality&authority=45.151.102.87&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=rR5VQnDatIXiWpvI3BtfUypXGWwXAXVEjyiB0aBgK1I&sid=160b91b3&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40Tweety_Proxy
-
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.8:443?encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40GiveVPN
+vless://ec58d57e-45b4-4b52-bb0d-3023c58c32d2@turkk.aghanami.ir:38323?encryption=none&fp=chrome&pbk=Zdztd0WeWuTM3PcqIwTI5RW4yJ4HM6gxT_bjwnZxjTM&security=reality&sid=32&sni=dl2.soft98.ir&spx=%2FmqMmcW7iGyZXuID&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
