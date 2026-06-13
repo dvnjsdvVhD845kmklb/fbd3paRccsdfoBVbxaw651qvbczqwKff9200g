@@ -4180,3 +4180,5 @@ vless://032db964-dcc7-4017-9e36-052123e6f298@online.4zkaban.xyz:80?host=23.ok-co
 
 vmess://eyJhZGQiOiAiMTE2LjIwMy4xODguMTk4IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImludGVybmV0LmxpZmUuY29tLmJ5IiwgImlkIjogIjkwZTk2OGY1LTU4YTUtNDJjZS1hMmRlLWM4MTg5NDA1NDU2MyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjIwODMiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=
 
+hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi¬e=@FreeOnlineVPN#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
+
