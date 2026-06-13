@@ -10,3 +10,5 @@ vless://ca00bae6-0738-4050-804b-7441137ba56b@91.107.166.66:44728?security=realit
 
 vless://b56b586e-8a99-46ec-b6c9-6e62d79d1f36@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://98731bd6-07ae-4fd0-b05c-26253eea43db@45.85.119.181:2053?mode=auto&security=tls&encryption=none&insecure=0&host=FREEchanell1.mobilezahra.com.&type=xhttp&allowInsecure=0&sni=FREEchanell1.mobilezahra.com.#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
