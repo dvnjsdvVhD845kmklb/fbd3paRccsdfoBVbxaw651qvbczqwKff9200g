@@ -2,18 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://a9bd0c66-adf9-4627-9034-dbbab9ed223d@alman.vipphoneshop.ir:2053?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=Alman.vipphoneshop.ir&path=%2Fws&security=tls&sni=Alman.vipphoneshop.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
-
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UzNhbDNKc1NvcklqM1JIeUNaYlVKSnhLREpCRlFPZUN1WDBWcUE3blkvYz06RytNQ0JvREZRYmFJL2pvQVpWN1lsYmxMa0RXS0VYUldTclkreXRobmZhUT0%3D@2.189.86.142:1380#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://dcb2544a-b257-4267-9200-4b522f0001e6@snapp.ir:80?path=%2F&security=&encryption=none&host=worldt.wawariweb.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
-
-vless://cab31dd7-340d-481b-920a-11b1b3ea8eb4@167.233.109.213:19741?path=%2F&security=none&encryption=none&host=167.233.109.213&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=ea10cd5686751ec5#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
-
 trojan://humanity@www.calmlunch.com:443?encryption=none&security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.198.170.186:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
@@ -4189,4 +4177,10 @@ trojan://telegram-id-privatevpns@18.193.28.136:22222?security=tls&alpn=http/1.1&
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=%2F&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=Sky2.bbv2ry.pics#%F0%9F%8C%90%20WS-TLS%20%7C%20%40manVPN
 
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.151:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
+vless://98731bd6-07ae-4fd0-b05c-26253eea43db@45.85.119.181:2053?encryption=none&type=xhttp&mode=auto&host=FREEchanell1.mobilezahra.com.&security=tls&sni=FREEchanell1.mobilezahra.com.#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://59ed35e5-2e82-4352-bd9e-ac09a63486dd@116.202.96.72:10456?encryption=none&type=ws&host=zoomgov.vipren.biz.id&path=/193.123.81.105%3D443&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://2fd00bd4-d4df-46b6-91c4-abd57ab976cf@188.114.97.6:8443?path=%2Fapi%2Fv3&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=h2cbr1000.bicycleandmotorsg2.shop#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
