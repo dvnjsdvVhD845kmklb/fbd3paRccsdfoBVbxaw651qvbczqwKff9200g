@@ -2,12 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://3e529ddb-d1f2-4d59-9c6f-19496d960827@104.252.19.86:443?encryption=none&security=tls&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
-vless://NanoSecurity@www.speedtest.net:2052?encryption=none&host=dl.summercart.net&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-trojan://humanity@43.169.18.179:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@212.183.88.2:443?security=tls&sni=vg.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.1:443?security=tls&sni=jg.ylks01.eu.org&type=ws&path=%2Fblue#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
@@ -4187,4 +4181,8 @@ vless://db3a2d56-0829-4a14-a298-33ad8a20cb9f@181.214.208.17:80?sni=ftp.debian.or
 vless://8ea0665e-dee3-418c-8822-1f70f350f2db@nid.pink-perfect.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=86b80f1e713a33ad#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://3b7950ed-e076-4a51-8df2-222a88689700@ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d037f6f67cc90016#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://7b795586-7da4-4943-a3e0-99f822b4dd02@k11.fastspeeds.ir:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=f-watashi-r-jacket-o-people-jan.saft89.ir&type=ws&allowInsecure=0&sni=f-watashi-r-jacket-o-people-jan.saft89.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://12b3b301-7e85-482d-bf2f-632e465bc840@91.107.166.66:44728?type=tcp&encryption=none&security=reality&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&fp=random&sni=aws.amazon.com&sid=dbb6ea0b&spx=%2F&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
