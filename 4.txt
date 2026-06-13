@@ -16,3 +16,7 @@ vless://09fa44da-263f-4985-a610-0a06dc771a14@45.130.125.221:2096?path=%2Fws%3Fed
 
 vless://09fa44da-263f-4985-a610-0a06dc771a14@103.160.204.239:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=8c06b441e4533bad.hozheen.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://999bd2f6-a001-4013-9652-ce7cab8a3ddc@87.199.195.191:443?security=reality&encryption=none&pbk=I4mX3_v_BOUAHA06CQxNEn13NgjuTmN-DWzOy1182lc&headerType=none&fp=safari&spx=%2F97taOq8bFpzhAor&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=2ed28a1e#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigV2rayNG
+
+vless://a8b4ff5c-faa1-4de0-c66-f2c5f97cda31@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
