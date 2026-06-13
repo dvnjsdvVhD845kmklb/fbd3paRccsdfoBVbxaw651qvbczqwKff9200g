@@ -10,3 +10,9 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?security=tls&e
 
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=r1.mizulina.top#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
+vless://64c03b7a-f3f3-4d78-bc82-a233ced89cea@divar.ir.shakhle.ir:25000?mode=multi&security=reality&encryption=none&pbk=D9EktvCfJb5l8mBkJHx3U31BIUwIBHJKV85OzyNnDlU&fp=chrome&spx=%2F&type=grpc&serviceName=shakhle&sni=www.yahoo.com&sid=6ba85179e30d4fc3#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://2f5912a2-24fd-45b1-832e-5c6e37662c65@lumora24.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora24.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora24.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://826571c1-8d45-4a69-bbca-56cfcb5c94a5@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
