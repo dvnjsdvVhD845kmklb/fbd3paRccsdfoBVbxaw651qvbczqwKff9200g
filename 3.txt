@@ -4250,3 +4250,9 @@ vless://293cb761-2650-412e-9f7a-951ca0607283@snapp.ir:443?path=%2F&security=tls&
 
 vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&sid=6f3192#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
 
+vless://8165d12c-27da-4276-85d5-e9d5fe656f6a@62.220.122.180:441?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://e7c9c831-b26f-4b73-ba2b-9f372eaed956@mci.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://5c451ea5-9d15-4dc5-94dc-b5a4fdcf1505@128.140.2.203:20287?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
