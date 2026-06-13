@@ -2,54 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAiYWRkIjogIjM4LjIwNy4xNDIuMzEiLCAicG9ydCI6ICI4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMmQ5YTgxZjYtZTg2ZS00OGU2LTk2NDYtYjNiMTMyNWY4ZDYxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zeWpzcS9kYXRhIiwgImhvc3QiOiAic3lqc3EuaGs2LmZseWlkYy50b3AiLCAidGxzIjogIiJ9
-
-vless://8ceda463-5162-4b65-b998-6d0a3ee87cfa@172.66.47.150:443?security=tls&sni=ntsafe.pages.dev&type=ws&host=ntsafe.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.43.254.82:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@52.221.193.173:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMlpHTm1ZbUk1WlMwM01qbGtMVFJqWTJFdFlqTTRZeTB6WWpjMk5UTXdaVEkxWTJR@free.2weradf.xyz:36143#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2Y1hkbGNsSkZWMUZBUUE@p232.panda004.net:7718#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNU16TXhZbVU0WXkwNFlXRmlMVFEwTVdZdE9EVmpaaTFpTnpCbFlqTmtNRGRoWkdR@free.2apzhfa.xyz:31113#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-vless://d4b622b8-f004-4148-ba73-047e85ebccf3@anten.ir:80?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.-U735OnbTdjZCBje5RuC-pnraoZEL7pO_AxqzddX-Us&host=alternative.mhjcdn.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40FreakConfig
-
-vless://d279f1b0-44b1-49ef-9670-f7ac855c017e@olds-1.lubbs.de:2086?path=%2F&security=none&encryption=none&host=beh2.salonemojallal.ir&type=httpupgrade#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-None%20%7C%20%40FreakConfig
-
-trojan://SoftNetConnect@77.110.114.75:443?mode=gun&security=reality&authority=77.110.114.75&pbk=FYiQVTMa4quf2LeyLscmmFN5iqkV85Rn9HdgimvnbSQ&fp=chrome&spx=%2F&type=grpc&sni=www.yahoo.com&sid=42bb1ccc5bde#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-Reality%20%7C%20%40FreakConfig
-
-trojan://SoftNetConnect@77.110.114.75:8443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=bIzRyt6-wut4bghVAF7v_12wkM1McpzZFwsPAqCtrHY&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=78851a413f5033b0#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-Reality%20%7C%20%40FreakConfig
-
-trojan://SoftNetConnect@77.110.114.75:2087?security=reality&pbk=pnrbo0MG4n719Yt3YhvL_SvV37NOmHm0_vbRnbRxaz0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=3e503fccee5701#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40FreakConfig
-
-vless://6dcca3b0-4a1b-40d0-9bf7-9c0f2c9d45b7@euro.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-None%20%7C%20%40FreakConfig
-
-vless://6dcca3b0-4a1b-40d0-9bf7-9c0f2c9d45b7@local.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-None%20%7C%20%40FreakConfig
-
-vless://6dcca3b0-4a1b-40d0-9bf7-9c0f2c9d45b7@mci.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-None%20%7C%20%40FreakConfig
-
-vless://aa0b2683-537f-47ad-82b4-61406a07c622@lumora17.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora17.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora17.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://d69b3179-fa1c-4cbc-827b-320540aaf70f@euro.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
-
-vless://d4eb1900-6515-494e-85c5-306bb9594f56@45.130.125.194:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vo.new-persian-song.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://e98301e0-8848-47dc-830c-db5fdd157217@nim.nimuplink.ir:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://e98301e0-8848-47dc-830c-db5fdd157217@104.16.7.70:443?path=%2Fwss%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=api9.downloadboxs.com&fp=chrome&type=ws&allowInsecure=0&sni=wwww.downloadboxs.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://e98301e0-8848-47dc-830c-db5fdd157217@cd.a.land4k.com:443?path=%2Fwss%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=api2.downloadboxs.com&fp=chrome&type=ws&allowInsecure=0&sni=wwww.downloadboxs.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://d69b3179-fa1c-4cbc-827b-320540aaf70f@local.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
-
-vless://ac006062-f051-43c6-bd4c-f409285c8635@configtow.yallda.org:443?encryption=none&type=xhttp&mode=auto&host=www.yallda.com&path=/v2raylink&security=tls&fp=chrome&sni=shop.yallda.com&alpn=http/1.1,h2#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://ac006062-f051-43c6-bd4c-f409285c8635@config3.yallda.org:443?encryption=none&type=xhttp&mode=auto&host=www.yallda.com&path=/v2raylink&security=tls&fp=chrome&sni=shop.yallda.com&alpn=http/1.1,h2#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
 vless://17186ef5-7a33-4d80-bece-9feb3743532d@forallpanel.srtongston.ir:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=Cdn8-pro.postshup.ir.&type=httpupgrade#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-None%20%7C%20%40FreakConfig
 
 vless://1970926e-e41b-44e2-8f1e-e2eacb985f57@65.109.248.144:5742?mode=multi&security=reality&encryption=none&pbk=awJWCmY2Ba9kY_dZj7nSylvtzAP1I5unwa_xp6qrvGA&fp=firefox&spx=%2FjVErh2En06eEq0Q&type=grpc&sni=play.google.com&sid=1d9b1242d5#%F0%9F%87%AB%F0%9F%87%AE%20GRPC-Reality%20%7C%20%40FreakConfig
@@ -65,6 +17,12 @@ vless://664a5e86-4b5d-4615-b95a-a5431ea3b534@fdfdfzzmarzban.dadashinet10.ir:2044
 vless://664a5e86-4b5d-4615-b95a-a5431ea3b534@istabbull2marzban.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=telewebion.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://664a5e86-4b5d-4615-b95a-a5431ea3b534@istabbull4marzban.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://6dcca3b0-4a1b-40d0-9bf7-9c0f2c9d45b7@mci.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://6dcca3b0-4a1b-40d0-9bf7-9c0f2c9d45b7@local.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://6dcca3b0-4a1b-40d0-9bf7-9c0f2c9d45b7@euro.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?path=%2Ftsghdws&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
@@ -157,6 +115,8 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.67:8443?security=tls&al
 vless://2e4798a9-d8e9-4a43-ad43-285d3ad5633c@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#None%20WS-TLS%20%7C%20%40Free_World2
 
 vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=apiv2.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#None%20WS-TLS%20%7C%20%40Free_World2
+
+vless://d279f1b0-44b1-49ef-9670-f7ac855c017e@olds-1.lubbs.de:2086?path=%2F&security=none&encryption=none&host=beh2.salonemojallal.ir&type=httpupgrade#None%20HTTPUpgrade-None%20%7C%20%40Free_World2
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFdTLU5vbmUgfCBAdjJub2RlcyIsICJhZGQiOiAiamQuMTAzNjcyLnh5eiIsICJwb3J0IjogODA4MCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYzE0YTgzZGItZjMzMy00NTJlLWFjZmYtOTNiOGY3MTYwYjEwIiwgImhvc3QiOiAiZGVkYXNhYm8uMTAzNDY2Lnh5eiIsICJwYXRoIjogIi8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
 
