@@ -3892,3 +3892,5 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=%2Fhttp&securi
 
 trojan://SoftNetConnect@185.204.169.164:2087?mode=gun&security=reality&pbk=rR5VQnDatIXiWpvI3BtfUypXGWwXAXVEjyiB0aBgK1I&fp=chrome&spx=%2F&type=grpc&sni=www.yahoo.com&sid=160b91b3#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40NormanV2ray
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLQzg4dE9xbzBIbTMwamk5aXBIeGRUQ0VLQ0pBNUlIUmE4OC9iQ0VFdFM4PQ@e1.cover20.ir:51570?type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayNG3
+
