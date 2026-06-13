@@ -20,3 +20,17 @@ trojan://x87mz9nza0n4uj3v@chatgpt.com:443?mode=packet-up&path=%2F&security=tls&a
 
 vless://bff7b258-8291-4298-bdee-991a92c1f33c@45.195.137.112:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=cf9d145ad8f1ea55#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+vless://c1f2ca97-9955-4b88-ae22-b63e57f3839f@88.99.73.167:80?path=%2Fevilcu&security=none&encryption=none&host=its.realreza.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Outline_ir
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.167:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://Telegram-Parsashonam-12@27.50.48.49:443?encryption=none&security=tls&sni=p4r34m.hendevaneh.sbs&insecure=0&allowInsecure=0&type=xhttp&host=p4r34m.hendevaneh.sbs&path=%2Fp4r34m&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://c2f01e32-8ca8-46f1-b2b0-e3b2e17b5cdd@global.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://c2f01e32-8ca8-46f1-b2b0-e3b2e17b5cdd@cell.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
