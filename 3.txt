@@ -2,8 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@Chatgpt.com:8443?path=%2FV2rayNGSelllBoT---V2rayNGSelllBoT---V2rayNGSelllBoT&security=tls&encryption=none&host=nameless-sunset-62b7.jalalpoi77.workers.dev&fp=chrome&type=ws&sni=nameless-sunset-62b7.jalalpoi77.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 trojan://a1e12464-9208-4583-bd21-ab6889fdd242@172.105.222.177:443?allowInsecure=1&sni=cdn.qchwnd.moe#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBIb3BlX05ldCIsICJhZGQiOiAiODAuODUuMTUyLjE3OSIsICJwb3J0IjogIjEyOTEwIiwgImlkIjogIjgyNTljYjFjLWRkNmMtNDczOS05Yzg4LWFmNTUwZDk3NzUyNSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiMjIubHdkaC51cyIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAiMjIubHdkaC51cyIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
@@ -2488,6 +2486,8 @@ vless://05dde938-bb2d-41c3-b176-2a9d370489b4@151.101.109.223:443?path=%2F&securi
 
 vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@love.ns.cloudflare.com:80?security=&encryption=none&host=sRv80.hAMiIbaR.CoM&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
 
+vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@Chatgpt.com:8443?path=%2FV2rayNGSelllBoT---V2rayNGSelllBoT---V2rayNGSelllBoT&security=tls&encryption=none&host=nameless-sunset-62b7.jalalpoi77.workers.dev&fp=chrome&type=ws&sni=nameless-sunset-62b7.jalalpoi77.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
+
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.183:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveVpqUTNZMlkzT1Mxa1lqVTNMVFF5TWpjdFlqSmpZUzA0TURGa05qQTFPV1UwWXpJ@free.2weradf.xyz:36215#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
@@ -4205,4 +4205,6 @@ trojan://mitivpn@188.114.97.6:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http/1.
 vmess://eyJhZGQiOiAic2F2dy5kYXB1dncuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInNhdncuZGFwdXZ3LmNvbSIsICJpZCI6ICJiNmJiZGJhYi03ZmVhLTQ0YmItYWM0NS03YjVlMDAxNTI2NmUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1UTFMgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogInNhdncuZGFwdXZ3LmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
 
 vless://46d71764-e77f-469b-b6f7-83ec086d46cc@sv3.azparadox.ir:8880?path=%2F&security=none&encryption=none&host=azsv3.ir5ive.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://870d3183-17a1-4a87-9021-e12e3ac2939f@tr.go-vpn.club:443?security=reality&encryption=none&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&host=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=ed7b9bdfedb9b8e5#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40NormanV2ray
 
