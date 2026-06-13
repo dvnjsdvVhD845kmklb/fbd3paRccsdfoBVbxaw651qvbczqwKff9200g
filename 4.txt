@@ -2,31 +2,9 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vmess://eyJhZGQiOiAiMTQ5LjMwLjIzMi4xMDMiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjQ2MDkwOGI4LWRlMTYtNDJlOS1iZDBkLTE5MTUyMmFiOTJhNSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAxNTA5NywgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1Ob25lIHwgQEhvcGVfTmV0IiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206aTNaMWlZYTNBZ1lSVGlMUUhYRm80N2xrY3hadktiVGJGTW16VTRVTndMbz06bzJjQUY0cEdnamVQWjBra3RWTG1PTjlpbDk2SE5rSERtY3o4akVnNThlST0=@shop.webchipro2.ir:22003?type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
-vmess://eyJhZGQiOiAiMTcyLjY0LjE1Mi4xNTAiLCAiYWlkIjogMCwgImhvc3QiOiAiY2xhc2g2LnNzci1mcmVlLnh5eiIsICJpZCI6ICI1ZjY0ZmE2NS03YjE0LTQ5YzUtOTU0ZC1hYTE1YzZiZmNhY2QiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Rvbmd0YWl3YW5nLmNvbSIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBIb3BlX05ldCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.171:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
-vmess://eyJhZGQiOiAiMTA0LjIwOC45Ni40NCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiODBlOTRhZjYtZTQyYS00ZGJjLThmNGItYzVmOTliZjk3ZDNkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi96aC1jbi9kb3dubG9hZCIsICJwb3J0IjogODAsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBIb3BlX05ldCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-
-vmess://eyJhZGQiOiAiNDUuNzYuNzEuMjMzIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI2OTA5OTI1OC0xNDc2LTQ2ZGQtYTUxYi04NGU5MTVlOTQxYmUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLzF0R0s4MmxVLyIsICJwb3J0IjogNDY5ODMsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBIb3BlX05ldCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-
-vmess://eyJhZGQiOiAiMTU0LjkyLjkuMTIxIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICJkZDQxYjVjYi1iNzJlLTRhOGMtYzc1YS0zZWNjOTI4ZDZlYjMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2JsdWUiLCAicG9ydCI6IDgwLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-
-vmess://eyJhZGQiOiAiMTk1LjU0LjE3NC4xOCIsICJhaWQiOiAwLCAiaG9zdCI6ICIxOTUuNTQuMTc0LjE4IiwgImlkIjogIjZkNmY0MTNmLTNkYzItNGQwMi04ZDM1LThiNDVlMzlmZWI3MiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4MCwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1Ob25lIHwgQEhvcGVfTmV0IiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-
-trojan://telegram-id-directvpn@18.193.28.136:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.193.28.136:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@18.193.28.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=%2F&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=Sky2.bbv2ry.pics#%F0%9F%8C%90%20WS-TLS%20%7C%20%40manVPN
-
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.151:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
-vless://98731bd6-07ae-4fd0-b05c-26253eea43db@45.85.119.181:2053?encryption=none&type=xhttp&mode=auto&host=FREEchanell1.mobilezahra.com.&security=tls&sni=FREEchanell1.mobilezahra.com.#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://59ed35e5-2e82-4352-bd9e-ac09a63486dd@116.202.96.72:10456?encryption=none&type=ws&host=zoomgov.vipren.biz.id&path=/193.123.81.105%3D443&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://2fd00bd4-d4df-46b6-91c4-abd57ab976cf@188.114.97.6:8443?path=%2Fapi%2Fv3&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=h2cbr1000.bicycleandmotorsg2.shop#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://a26eb1e6-953b-4e29-ae25-738ee32b40ff@185.143.232.7:80?path=%2Fpathhhh&security=none&encryption=none&host=22324.44070.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
