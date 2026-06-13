@@ -2,6 +2,32 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
+vless://c2f01e32-8ca8-46f1-b2b0-e3b2e17b5cdd@euro.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://a75c3f9c-4416-4b52-8b24-4f37ea224d1f@116.203.6.53:8841?security=none&encryption=none&host=dl.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://9d64a96d-88f7-4379-aa92-c5c57dc1866b@du.mobileemdad.top:42542?security=&encryption=none&host=du.mobileemdad.top&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40vmesskhodam
+
+vless://9d64a96d-88f7-4379-aa92-c5c57dc1866b@ips.list.nonpath.ir:3350?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40vmesskhodam
+
+vless://8cb24aea-14f6-4fca-a069-d2d52cbf6190@forallpanel.srtongston.ir:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=cdn-pro5.postshup.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NjE5Y2JmOWE0Y2QwOTMwZTU3NjhmYWUyNDRkZjk5Mg@fr.bazrilornam.txt.usdtbama.site:1082#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NjE5Y2JmOWE0Y2QwOTMwZTU3NjhmYWUyNDRkZjk5Mg@de.vncbiz.infom.ew.usdtbama.site:1080#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NjE5Y2JmOWE0Y2QwOTMwZTU3NjhmYWUyNDRkZjk5Mg@148.113.141.164:1083#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NjE5Y2JmOWE0Y2QwOTMwZTU3NjhmYWUyNDRkZjk5Mg@65.109.180.5:1085#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://0b2f19d7-451d-454b-a09f-032a1cfc2394@188.114.97.6:443?path=%2Fwatson&security=tls&encryption=none&insecure=0&host=watson.ferrarikingfr.ir&fp=firefox&type=ws&allowInsecure=0&sni=watson.ferrarikingfr.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://fe16245c-31f8-4fb2-9182-c63b6020d907@saleh.velizor.ir:2020?security=reality&encryption=none&pbk=nl7ETRtlUvG6wMtsyuCI2U0-CyTKs-eVB889lix5Mk8&headerType=&fp=chrome&spx=%2FpRDBskdFBcgxenR&type=tcp&sni=yahoo.com&sid=1ff223a406db28#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://fe16245c-31f8-4fb2-9182-c63b6020d907@saleh.velizor.ir:5020?security=reality&encryption=none&pbk=okCWIaLm7TQJ-c4JgqDkJa_1CRaT9LfdGV9vzHsUD3Y&headerType=&fp=chrome&spx=%2FunYjSJu5XSp4SHa&type=tcp&sni=news.microsoft.com&sid=8d#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://fe16245c-31f8-4fb2-9182-c63b6020d907@nab.velizor.ir:6026?security=reality&encryption=none&pbk=NdK-N9-1R_mUcyYg3kBYdlYed3B8RoZunnkBGJxiLXk&headerType=&fp=firefox&spx=%2FUAN8fsuTQiUU5S1&type=tcp&sni=store.steampowered.com&sid=e3#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
 vless://fe16245c-31f8-4fb2-9182-c63b6020d907@104.17.122.113:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=nab.velizor.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=nab.velizor.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vless://fe16245c-31f8-4fb2-9182-c63b6020d907@104.17.122.123:2083?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=nab.velizor.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=nab.velizor.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
@@ -98,27 +124,11 @@ trojan://ce92cd20-671e-11f1-a13f-1239d0255272@news.microsoft.com:443?path=%2Fhow
 
 vless://d84273b5-f7e7-4e89-a21b-38d941f6ad33@america.yoiktenkaisub.ir:2087?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
-trojan://SoftNetConnect@185.204.169.164:443?type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=pzGahS_T6emOUchRxzUgeL-2CEg2cuJs0-AxYtaK-ic&sid=d591&spx=%2F#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
+vless://fe16245c-31f8-4fb2-9182-c63b6020d907@saleh.velizor.ir:2020?security=reality&encryption=none&pbk=nl7ETRtlUvG6wMtsyuCI2U0-CyTKs-eVB889lix5Mk8&headerType=none&fp=chrome&spx=%2FpRDBskdFBcgxenR&type=tcp&sni=yahoo.com&sid=1ff223a406db28#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
-trojan://SoftNetConnect@185.204.169.164:8443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=5FGOl7H4K-VOCZ48lIoizknLgL3Vn5FADs8bsCXKPW4&sid=ca14e14437&spx=%2F#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+vless://fe16245c-31f8-4fb2-9182-c63b6020d907@nab.velizor.ir:6026?security=reality&encryption=none&pbk=NdK-N9-1R_mUcyYg3kBYdlYed3B8RoZunnkBGJxiLXk&headerType=none&fp=firefox&spx=%2FUAN8fsuTQiUU5S1&type=tcp&sni=store.steampowered.com&sid=e3#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
-vless://0a9d9b4f-38f8-4343-947c-d16ce65b25c5@188.114.97.6:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=KUI.fastspeeds.ir&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+vless://c2f01e32-8ca8-46f1-b2b0-e3b2e17b5cdd@local.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
-vless://8cb24aea-14f6-4fca-a069-d2d52cbf6190@forallpanel.srtongston.ir:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=cdn-pro5.postshup.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NjE5Y2JmOWE0Y2QwOTMwZTU3NjhmYWUyNDRkZjk5Mg@fr.bazrilornam.txt.usdtbama.site:1082#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NjE5Y2JmOWE0Y2QwOTMwZTU3NjhmYWUyNDRkZjk5Mg@de.vncbiz.infom.ew.usdtbama.site:1080#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NjE5Y2JmOWE0Y2QwOTMwZTU3NjhmYWUyNDRkZjk5Mg@148.113.141.164:1083#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NjE5Y2JmOWE0Y2QwOTMwZTU3NjhmYWUyNDRkZjk5Mg@65.109.180.5:1085#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://0b2f19d7-451d-454b-a09f-032a1cfc2394@188.114.97.6:443?path=%2Fwatson&security=tls&encryption=none&insecure=0&host=watson.ferrarikingfr.ir&fp=firefox&type=ws&allowInsecure=0&sni=watson.ferrarikingfr.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://fe16245c-31f8-4fb2-9182-c63b6020d907@saleh.velizor.ir:2020?security=reality&encryption=none&pbk=nl7ETRtlUvG6wMtsyuCI2U0-CyTKs-eVB889lix5Mk8&headerType=&fp=chrome&spx=%2FpRDBskdFBcgxenR&type=tcp&sni=yahoo.com&sid=1ff223a406db28#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://fe16245c-31f8-4fb2-9182-c63b6020d907@saleh.velizor.ir:5020?security=reality&encryption=none&pbk=okCWIaLm7TQJ-c4JgqDkJa_1CRaT9LfdGV9vzHsUD3Y&headerType=&fp=chrome&spx=%2FunYjSJu5XSp4SHa&type=tcp&sni=news.microsoft.com&sid=8d#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://fe16245c-31f8-4fb2-9182-c63b6020d907@nab.velizor.ir:6026?security=reality&encryption=none&pbk=NdK-N9-1R_mUcyYg3kBYdlYed3B8RoZunnkBGJxiLXk&headerType=&fp=firefox&spx=%2FUAN8fsuTQiUU5S1&type=tcp&sni=store.steampowered.com&sid=e3#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+vless://c2f01e32-8ca8-46f1-b2b0-e3b2e17b5cdd@cell.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
