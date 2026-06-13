@@ -2,12 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssd.mojaz-persian-music.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
 vless://627c3a7a-29a7-41d1-9d9e-9f809b690988@104.16.6.70:443?path=%2F&security=tls&encryption=none&insecure=0&host=mos.rfiksma.top&fp=firefox&type=ws&allowInsecure=0&sni=sub.rfiksma.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://e98301e0-8848-47dc-830c-db5fdd157217@188.114.97.6:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fwss%3Fed%3D2048&host=hope.skydriftzone.sbs&sni=hope.skydriftzone.sbs&fp=chrome&alpn=http%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -41,6 +35,8 @@ vless://e98301e0-8848-47dc-830c-db5fdd157217@nim.nimuplink.ir:443?security=none&
 vless://2e4798a9-d8e9-4a43-ad43-285d3ad5633c@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40NPV_78
 
 vless://e98301e0-8848-47dc-830c-db5fdd157217@104.16.7.70:443?path=%2Fwss%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=api9.downloadboxs.com&fp=chrome&type=ws&allowInsecure=0&sni=wwww.downloadboxs.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40NPV_78
+
+vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40NPV_78
 
 vless://0bbcbcbf-a964-4e47-b8c5-c4917708ef93@45.130.125.162:8443?mode=auto&path=%2F%3Fed&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=sh.mojaz-persian-music.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40NPV_78
 
@@ -583,6 +579,8 @@ vless://1dba92e0-8fc0-4d27-a72d-e31a630afde2@pnl.elikai.ir:80?security=none&encr
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@144.31.4.220:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40prrofile_purple
 
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.26.0.7:443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40prrofile_purple
+
+vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssd.mojaz-persian-music.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40prrofile_purple
 
 vmess://eyJhZGQiOiAiMTgwLjIxNS4xMzAuMTIzIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICJjNTQxNGZlMC0wMThiLTQ3M2EtYWEzYi1mMjEwZjJiYTQyZjUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDY0NTIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBIb3BlX05ldCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
 
@@ -2941,6 +2939,8 @@ vless://78abbe41-95dd-4f6f-a500-1450913fb933@o.server3peekconfig.workers.dev:443
 vless://f3273de3-abfe-4a7c-a747-56def262f381@server1.peekconfiggg.workers.dev:443?path=%2FeyJqdW5rIjoiQ1BnWDdUN21oOUpRc1hPdyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSIsIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iLCJbMjYwMjpmYzU5OmIwOjY0OjpdIl19%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=server1.peekconfiggg.workers.dev&fp=chrome&type=ws&sni=SeRVER1.pEekconfIGGG.wORkERS.dEv#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://Masir_Sefid@83.228.228.57:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.z0k3u7ZiPDRt4DkOwWC0i7XF7Km7E-uj0PdwjoLL9COrZta1yKohuBTJGTXDKKW0m9VCH_Wq9ktCmLcstxx-ablWTPXIz7OJv8eGzhylSwUd6yOpG3VagjllKaGf4cW3HaslgvRi4OMdSJhmt3NzLVVMEAgQQWsDmSskqhtef4NRb3R92eZGpMYQulkiabsErgsOjyoeCUwwuYSaAFMW28GU6OR_LhxMyNAZAmvP9wVeJDnBRYgoLdB6fpW96oNrKHM9I2s83RnJm1eqjBBOULIJdUCrWmA21CoeK-sPNPdC9VGYZ_W-Q9tQriGwPCB5L_tIRNero8dVVbKwDXjHC7ocGmDPeNQV1ztM70WPDwi1DfUYXedOUesjH1rBC2N7GdZko3uDm8gIQQCk5WmacgospkSQY_w8KeOoULkgQEqHGDe-6voEe_m-0JBymSNH1LIdhrG_DtA-QVFMf_cFpUtrEppUM5hbKTFHNgwDs5SIYOrO4ZWW8qaK1De8EHCeyUjKdoKMV3ZDctUQ63eg8uYO1YtVsPxZiiMd-Gp66uGx2tw3kNYdubGACWF3PPkyhwx1NOmjk5dY2tusDVqTY3kQJsMK1xEBT1uU51LBUqm6Zsdjz_B976AVA8Yw7xa5TIs2mldFZAx6BSSOKCaBTKAWnByvMlxhFBQt7YA9bXI8w0pvn0Mc42mTtWNMpBGesYZIELm2ZYoHNIVzB4Ay3ISlwnSMjBcyVFOs6xNT3jtA9IwKa6RuDlxanCm0IRZSKVfCi3t8xQp26RGX-9M-9YAm-3wGKimCoRFadZxFlve8nvdqjHatwOccNZHKfRZ4WIaVXTMU38V_3xe0rfq1iUQuLqGi0qRiVHMMYrFSXLSGkfmkshwnW0Wif3OtKeah7NMwXzdhHncnosGB--sP30FzelEDHKdkaPQPhPKJEmEgQJVR5ChhbxEe0qshQJW2yvrDGFep04mGl-adRfUis9s_dgIiUJnExiRBWPxd3GfJM2oIIJSOAlfOyrMwrbqZmWZGnYJA7epi44HB8ITEgTGxPBcdqhWOQKdZXKLJEvSY7mVCHjV-iBO9RCogyyhervG8nWKnrvJDkcU-zuB_stVSsnnNb6I7VWs3VAuIoCO0EktE6xaiNrCDymWZ25VT3JhsArqxNAhEMGhonaqbXJZSKlgoWRJDELeblRp35Vxy_YiB-8uD-7IyHOoFc5dj-SCI4xAZOgjBQ-ZoBzMRvtefsljPN5wLmgxMNLO4pbeWo-ZZSziHjGQhWvodrsYdisGdpoynQUtWTMt8D9Mq7xVvZURFAhnGONAa7stECmS8u5A-GQVEbrJ_PFAyb-B0gfRkyNkjzBwiK0uTjvVoGlEzhvOjUobBGRtwgfy4VEYlZ7LO9UJyxBit-XwoGaZxWQnI-IdQ_QR07vMT8UmS7ewkm-kaJMp4KYZ-nKPOklKwguxREhde7MpZWsPHuwh1NHkR5xZfmiqMy4WgWqNtvBC9oNhCPHJz2KG8UPS4_eWfVPojkjplGCiY-TN3phFyfS-qRIDf9w8ffBF3HgtWM7Yo4-RKRENtvRxhCzG1X5s&pbk=YqYac44A9qFfTzfnEmebzZwty08xnA6fcxX8dT-9jXk&headerType=http&fp=chrome&spx=%2FLrV8Ot6Nt0WBvbA&type=tcp&flow=xtls-rprx-vision-udp443&sni=store.steampowered.com&sid=0b98876df2e3#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?encryption=none&type=ws&path=%2F&host=max-gb1.global.ssl.fastly.net#%F0%9F%8C%90%20WS-None%20%7C%20%40Configir98
 
 ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@13.135.172.147:80?type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Configir98
 
