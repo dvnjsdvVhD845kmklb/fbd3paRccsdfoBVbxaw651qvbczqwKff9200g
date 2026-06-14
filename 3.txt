@@ -2,12 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://d36326aa-7456-4747-84dc-405868554f1b@188.114.97.6:8443?mode=auto&path=%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=turkey.anten.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.anten.dpdns.org#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40V2rayBaaz
-
-vless://d36326aa-7456-4747-84dc-405868554f1b@104.18.5.46:8443?mode=auto&path=%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=turkey.anten.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.anten.dpdns.org#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40V2rayBaaz
-
-vless://d36326aa-7456-4747-84dc-405868554f1b@172.67.202.138:8443?mode=auto&path=%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=turkey.anten.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.anten.dpdns.org#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40V2rayBaaz
-
 trojan://zc8oxn1s-gqu9-wgcr-egbx-y466kqilmv60@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://lotbknef-hqrr-m09c-6023-97qvezignlw9@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -4145,4 +4139,14 @@ trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?allowInsecure=1&
 trojan://TrojanPass2026%21@2.26.54.174:8448?sni=foolsland.ru#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
 
 vmess://eyJhZGQiOiAiMTcyLjY3LjE5OS4zNCIsICJhaWQiOiAwLCAiaG9zdCI6ICJsdS5zaGFyZWNlbnRyZS5vbmxpbmUiLCAiaWQiOiAiMjBlOTI4ODEtNWZiNC00YjA1LWJjNzctNTc5Mjk0NzZkYzY5IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zaGlya2VyIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtVExTIHwgQEhvcGVfTmV0IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQiLCAiYWRkIjogInNuYXBwLmlyIiwgInBvcnQiOiA4MCwgImlkIjogIjlhZjJjOWY2LWMzNzgtNDY5My04YTI0LWJmN2Q2YWFkMTRiMyIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidGxzIjogIm5vbmUiLCAicGF0aCI6ICIvc3dhZyIsICJob3N0IjogInZpcDIuc3dhZzRldmVyLmlyIn0=
+
+vless://ed8cc0e7-57ad-4a8f-afca-df81ca5a3a03@local.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%7D&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://ed8cc0e7-57ad-4a8f-afca-df81ca5a3a03@euro.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://ed8cc0e7-57ad-4a8f-afca-df81ca5a3a03@global.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://7d7d4795-0205-4861-9ea7-e3303d16d411#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
