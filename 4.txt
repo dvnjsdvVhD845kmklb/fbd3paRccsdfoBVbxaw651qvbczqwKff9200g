@@ -8,3 +8,21 @@ vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?path=%2F&securi
 
 vless://9f135709-60a1-4a9b-b31c-78d326d8752a@198.41.209.186:443?mode=stream-one&path=%2Fassignment----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=www.middle.cc.cd&fp=firefox&type=xhttp&allowInsecure=0&sni=www.middle.cc.cd#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
+vmess://eyJhZGQiOiAiNTcuMTI5LjU5LjIwMiIsICJhaWQiOiAwLCAiaG9zdCI6ICJmYXBlbmcub3JnIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJsaW5rdndzIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtVExTIHwgQEhvcGVfTmV0IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogImZhcGVuZy5vcmcifQ==
+
+vmess://eyJhZGQiOiAiOC4yMTguNjMuMTg0IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICJjZGM3MmM3ZC02YWI4LTRjYjQtYTBmNy0xOGIwZWM3YmZiZmEiLCAibmV0IjogImh0dHAiLCAicGF0aCI6ICIiLCAicG9ydCI6IDIwMTEzLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQEhvcGVfTmV0IiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogIjguMjE4LjYzLjE4NCJ9
+
+trojan://bbdff6a8-2e22-4d37-a4ab-a038bc646bd9@hk6702.fans8.xyz:443?security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
+
+vmess://eyJhZGQiOiAiOC4yMTguODYuMjUwIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI3MjM1NmJmNy00ODdiLTQyYzAtYTdmMi04NDUxMzZiMzM1MDMiLCAibmV0IjogImh0dHAiLCAicGF0aCI6ICIiLCAicG9ydCI6IDIyMzYyLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQEhvcGVfTmV0IiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogIjguMjE4Ljg2LjI1MCJ9
+
+trojan://humanity@104.16.174.117:443?sni=www.ignitelimit.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
+
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@www.parsvds.com:8080?path=%2F&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://9f135709-60a1-4a9b-b31c-78d326d8752a@198.41.209.186:443?mode=stream-one&path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=www.middle.cc.cd&fp=firefox&type=xhttp&allowInsecure=0&sni=www.middle.cc.cd#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://7a6182e9-ef70-41ea-bbc5-c3dd4fc67e5b@85.234.69.164:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=taZmnmBfJT-uJW3e0l_v5wcP6GGiVOwPRp8ZnXvhk3M&security=reality&sid=bcaa1585efbd55&sni=icloud.com&spx=%2F54C3XlX7MjzbxAL&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://708e7929-a262-4fb9-b09d-e70e2bc84b7b@gamefictoinspeed.info:8443?mode=stream-one&path=%2F&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=moback2.notrogame.com&fp=chrome&type=xhttp&allowInsecure=0&sni=moback2.notrogame.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40NPV_78
+
