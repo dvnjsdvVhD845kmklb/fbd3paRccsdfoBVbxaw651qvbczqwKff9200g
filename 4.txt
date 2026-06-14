@@ -2,19 +2,21 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://ccdce320-7eef-4815-8edb-c599987c2279@5.254.14.169:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn9-40.yahoo.com&sid=0dc0ced5bf4f756c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+vless://0c375c23-9fad-4f94-b033-f8811da23695@dota2fa.ir:26414?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Tunder_vpn
 
-trojan://SoftNetConnect@185.204.169.164:2087?security=reality&authority=45.151.102.87&pbk=rR5VQnDatIXiWpvI3BtfUypXGWwXAXVEjyiB0aBgK1I&fp=chrome&spx=%2F&type=grpc&sni=www.yahoo.com&sid=160b91b3#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+vless://bc933807-c33a-4f5f-eed0-d4ced9d130b8@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-vless://1cf6cae1-e402-412b-954c-8b8c27cbdac4@forallpanel.srtongston.ir:8880?path=%2F%3Fed%3D2082&security=&encryption=none&host=cdn-pro3.postshup.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+vless://53146906-5cb5-4332-ac19-d4822762b1cd@mci.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
-vless://86595675-ca17-47ac-b641-9a561e4a6684@91.107.166.66:44728?security=reality&encryption=none&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=dbb6ea0b#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+vless://53146906-5cb5-4332-ac19-d4822762b1cd@global.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
-vless://1cf6cae1-e402-412b-954c-8b8c27cbdac4@forallpanel.srtongston.ir:8880?path=%2F%3Fed%3D2082&security=&encryption=none&host=cdn-pro5.postshup.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+vless://d548be16-8ac9-49a1-82ea-6b805303839d@188.114.97.6:80?mode=auto&path=%2F154%3Bka%3F-1&security=none&encryption=none&host=book.axenet.company&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
-vless://0e8d0c66-ea11-4ca3-ce2e-d172b857a8b3@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://3a8aa3ad-d125-4285-8542-3a1832187f5d@104.25.123.12:443?path=%2F&security=tls&encryption=none&insecure=0&host=alireza10.karamzade546alireza.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=alireza10.karamzade546alireza.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-vless://b6885d12-59fd-4ae2-fbe2-286f66293e4c@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=cdn.daraflo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daraflo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://1cf6cae1-e402-412b-954c-8b8c27cbdac4@forallpanel.srtongston.ir:8880?path=%2F%3Fed%3D2082&security=&encryption=none&host=Cdn8-pro.postshup.ir.&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
 
-vless://fadbe3ce-36c9-46f6-9e55-af84755adce7@78.47.55.155:443?encryption=none&security=reality&sni=www.intel.com&fp=chrome&pbk=N2g8w3OBtIzLJWONRErU4omxiKsI6G-BQt10JIQWKQw&sid=77c55d&spx=%2FMoQuWCcRmROHEZD&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.53:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://3119ae73-0386-4b9e-91a0-d69e9ebee3a6@199.232.78.159:80?mode=auto&path=%2Fxhttp&security=&encryption=none&host=simorghbot.global.ssl.fastly.net&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
