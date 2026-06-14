@@ -2,7 +2,15 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://5f15029b-4c01-484f-3535-f94832187752@snapp.ir:2087?security=tls&allowInsecure=0&encryption=none&type=ws&host=cdn.xelira.ir&path=/BetForward&sni=cdn.xelira.ir&fp=chrome&alpn=h2,h3,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40FarazV2ray
 
-vless://bf4f35d5-1297-47e0-9580-04ad1e1dd993@185.143.232.2:80?path=%2FdfaahgSDGDS&security=none&encryption=none&host=eco.44070.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+vless://d205ae68-0819-473c-b425-6c5947ac2f8d@209.127.228.114:443?security=reality&encryption=none&pbk=8vqOvJ5eoG_9oHla4B3Vh1E-o39RrCXW6Wr7OcXZGmI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cars.morro-settings.ru&sid=dd#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40FarazV2ray
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40FarazV2ray
+
+vless://bf4f35d5-1297-47e0-9580-04ad1e1dd993@185.143.232.3:80?path=%2FdfaahgSDGDS&security=none&encryption=none&host=eco.44070.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://8ef31ff1-3f03-4712-9dd5-fd3ba221dd76@185.143.233.5:80?path=%2F&security=&encryption=none&host=nn-6ea6a54a41-programtest.apps.ir-central1.arvancaas.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://036aabfa-24df-4c35-9602-5da87701f9e1@sv3.centerpc.ir:2087?type=ws&security=tls&path=%2F&sni=bnb14.purplebook.ir&fp=chrome&encryption=none#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
