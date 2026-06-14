@@ -2,27 +2,3 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vmess://eyJhZGQiOiAiMTcyLjY3LjE2NC4xNjQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiYWZyaG1zMDcueGZpeGVkZmxvYXQuY2ZkIiwgImlkIjogImExNjU1ZjUxLTFlMjAtNGE5Mi04YTExLWI3Y2EzMGE3YTM1MyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJhZnJobXMwNy54Zml4ZWRmbG9hdC5jZmQiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBIb3BlX05ldCJ9
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.185.123.147:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-vless://ddc7f9a9-f67b-4512-b9c6-0194606b55f5@104.17.147.22:8880?type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws92.awscloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
-
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwak1qUTROelpoTWkweE4yWXdMVFE1WVdFdE9XWTROeTAzWkRkbFpqTTNZbUZpTURR@free.2weradf.xyz:36471#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMFlXTXlaakJoTlMxbFkySTNMVFF3Wm1NdE9HUTNNQzAyWldaaU9EZ3lZalV5TlRj@free.2apzhfa.xyz:31173#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMFlXTXlaakJoTlMxbFkySTNMVFF3Wm1NdE9HUTNNQzAyWldaaU9EZ3lZalV5TlRj@free.2apzhfa.xyz:31175#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSElySVZqVkxZTG03elhDS3E0WHRP@18.171.158.208:10974#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@192.0.54.33:443?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=xf.ylks.xyz#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vless://dfad1fa0-6b6c-49ec-878b-3ee2b21564b9@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://252c42c8-0071-4699-860e-028313f7158b@Varzesh3.com:8080?path=%2Fapi&security=&encryption=none&host=tst.driftnet.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://252c42c8-0071-4699-860e-028313f7158b@Varzesh3.com:8080?path=%2Fapi&security=&encryption=none&host=tst2.driftnet.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://f1f9cecd-5ee5-4658-a6be-df0df24fcc36@de-1d.harchihast.com:2080?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=yahoo.com&pbk=wwWNQXQHcZm7TOPWdD7LCpQd2OvwWyGZzWiZG8osP2k&sid=230c6f9362e4551f#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
