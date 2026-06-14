@@ -40,3 +40,7 @@ vless://21cca0e5-ad76-40fb-a5ee-5cea6531be11@g22.vitavip5.online:8880?path=%2Fap
 
 trojan://telegram-id-directvpn@3.69.162.50:22223?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
+vless://da28fdc1-9cc3-48c1-8569-140c744c0174@104.18.32.59:2083?path=%2F%3Fu%3Da30c88da9f&security=tls&encryption=none&insecure=0&host=forsale.sirknavab.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=forsale.sirknavab.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://da28fdc1-9cc3-48c1-8569-140c744c0174@188.164.248.80:2096?path=%2F%3Fu%3Da30c88da9f&security=tls&encryption=none&insecure=0&host=forsale.sirknavab.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=forsale.sirknavab.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+

@@ -2,16 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://2f33d154-1106-4944-9e59-c27ae239e30d@91.107.166.66:8880?security=reality&encryption=none&pbk=1P6G12_CsCrgTmgSw92S3XMU-bukSAWVWdAqMiiChVU&headerType=none&fp=random&spx=%2FaF2MtQFvuK7cY8o&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=0c82#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://95c05eee-df38-4fd0-a2d5-64faa45ac2bc@Mstpars.mparssian.ir:2087?security=reality&encryption=none&pbk=Mqbn454w2vrK-7-jrNtx4jvJO2Em6zmQz-hiOqbNmHM&headerType=none&fp=chrome&spx=%2FEDbgBwyl3fR9Z9I&type=tcp&sni=aws.amazon.com&sid=7a7c1ee5fa19#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40vpnplusee_free
-
-vless://c2e1d7e9-cb26-40fa-bf69-7d7f74cbc6f5@test.axylegend.ir:10489?encryption=none&fp=ios&pbk=BWFQ-BxFck2L0gjbXILc0Sh_rOy_YH9YYFf5kw5SsAI&security=reality&sid=c5a3ab7b&sni=play.google.com&spx=%2FZ9jY7K2vjTKxoe4&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://7096fbd7-decc-43e4-6fc0-040e13bb1502@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 ss://YWVzLTI1Ni1nY206T2xlUFRhQ3ljSFQ3azY2YW9UNm9oZFVPVlNQcmNJeGFiNUUrTGJsaThaMD0@89.44.112.248:44453#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -130,5 +120,13 @@ vless://21cca0e5-ad76-40fb-a5ee-5cea6531be11@g22.vitavip5.online:8880?path=%2Fap
 
 trojan://telegram-id-directvpn@3.69.162.50:22223?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
-vless://4ca15f10-3fc0-4a45-807c-2d45b23c3c84@185.143.232.3:80?path=%2Fadfsgfad&security=none&encryption=none&host=44344.sakino.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+vless://da28fdc1-9cc3-48c1-8569-140c744c0174@104.18.32.59:2083?path=%2F%3Fu%3Da30c88da9f&security=tls&encryption=none&insecure=0&host=forsale.sirknavab.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=forsale.sirknavab.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://da28fdc1-9cc3-48c1-8569-140c744c0174@188.164.248.80:2096?path=%2F%3Fu%3Da30c88da9f&security=tls&encryption=none&insecure=0&host=forsale.sirknavab.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=forsale.sirknavab.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://95c05eee-df38-4fd0-a2d5-64faa45ac2bc@Mstpars.mparssian.ir:2087?security=reality&encryption=none&pbk=Mqbn454w2vrK-7-jrNtx4jvJO2Em6zmQz-hiOqbNmHM&headerType=none&fp=chrome&spx=%2FEDbgBwyl3fR9Z9I&type=tcp&sni=aws.amazon.com&sid=7a7c1ee5fa19#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40vpnplusee_free
+
+vless://c2e1d7e9-cb26-40fa-bf69-7d7f74cbc6f5@test.axylegend.ir:10489?encryption=none&fp=ios&pbk=BWFQ-BxFck2L0gjbXILc0Sh_rOy_YH9YYFf5kw5SsAI&security=reality&sid=c5a3ab7b&sni=play.google.com&spx=%2FZ9jY7K2vjTKxoe4&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
