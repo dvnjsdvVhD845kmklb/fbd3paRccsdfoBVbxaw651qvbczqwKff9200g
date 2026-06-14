@@ -6,3 +6,7 @@ vless://b63c7974-558b-4e0b-b12a-c594522665f8@188.213.198.238:4050?security=none&
 
 vless://b63c7974-558b-4e0b-b12a-c594522665f8@188.213.198.238:8090?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40proxy_tunnel
 
+vless://a2804a84-54a2-4c13-92bb-8871d081f916@188.213.198.238:4050?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40proxy_tunnel
+
+vless://a2804a84-54a2-4c13-92bb-8871d081f916@188.213.198.238:8090?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40proxy_tunnel
+
