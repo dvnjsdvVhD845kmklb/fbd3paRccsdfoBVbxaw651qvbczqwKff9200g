@@ -2,32 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@193.176.240.129:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=SG11.artarona.ir&sni=SG11.artarona.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@193.176.240.129:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=SG12.artarona.ir&sni=SG12.artarona.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@151.101.109.223:443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=FINIM.global.ssl.fastly.net&mode=auto&sni=biography.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@151.101.109.223:443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=sdffgh.global.ssl.fastly.net&mode=auto&sni=biography.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@193.176.240.129:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=SG7.artarona.ir&sni=SG7.artarona.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@151.101.109.223:443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=dnlu2.global.ssl.fastly.net&mode=auto&sni=biography.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@80.211.135.85:8080?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@188.114.97.6:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=Dnlu2.iraniranshopdashnoard.ir&mode=auto&sni=Dnlu2.iraniranshopdashnoard.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@88.216.67.230:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=Dnlu2.iranucshop.ir&sni=Dnlu2.iranucshop.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@91.107.147.56:8443?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@89.167.80.120:8443?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@151.101.109.223:443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=DEYXX.global.ssl.fastly.net&mode=auto&sni=biography.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@88.216.67.230:2083?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=Arm2.downloadgameiran.ir&sni=Arm2.downloadgameiran.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@193.176.240.129:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=SG8.artarona.ir&sni=SG8.artarona.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@45.131.4.246:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=Dnlu2.irancharting.ir&mode=auto&sni=Dnlu2.irancharting.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
@@ -58,9 +32,21 @@ vless://3b2561b1-4bad-2043-cfbe-74adf706b3be@49.13.220.86:443?encryption=none&se
 
 vless://9050e799-fabc-442e-927a-9f2b6eefd9fd@cdn4.portalcode.ir:2095?path=%2F&security=&encryption=none&host=amnpl1.monopolitass.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40vmesskhodam
 
-vless://5cfbb53f-7fff-4fd7-a057-34e08f2170f7@z9.asamping.ir:2052?path=%2F&security=none&encryption=none&host=z5.asamping.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+vless://3b2561b1-4bad-2043-cfbe-74adf706b3be@37.27.24.143:8443?encryption=none&security=tls&sni=autumn-truth-80db.sdfghjkdfghjkmnmn.workers.dev&fp=chrome&type=ws&host=autumn-truth-80db.sdfghjkdfghjkmnmn.workers.dev&path=/sync&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-vless://6997c04b-61db-46e9-a7af-83f1ce4f29ae@subscription.lormarb.ir:2088?security=reality&encryption=none&pbk=5bfBHZRq12CBEfVtw01S8nAfsfMK_wLb4nXz36Dk8EU&headerType=none&fp=chrome&spx=/J2kaRqsylpbZpjY&type=tcp&sni=www.yahoo.com&sid=03¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40Raiv2mmr
+vless://3b2561b1-4bad-2043-cfbe-74adf706b3be@37.27.24.143:2096?encryption=none&security=tls&sni=autumn-truth-80db.sdfghjkdfghjkmnmn.workers.dev&fp=chrome&type=ws&host=autumn-truth-80db.sdfghjkdfghjkmnmn.workers.dev&path=/sync&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://3b2561b1-4bad-2043-cfbe-74adf706b3be@49.13.220.86:8443?encryption=none&security=tls&sni=autumn-truth-80db.sdfghjkdfghjkmnmn.workers.dev&fp=chrome&type=ws&host=autumn-truth-80db.sdfghjkdfghjkmnmn.workers.dev&path=/sync&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://3b2561b1-4bad-2043-cfbe-74adf706b3be@49.13.64.206:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=autumn-truth-80db.sdfghjkdfghjkmnmn.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=autumn-truth-80db.sdfghjkdfghjkmnmn.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://87348681-0a78-4ae7-48fd-1c195d702eb9@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.daraflo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daraflo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.165:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://8440c9e5-3a24-49cd-8fdd-f140dcb1b8c7@37.1.212.241:5262?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
@@ -115,4 +101,30 @@ vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.3:443?encryption=none&fp
 vless://9733a1d0-b320-464d-a555-bb414347dd5e@snapp.ir:2086?type=ws&encryption=none&path=&host=azh.behchain.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@193.176.240.129:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=SG10.artarona.ir&sni=SG10.artarona.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@193.176.240.129:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=SG11.artarona.ir&sni=SG11.artarona.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@193.176.240.129:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=SG12.artarona.ir&sni=SG12.artarona.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@151.101.109.223:443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=FINIM.global.ssl.fastly.net&mode=auto&sni=biography.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@151.101.109.223:443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=sdffgh.global.ssl.fastly.net&mode=auto&sni=biography.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@193.176.240.129:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=SG7.artarona.ir&sni=SG7.artarona.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@151.101.109.223:443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=dnlu2.global.ssl.fastly.net&mode=auto&sni=biography.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@80.211.135.85:8080?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@188.114.97.6:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=Dnlu2.iraniranshopdashnoard.ir&mode=auto&sni=Dnlu2.iraniranshopdashnoard.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@88.216.67.230:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=Dnlu2.iranucshop.ir&sni=Dnlu2.iranucshop.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@91.107.147.56:8443?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@89.167.80.120:8443?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@151.101.109.223:443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=DEYXX.global.ssl.fastly.net&mode=auto&sni=biography.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@88.216.67.230:2083?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=Arm2.downloadgameiran.ir&sni=Arm2.downloadgameiran.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
