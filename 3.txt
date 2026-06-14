@@ -2,28 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.68:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40Raiv2mmr
-
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443?note=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40Raiv2mmr
-
-vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@46.225.155.159:1006?security=reality&encryption=none&pbk=2iijxUyJsanFAkX0ctH6H4RTW1N4mQYnIsaP8qrbbS8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=yahoo.com&sid=0c3a409c2ba7d083¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40Raiv2mmr
-
-vless://060cd76b-72e1-478f-b6c9-8e6d2bdc5517@151.101.109.223:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://3304e9f3-cb9d-4d28-975c-e0034953e4a3@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.daraflo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daraflo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://7b795586-7da4-4943-a3e0-99f822b4dd02@cdn-m1.largesite.ir:2095?path=%2F%3Fed%3D8080&security=none&encryption=none&host=f-watashi-r-jacket-o-people-jan.barcodefilm.IR.&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
-
-vless://fb8b3229-d792-4dc3-b87a-6da84f098c03@178.105.3.69:38639?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.89:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d515d6cfdfe60b02#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://7b795586-7da4-4943-a3e0-99f822b4dd02@cdn-m1.largesite.ir:2095?encryption=none&type=httpupgrade&path=%2F%3Fed%3D8080&host=f-watashi-r-jacket-o-people-jan.barcodefilm.IR.#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40vaslbemonim7
-
-vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?encryption=none&type=ws&security=tls&path=%2Fws&host=newgen14.hozheen.ir&sni=4dcb0d80784f3081.hozheen.ir&insecure=0&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vaslbemonim7
-
-vless://6585a62b-4d8b-48cc-bdad-e2542504d748@172.67.103.152:8443?encryption=none&type=xhttp&security=tls&path=%2F&host=Itsrezu2.dr-ping.com&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=Itsrezu2.dr-ping.com&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40vaslbemonim7
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2ray_freex
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40v2ray_freex
@@ -77,6 +55,8 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.133:8443?security=tls&en
 vless://6e41151e-ae07-4ea6-910e-7a3986b7bc0d@31.76.38.18:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=d82fb387#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.163:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@46.225.155.159:1006?security=reality&encryption=none&pbk=2iijxUyJsanFAkX0ctH6H4RTW1N4mQYnIsaP8qrbbS8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=yahoo.com&sid=0c3a409c2ba7d083¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://f3adc756-5103-422c-9db9-3f8d333e14bd@lumora24.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora24.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora24.playon.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
@@ -2870,6 +2850,8 @@ vless://4420b035-6035-4be5-a276-c5a9ababdef2@104.17.121.71:443?alpn=h2%2Chttp%2F
 
 vless://5364b2b3-f22c-4272-825e-e0f747ec6df8@ilookinpeopleswindow.itsnotfair.ir:11008?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=play.google.com&fp=edge&pbk=KR_f-E_pR8kfCW3Su1tjR3FWRtpcYAn_ajfKjiPZAAQ&sid=ec8926fc13a19d95#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?path=%2Fws&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&type=ws&allowInsecure=0&sni=4dcb0d80784f3081.hozheen.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40bored_vpn
+
 vless://7e139a78-f254-4702-6cb2-712e74200184@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://ec9a6edf-12d2-49b8-59b5-a36712c6bd10@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -3657,4 +3639,14 @@ trojan://96088230-67bd-11f1-a421-1239d0255272@soft98.ir:443/?sni=uk1.test3.net&t
 vless://53146906-5cb5-4332-ac19-d4822762b1cd@local.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
 vless://53146906-5cb5-4332-ac19-d4822762b1cd@cell.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://0c375c23-9fad-4f94-b033-f8811da23695@dota2fa.ir:26414?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://gx5fx0q4buwh4g4n@de2.yariresanbot.ir:26856?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&fp=chrome&type=grpc&serviceName=Panel&allowInsecure=0&sni=de2.yariresanbot.ir#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
+trojan://gx5fx0q4buwh4g4n@de2.yariresanbot.ir:41883?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=de2.yariresanbot.ir&fp=chrome&type=ws&allowInsecure=0&sni=de2.yariresanbot.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiZGUyLnlhcmlyZXNhbmJvdC5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMzY4Yzg0MGItZjVkYi00ZGRiLTg4YWMtODE0ODkwOTg2N2Y3IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI1MTQxNCIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
+
+vless://368c840b-f5db-4ddb-88ac-8148909867f7@de2.yariresanbot.ir:14342?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=de2.yariresanbot.ir&allowInsecure=0&sni=de2.yariresanbot.ir#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
 
