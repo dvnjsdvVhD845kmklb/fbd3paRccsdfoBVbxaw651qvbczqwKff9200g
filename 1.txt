@@ -2,18 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://dafd485a-1460-4082-8457-37fc9b54b317@91.107.185.59:2096?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&security=reality&sid=68723956186d&sni=www.cloudflare.com&spx=%2FgHrcRR9lUSngmRr&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://dafd485a-1460-4082-8457-37fc9b54b317@91.107.185.59:1080?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=8UADlZT6MI4J51E-Az4n4x68utNVUewjAPygkG_6Nyo&security=reality&sid=947165&sni=www.sony.com&spx=%2FPX9J4VQyn5qjZew&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://dafd485a-1460-4082-8457-37fc9b54b317@91.107.185.59:4043?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=ymlfKdtlbiHM7nfc15dfg_bnv0tnyd3GZR06Gz5W6R4&security=reality&sid=23&sni=www.amd.com&spx=%2FxbrqnNYbudiQO4s&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://dafd485a-1460-4082-8457-37fc9b54b317@91.107.185.59:2026?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=k_XqDLeMBsuDxeunm-TlN_dDvx2RR292cVWrpL-QvUE&security=reality&sid=b705fb11&sni=www.nvidia.com&spx=%2FFbOWnXUM1pSbZWt&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://dafd485a-1460-4082-8457-37fc9b54b317@91.107.185.59:8080?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=zpB9nr7BiMTUIAf7yzNC8PK5xmrMu_obV0XQ5NY031U&security=reality&sid=7c1d4a9f86&sni=aws.amazon.com&spx=%2FvDh3mnUFgCetF9c&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://dafd485a-1460-4082-8457-37fc9b54b317@91.107.185.59:8880?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=1P6G12_CsCrgTmgSw92S3XMU-bukSAWVWdAqMiiChVU&security=reality&sid=f8&sni=www.intel.com&spx=%2FNmM0bt84yHTPZe2&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
 vless://dafd485a-1460-4082-8457-37fc9b54b317@91.107.185.59:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=Hwe7g18fPOB7YoeqGLarigYkna0GsXcTC8-ounz25AQ&security=reality&sid=16&sni=arvancloud.ir&spx=%2FhC6MTitCVMRUZ9M&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://dafd485a-1460-4082-8457-37fc9b54b317@91.107.185.59:1040?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=QGNDB8osX42rKSsOZQZRuA1tzKUZtjHA5bUjAReQHiM&security=reality&sid=4ed6429d&sni=www.oracle.com&spx=%2FsxB7e3RVD6boMx6&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
@@ -52,37 +40,15 @@ vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@208.103.161.170:443?path=%2Ftsghdws
 
 vless://d6f8f540-5dbf-4f16-8e3e-37697cf7eb6d@3.67.85.74:333?mode=stream-one&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=KyB5n_bhNTO6mJFR3NaxNVkk01-J7phohSBm91WvQgw&fp=randomized&spx=%2FCShqC8noJqzPPfE&type=xhttp&sni=www.python.org&sid=c282a2#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
 
-vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40prrofile_purple
+trojan://telegram-id-directvpn@52.47.119.234:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
-vless://3f761d67-e57a-4b1c-835b-4110a458db38@re2-4bnt.onrender.com:443?path=%2Fws%2F3f761d67-e57a-4b1c-835b-4110a458db38&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=re2-4bnt.onrender.com&fp=chrome&type=ws&allowInsecure=0&sni=re2-4bnt.onrender.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40prrofile_purple
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.119.234:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
 
-vless://f0d3e195-907b-47e2-9226-5b5d0bb5846a@18.245.86.18:443?path=%2Fcrunchy&security=tls&encryption=none&insecure=0&host=d12bm5lhgblyhv.cloudfront.net&fp=chrome&type=ws&allowInsecure=0&sni=d12bm5lhgblyhv.cloudfront.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40prrofile_purple
+trojan://telegram-id-privatevpns@52.47.119.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
-trojan://mitivpn@188.114.97.202:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=d.gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40prrofile_purple
+vless://b1ac23fb-b336-4d37-a3c0-64b29c4ef3a4@s2.tehranionliine.ir:80?encryption=none&type=ws&path=/&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
 
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMFlXUmlZakV6TUMwMU1qY3pMVFExWVRrdE9UZzFaaTA1Wm1Nek0yRTBZekk1TkdF@free.2weradf.xyz:36111#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAiYWRkIjogIjE3Mi42NC4xNjYuMjgiLCAicG9ydCI6ICIyMDg2IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAiaG9zdCI6ICJpcDIuMTQ1NzIzMC54eXoiLCAidGxzIjogIiJ9
-
-trojan://telegram-id-privatevpns@52.209.59.140:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
-
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMFlXUmlZakV6TUMwMU1qY3pMVFExWVRrdE9UZzFaaTA1Wm1Nek0yRTBZekk1TkdF@free.2weradf.xyz:36741#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwbU1EQTBOREF6TmkweE9XTmpMVFEyWlRjdFlqSTRaaTAyTldGallqVTVOalZrT1RB@free.2apzhfa.xyz:31145#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMFlXUmlZakV6TUMwMU1qY3pMVFExWVRrdE9UZzFaaTA1Wm1Nek0yRTBZekk1TkdF@free.2weradf.xyz:36315#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpreXdOS0xPbEFha21nUnhhOXhxdkhV@141.98.169.248:25757#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.53:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=xf.ylks.xyz#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vless://c463c536-4323-4a21-7e69-8b8e69e4c865@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&host=cdn.daraflo.ir&fp=chrome&type=ws&sni=cdn.daraflo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://876cd678-4477-4a74-60e2-e91488d38fbf@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=cdn.daraflo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daraflo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://ba1b923b-eeff-402d-64b1-92ad2ad30992@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://94e00788-9664-4ff5-7943-3a7166b4f2df@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://cc4ffbe6-5b3d-488a-add9-8a0d61f09aaa@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
 
 vless://7e5e0dfd-c8b9-4ade-b721-76583d1a1dcd@sdeovbmthdpwdlxsc.dadashinet10.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40NETMelliAnti
 
@@ -93,4 +59,16 @@ vless://708e7929-a262-4fb9-b09d-e70e2bc84b7b@gamefictoinspeed.info:8443?mode=str
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40meliproxyy
 
 vless://4ded6227-4e87-478b-b572-087570e5dd21@tehran.moonshiner.ir:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt._lI8Ae6vmZZE9h6glA0os3qt9pAiwpGtcxLr9r0ABVU&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40NETMelliAnti
+
+vless://dafd485a-1460-4082-8457-37fc9b54b317@91.107.185.59:2096?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&security=reality&sid=68723956186d&sni=www.cloudflare.com&spx=%2FgHrcRR9lUSngmRr&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://dafd485a-1460-4082-8457-37fc9b54b317@91.107.185.59:1080?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=8UADlZT6MI4J51E-Az4n4x68utNVUewjAPygkG_6Nyo&security=reality&sid=947165&sni=www.sony.com&spx=%2FPX9J4VQyn5qjZew&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://dafd485a-1460-4082-8457-37fc9b54b317@91.107.185.59:4043?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=ymlfKdtlbiHM7nfc15dfg_bnv0tnyd3GZR06Gz5W6R4&security=reality&sid=23&sni=www.amd.com&spx=%2FxbrqnNYbudiQO4s&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://dafd485a-1460-4082-8457-37fc9b54b317@91.107.185.59:2026?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=k_XqDLeMBsuDxeunm-TlN_dDvx2RR292cVWrpL-QvUE&security=reality&sid=b705fb11&sni=www.nvidia.com&spx=%2FFbOWnXUM1pSbZWt&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://dafd485a-1460-4082-8457-37fc9b54b317@91.107.185.59:8080?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=zpB9nr7BiMTUIAf7yzNC8PK5xmrMu_obV0XQ5NY031U&security=reality&sid=7c1d4a9f86&sni=aws.amazon.com&spx=%2FvDh3mnUFgCetF9c&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://dafd485a-1460-4082-8457-37fc9b54b317@91.107.185.59:8880?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=1P6G12_CsCrgTmgSw92S3XMU-bukSAWVWdAqMiiChVU&security=reality&sid=f8&sni=www.intel.com&spx=%2FNmM0bt84yHTPZe2&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
