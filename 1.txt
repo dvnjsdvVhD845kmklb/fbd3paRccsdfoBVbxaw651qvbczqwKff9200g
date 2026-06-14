@@ -2,16 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://1fb10d77-5016-4b4a-9104-47689c9133e3@188.213.198.238:4050?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://65ceef27-25bd-4912-8a14-7ccd9c005530@188.213.198.238:4050?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://9a079093-5e37-4a95-894c-b546678760e3@axs.amirxshot.ir:2095?path=%2Faxs&security=none&encryption=none&host=pl33.sazegostaran-iran.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://9a079093-5e37-4a95-894c-b546678760e3@pc.amirxshot.ir:8443?path=%2Faxs&security=tls&encryption=none&insecure=0&host=pc.amirxshot.ir&fp=chrome&type=ws&allowInsecure=0&sni=axs.amirxshot.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://9a079093-5e37-4a95-894c-b546678760e3@104.25.255.254:8443?path=%2Faxs&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=pc.amirxshot.ir&fp=chrome&type=ws&allowInsecure=0&sni=axs.amirxshot.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://81bdb421-2867-50c2-ee77-8639fada131e@vulmart.ir:443?security=reality&encryption=none&pbk=ExwGZ1slIDUL61uKEeIz3rboKjXwsHJpPTuY3a8F73s&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=51f53398#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://e29002c3-00b6-4876-b133-0497512cae7b@snapp.ir:80?encryption=none&host=nbcnews.holbdbd.ir&path=%2Fushue&security=none&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
@@ -121,4 +111,14 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAi
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@198.62.62.77:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=vf.ylkszy.eu.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
 vless://d7c27e1d-5595-4c0d-ad66-860e6c66672a@151.101.66.219:443?security=tls&sni=speedtest.net&type=ws&host=digistore.com&path=%2F%3Fed%3D1024&fp=firefox&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+vless://1fb10d77-5016-4b4a-9104-47689c9133e3@188.213.198.238:4050?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://65ceef27-25bd-4912-8a14-7ccd9c005530@188.213.198.238:4050?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://9a079093-5e37-4a95-894c-b546678760e3@axs.amirxshot.ir:2095?path=%2Faxs&security=none&encryption=none&host=pl33.sazegostaran-iran.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://9a079093-5e37-4a95-894c-b546678760e3@pc.amirxshot.ir:8443?path=%2Faxs&security=tls&encryption=none&insecure=0&host=pc.amirxshot.ir&fp=chrome&type=ws&allowInsecure=0&sni=axs.amirxshot.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://9a079093-5e37-4a95-894c-b546678760e3@104.25.255.254:8443?path=%2Faxs&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=pc.amirxshot.ir&fp=chrome&type=ws&allowInsecure=0&sni=axs.amirxshot.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
