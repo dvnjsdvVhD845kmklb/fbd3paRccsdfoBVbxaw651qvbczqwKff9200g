@@ -2,22 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://b09edab7-9787-4f10-bc4e-a670df62fe78@188.114.97.6:8443?path=%2Fapi%2Fv3&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=safari&type=ws&allowInsecure=0&sni=cb1300bking.bicycleandmotorsg2.shop#%F0%9F%8C%90%20WS-TLS%20%7C%20%40NETMelliAnti
-
-trojan://telegram-id-directvpn@63.186.10.105:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.186.10.105:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@63.186.10.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.233.46.174:2096?mode=gun&security=none&encryption=none&type=grpc&serviceName=fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
-
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@216.24.57.1:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=octopusss4.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://293cb761-2650-412e-9f7a-951ca0607283@snapp.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=panel.sherobatski.ir&fp=chrome&type=ws&allowInsecure=0&sni=panel.sherobatski.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?encryption=none&type=ws&security=tls&path=%2Ftsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&sid=6f3192#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
@@ -43,6 +27,8 @@ vless://e7c9c831-b26f-4b73-ba2b-9f372eaed956@mci.connectingissues.ir:80?mode=aut
 vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@188.114.97.6:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=alphacdn.alphashops.shop&fp=chrome&type=ws&allowInsecure=0&sni=alphacdn.alphashops.shop#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://5c451ea5-9d15-4dc5-94dc-b5a4fdcf1505@128.140.2.203:20287?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://b09edab7-9787-4f10-bc4e-a670df62fe78@188.114.97.6:8443?path=%2Fapi%2Fv3&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=safari&type=ws&allowInsecure=0&sni=cb1300bking.bicycleandmotorsg2.shop#None%20WS-TLS%20%7C%20%40Free_World2
 
 vless://2d11f9a7-5cb9-4a76-acbe-0064305b570a@45.130.125.194:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vi.new-persian-song.ir#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40FreakConfig
 
@@ -3951,4 +3937,22 @@ vless://ea208af5-67dc-4c54-7391-45b5c681b030@snapp.ir:2087?path=%2FBetForward&se
 trojan://SoftNetConnect@185.204.169.129:443?security=reality&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=141b14d8#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
 
 vless://514c3e5d-8c77-455d-beb3-4f2092352fee@trr.roshdrrr.ir:2086?path=%2F&security=none&encryption=none&host=trr.roshdrrr.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiNDcuODYuNDQuMTc5IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICIyNTk3ZjNmZi1lMTlkLTQzMTgtODQ4ZS1kY2ZmMTgwYTM0ZTIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMjA1MjEsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBIb3BlX05ldCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+
+vmess://eyJhZGQiOiAiNDcuODYuNDYuOTYiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjA0ZjM0ODFiLTQzN2ItNGJkNC04MjEwLTAzMzAwMmVlNDhiYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAyMDUyMSwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1Ob25lIHwgQEhvcGVfTmV0IiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+
+vmess://eyJhZGQiOiAiYnRidTk5Ni5pY3UiLCAiYWlkIjogMCwgImhvc3QiOiAiYnRidTk5Ni5pY3UiLCAiaWQiOiAiMTY3MDJlYzItMzgwOC00NmU2LWE3YjUtNTgyYzA2MmJlMTNkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1UTFMgfCBASG9wZV9OZXQiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+
+vmess://eyJhZGQiOiAiMTA0LjI0LjEuNjkiLCAiYWlkIjogNjQsICJob3N0IjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3d3dy40MjA3NzIzMC54eXovcGF0aC8xNjgzNjI5MzE0OTE1IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtVExTIHwgQEhvcGVfTmV0IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+
+vmess://eyJhZGQiOiAiMTg1LjEzMy4zNS4xNzgiLCAiYWlkIjogMCwgImhvc3QiOiAiZTEzMDkxN2MtMWI1OC00MTM2LWIyZDktNzZkYzkyMGUwYWRkLmFkZDk3ZWU4LTBmMTQtNDhhMy1iMmNkLTk3OWM1Njc0MmU2NC5sb3NleW91cmlwLmNvbSIsICJpZCI6ICIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBIb3BlX05ldCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+
+vmess://eyJhZGQiOiAiNDcuODYuNDMuMjQyIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICJjZGIxMjM2ZC03YmQ1LTQyMTMtOTM3MS02NDA3YzJhYzg1YjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMzU5ODcsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBIb3BlX05ldCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+
+trojan://telegram-id-directvpn@18.157.235.242:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.157.235.242:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@18.157.235.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
 
