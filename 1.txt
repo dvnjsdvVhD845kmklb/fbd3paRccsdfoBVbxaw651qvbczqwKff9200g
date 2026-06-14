@@ -2,6 +2,8 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
+vless://25102a1a-e0ea-4a0d-a40d-c68f74d2fe9f@151.101.66.219:80?security=none&type=ws&serviceName=Telegram:@vpnwedbaz-@vpnwedbaz-Telegram:@vpnwedbaz&host=barkatc2.ir&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
+
 trojan://aabaccb-aacb-caba-bdca-caccabbbaacb@127.0.0.1:8080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
 
 vless://25102a1a-e0ea-4a0d-a40d-c68f74d2fe9f@151.101.130.219:80?security=none&type=ws&serviceName=Telegram:@vpnwedbaz-@vpnwedbaz-Telegram:@vpnwedbaz&host=barkatc2.ir&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
@@ -43,6 +45,4 @@ vmess://eyJhZGQiOiAidjIua2Rhbm1tZ21hc3oueHl6IiwgImFpZCI6IDAsICJob3N0IjogInYyLmtk
 vmess://eyJhZGQiOiAiMjAzLjMwLjE5MS4yIiwgImFpZCI6IDAsICJob3N0IjogIm9wbGcxLmNmY2RuMi54eXoiLCAiaWQiOiAiYzVhMmQ3YjgtYmY4NC00Zjk3LTg1NzctYjliODdmMmJhYWY3IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9BVUlLTjhBVSIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBIb3BlX05ldCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
 
 vmess://eyJhZGQiOiAiMTA0LjIxLjI4LjYyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImdsd2VpZGYuY2ZkIiwgImlkIjogIjEwNTJmMjRlLTdiMDktNDVlYi1iMGM1LWQ4NThlYjEyNDE5MiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJnbHdlaWRmLmNmZCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtVExTIHwgQEhvcGVfTmV0In0=
-
-vless://25102a1a-e0ea-4a0d-a40d-c68f74d2fe9f@151.101.66.219:80?security=none&type=ws&serviceName=Telegram:@vpnwedbaz-@vpnwedbaz-Telegram:@vpnwedbaz&host=barkatc2.ir&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
 
