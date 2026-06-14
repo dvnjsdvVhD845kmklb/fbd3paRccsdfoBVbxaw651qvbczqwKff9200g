@@ -3934,3 +3934,15 @@ vless://55e2771c-5d36-429d-8f9c-e1eb460e1cca@fi.mobileemdad.top:42538?type=tcp&h
 
 vless://29b2695f-dcc2-489c-bc43-5b6be1c06bc6@91.107.174.146:14815?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vaslbemonim7
 
+vless://86b273b9-1c0e-477c-be89-d15e6f0ae8cf@82.40.62.59:10421?security=reality&encryption=none&pbk=EA0Cc-YmlMRP8zB3KI0-s-uXoBwXYYyt-ItMxgD5o0I&headerType=none&fp=chrome&spx=%2FSHA67xll2L072h3&type=tcp&sni=www.nvidia.com&sid=06a2eb0bdd#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40FarazV2ray
+
+vless://86b273b9-1c0e-477c-be89-d15e6f0ae8cf@82.40.62.59:10421?security=reality&encryption=none&pbk=EA0Cc-YmlMRP8zB3KI0-s-uXoBwXYYyt-ItMxgD5o0I&headerType=none&fp=chrome&spx=%2FHfPD15jqcEY16wB&type=tcp&sni=www.nvidia.com&sid=5bf6ba#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40FarazV2ray
+
+vless://b733d5eb-b5a9-4843-b50c-3e12857004b0@82.40.62.59:45262?security=reality&encryption=none&pbk=QwZuIaHhRuaiQPSUiWuBR8q8qrUHWXuxPCjnANcdJk0&headerType=none&fp=chrome&spx=%2FNaLUy1nTaedq3Q6&type=tcp&sni=www.sony.com&sid=989441#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40FarazV2ray
+
+vless://b5b09cf7-78cc-4db1-9d18-476e92878e08@45.194.10.93:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40FarazV2ray
+
+vless://ed8cc0e7-57ad-4a8f-afca-df81ca5a3a03@global.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40FarazV2ray
+
+vless://ed8cc0e7-57ad-4a8f-afca-df81ca5a3a03@euro.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40FarazV2ray
+
