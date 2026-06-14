@@ -4148,3 +4148,5 @@ vless://b99bfa4a-d8a7-4cd5-96d2-0f2a9b936ba0@plan.opann.ir:443?encryption=none&s
 
 vless://733df03a-6a3d-43eb-8554-a4702af48fe3@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=germwoijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://07bfc6ab-0a02-4e19-841e-4fc97ecc6fb4@45.85.119.181:443?encryption=none&security=tls&type=ws&headerType=none&host=forczech.fairit.ir&sni=8cc2d04cda0c4433.fairit.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
