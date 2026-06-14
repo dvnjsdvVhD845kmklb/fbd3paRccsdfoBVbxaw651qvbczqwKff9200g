@@ -2,10 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://FrjxoMII5YnJhxjddykNn4xbE55CdWAMZ1va21jKSBdtYZKDoXVr8QrxsJx5Sh0xRRwkfLZb4SqKZ0ILUBZ1TbbSUrgP8NpYQMAGRe3E46BBXayURU+D3Yy/ChO99ZBN/5Or9culY44a1M0K7lpstAvxYyBKMsrgeP0Qk75Dkrc8m6rdln0DVq/NdCJXOsvQjDdv6XkH1XvFzCWFphFwPqUELmrKLwq6SF66t…#None%20TCP-None%20%7C%20%40V2rayNG_SPDNet
-
-vless://i0UuwnFQI155eMWE2lV/8g63zMFbHsZHvelyoSnW43tcT2N7RBr+E6vHNZpiS5FcPG80Zw6Y/AajbQ25uzK/rj1nMWIsB4fDSJL7KQrnsAaglEeYnx6QICzMMEXUDwCGUDvawzWD67vIfQLb+ngoLb7hKz4KGKaAqasQGq1HWg8WTAZOY0a8LX+fqB/XSu9Uw5MZ/dpE/T0lmT7ZCRrRm8muRiGFz…#None%20TCP-None%20%7C%20%40V2rayNG_SPDNet
-
 vless://8d1803b9-f9ff-4c09-a6d0-aceb98c4a019@de.srv.anti-zapret.com:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=de.srv.anti-zapret.com&sid=58fbcddfaae3ade9&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://7be2c804-9681-4b3f-8043-be22a816686d@digitalocean.com:443?path=%2Fproxyip%3D38.180.78.255&security=tls&encryption=none&host=holy-credit-6c50.gorgalibombom.workers.dev&fp=chrome&type=ws&sni=holy-credit-6c50.gorgalibombom.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
