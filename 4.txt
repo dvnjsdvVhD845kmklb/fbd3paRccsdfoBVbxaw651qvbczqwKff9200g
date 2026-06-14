@@ -2,39 +2,23 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://44f50a31-adc6-4b22-a57f-6ad71b099791@dojes.helsinki2upload.shop:443?security=reality&encryption=none&pbk=H31-ZOmrmgdlPwXBr7K-NuEW5Ro3qAnXwS-W0gxsjxQ&headerType=&fp=chrome&spx=/UqSUrd6kyv7EDw4&type=tcp&sni=www.aparat.com&sid=a88fb4c2¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40Raiv2mmr
+vless://7c3f08c8-7b3b-4028-91d8-378a18c2b62a@185.227.149.123:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=mycatcollection.com&sid=6ba85179e30d4fc2#%F0%9F%87%A8%F0%9F%87%AD%20TCP-Reality%20%7C%20%40FreakConfig
 
-vless://6404860c-dadf-4689-163f-6dfb267d791f@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.daraflo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daraflo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%20WS-TLS%20%7C%20%40FreakConfig
 
-trojan://ba8499823a974085bba83ef7f680e35c@104.16.73.99:2087?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=germanpubliciran.velizor.ir&fp=chrome&type=ws&allowInsecure=0&sni=germanpubliciran.velizor.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40FreakConfig
 
-vless://2e7e6c5f-e565-4240-ada3-7cfefd1b14b5@rznir.ryzenboost.ir:7070?path=%2FKinD&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=rznir.ryzenboost.ir&fp=chrome&type=ws&allowInsecure=0&sni=rznir.ryzenboost.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40FreakConfig
 
-vless://ed8cc0e7-57ad-4a8f-afca-df81ca5a3a03@global.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=1&sni=hetz.x-smm.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40FreakConfig
 
-vless://ed8cc0e7-57ad-4a8f-afca-df81ca5a3a03@mci.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40FreakConfig
 
-vless://ed8cc0e7-57ad-4a8f-afca-df81ca5a3a03@local.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+vless://bf3e8944-8d26-47de-8748-b9aa74cce974@64.188.104.168:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=df8611c07d#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40FreakConfig
 
-vless://12cb0a24-0438-4980-8617-9c93205895fa@104.17.107.119:443?path=%2F&security=tls&encryption=none&insecure=0&host=kakoolnews.4kakoolnews.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=kakoolnews.4kakoolnews.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://aab1a536-7a2c-4357-a0e0-8cdde41845c6@glob.thisiswe.uno:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=nobitex.sylu.net&fp=chrome&type=ws&allowInsecure=0&sni=nobitex.sylu.net#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40FreakConfig
 
-vless://b6b87cd7-c52a-4020-ad7a-493cd64e7b26@cname.bizimizi.ir:8443?alpn=http%2F1.1&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220%22%2C%22length%22%3A%221-3%22%2C%22maxSplit%22%3A%223%22%2C%22packets%22%3A%221-3%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome&host=de.bizimizi.ir&path=%2Fdutch&security=tls&sni=de.bizimizi.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&type=ws&allowInsecure=1&sni=hetz.x-smm.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40FreakConfig
 
-vless://b6b87cd7-c52a-4020-ad7a-493cd64e7b26@cname.bizimizi.ir:443?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220%22%2C%22length%22%3A%221-3%22%2C%22maxSplit%22%3A%223%22%2C%22packets%22%3A%221-3%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome&host=de.bizimizi.ir&mode=auto&path=%2F&security=tls&sni=de.bizimizi.ir&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://b6b87cd7-c52a-4020-ad7a-493cd64e7b26@cname.bizimizi.ir:8443?alpn=http%2F1.1&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220%22%2C%22length%22%3A%221-3%22%2C%22maxSplit%22%3A%223%22%2C%22packets%22%3A%221-3%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome&host=connecttr.bizimizi.ir&path=%2Ftr&security=tls&sni=connecttr.bizimizi.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://b6b87cd7-c52a-4020-ad7a-493cd64e7b26@cname.bizimizi.ir:2053?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=connectli.bizimizi.ir&path=%2F&security=tls&sni=connectli.bizimizi.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-TLS%20%7C%20%40filembad
-
-vless://b6b87cd7-c52a-4020-ad7a-493cd64e7b26@cname.bizimizi.ir:2053?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=de.bizimizi.ir&path=%2F&security=tls&sni=de.bizimizi.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-TLS%20%7C%20%40filembad
-
-vless://b6b87cd7-c52a-4020-ad7a-493cd64e7b26@cname.bizimizi.ir:443?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220%22%2C%22length%22%3A%221-3%22%2C%22maxSplit%22%3A%223%22%2C%22packets%22%3A%221-3%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome&host=connectli.bizimizi.ir&mode=auto&path=%2F&security=tls&sni=connectli.bizimizi.ir&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://b6b87cd7-c52a-4020-ad7a-493cd64e7b26@cname.bizimizi.ir:2096?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220%22%2C%22length%22%3A%221-3%22%2C%22maxSplit%22%3A%223%22%2C%22packets%22%3A%221-3%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome&host=connecttr.bizimizi.ir&mode=auto&path=%2F&security=tls&sni=connecttr.bizimizi.ir&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://b6b87cd7-c52a-4020-ad7a-493cd64e7b26@cname.bizimizi.ir:8443?alpn=http%2F1.1&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220%22%2C%22length%22%3A%221-3%22%2C%22maxSplit%22%3A%223%22%2C%22packets%22%3A%221-3%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome&host=connectli.bizimizi.ir&path=%2F&security=tls&sni=connectli.bizimizi.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://b6b87cd7-c52a-4020-ad7a-493cd64e7b26@cname.bizimizi.ir:2053?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=connecttr.bizimizi.ir&path=%2F&security=tls&sni=connecttr.bizimizi.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-TLS%20%7C%20%40filembad
-
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+vless://1504f920-92d3-47c4-9b11-74b08b6ce895@nothing.special.flashthing.shop:10234?encryption=none&type=tcp&security=reality&sni=www.alibaba.com&fp=chrome&insecure=1&allowInsecure=1&pbk=UIIqS76jHkHqy7uWOGNJaqlQnZT69WGVzCwzD_W25xk&sid=4f6b05e0&spx=%2FFOWB6qj90MRAKFm#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40vaslbemonim7
 
