@@ -2,12 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.170:8443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
-vless://84539eef-b551-4d41-b85f-4b07c83db922@pl-2.pandaonline.org:443?security=reality&encryption=none&pbk=8nKH8G-zPFcTUegyTT_bwRkSGR4ZTvWPXGEMHS_4JxQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl-2.pandaonline.org#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://84539eef-b551-4d41-b85f-4b07c83db922@aut1.pandaonline.org:443?security=reality&encryption=none&pbk=u_XXbyCKtsoktrL7Fr18etd0GkXNnEI-YGKMuTywsEo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=aut1.pandaonline.org#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
 
 vless://3159c3a7-d306-ae48-f114-359a2fc00dc3@143.246.136.73:443?path=%2FTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAY&security=&encryption=none&host=play.google.com&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40V2HUBIR
@@ -33,6 +27,8 @@ vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?mode=aut
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.149:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2HUBIR
 
 vless://cd2f4568-5373-4aa5-ad54-c45b59644e2f@test.axylegend.ir:10489?security=reality&encryption=none&pbk=BWFQ-BxFck2L0gjbXILc0Sh_rOy_YH9YYFf5kw5SsAI&headerType=&fp=ios&spx=%2F3MDf6BmNatxeFUY&type=tcp&sni=play.google.com&sid=0df07f6da6#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2HUBIR
+
+vless://84539eef-b551-4d41-b85f-4b07c83db922@pl-2.pandaonline.org:443?security=reality&encryption=none&pbk=8nKH8G-zPFcTUegyTT_bwRkSGR4ZTvWPXGEMHS_4JxQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl-2.pandaonline.org#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2HUBIR
 
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.174:8443?security=tls&encryption=none&insecure=1&headerType=&fp=chrome&type=tcp&allowInsecure=1&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2HUBIR
 
@@ -1465,6 +1461,8 @@ vless://c8e11023-46fa-1b86-28d4-2efc15ed19dd@143.246.136.73:443?path=%2FTel%3A%4
 vless://f1f9cecd-5ee5-4658-a6be-df0df24fcc36@de-1d.harchihast.com:2080?security=reality&encryption=none&pbk=wwWNQXQHcZm7TOPWdD7LCpQd2OvwWyGZzWiZG8osP2k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=230c6f9362e4551f#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2HUBIR
 
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.73:8443?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2HUBIR
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.170:8443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2HUBIR
 
 vless://c51fa218-735a-49ec-a154-be5d18b40402@199.232.78.159:80?mode=auto&path=%2Fxhttp&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%220%22%7D&host=kabotar.global.ssl.fastly.net&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40V2HUBIR
 
