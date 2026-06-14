@@ -2,7 +2,11 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
+vless://d3d08cd8-617e-41ff-24d5-37df66a4ae26@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://c66ac69a-447c-4f5e-1d7d-c924470952b5@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=cdn.daraflo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daraflo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://e7d8a707-307c-4e88-a288-57ba0d1be8cb@82.40.62.59:54095?security=reality&encryption=none&pbk=Fn29yquJA7Yn6eyeBwlOlQYZCK5wcW4xqafxOk8yoXs&headerType=none&fp=chrome&spx=%2FM9mJuUFifhcmZ7z&type=tcp&sni=www.intel.com&sid=321625321970#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://e93b07ea-abe1-4bab-a751-a5335b07fcb8@page.irhubby.ir:2053?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=vips.irhubby.ir&mode=auto&path=%2F&security=tls&sni=vips.irhubby.ir&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
@@ -64,15 +68,19 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?encryption=
 
 vless://992c9385-8902-4017-a3cc-85a2af608eaf@ez-9be927.ezaccess1f8f911.workers.dev:2087?encryption=none&security=tls&sni=ez-9be927.ezaccess1f8f911.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ez-9be927.ezaccess1f8f911.workers.dev&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.72:8443/?type=tcp&encryption=none&flow=&security=tls&sni=cdn7-09.vk-cdnvideo.com&fp=chrome#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+vless://992c9385-8902-4017-a3cc-85a2af608eaf@ez-9be927.ezaccess1f8f911.workers.dev:2053?encryption=none&security=tls&sni=ez-9be927.ezaccess1f8f911.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ez-9be927.ezaccess1f8f911.workers.dev&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-vless://a6349c3f-5234-4821-80b4-d99b33f0924d@fr-gt-01.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=chrome&security=reality&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=f34818a561dfd1fe#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+vless://992c9385-8902-4017-a3cc-85a2af608eaf@ez-9be927.ezaccess1f8f911.workers.dev:2083?encryption=none&security=tls&sni=ez-9be927.ezaccess1f8f911.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ez-9be927.ezaccess1f8f911.workers.dev&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-trojan://mitivpn@135.84.67.77:443?path=%2Fed%3Dmitivpn&security=tls&insecure=0&host=cdn.gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://992c9385-8902-4017-a3cc-85a2af608eaf@ez-9be927.ezaccess1f8f911.workers.dev:80?encryption=none&security=none&sni=ez-9be927.ezaccess1f8f911.workers.dev&fp=chrome&type=ws&host=ez-9be927.ezaccess1f8f911.workers.dev&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
-vless://34f2df07-0315-4be3-b7a3-05283bc43f0f@104.26.6.159:2053?security=tls&encryption=none&insecure=1&host=noone3.bingnet.online&fp=chrome&type=ws&allowInsecure=1&sni=noone3.bingnet.online#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://992c9385-8902-4017-a3cc-85a2af608eaf@ez-9be927.ezaccess1f8f911.workers.dev:2082?path=%2F&security=none&encryption=none&insecure=0&host=ez-9be927.ezaccess1f8f911.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9be927.ezaccess1f8f911.workers.dev#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
+vless://992c9385-8902-4017-a3cc-85a2af608eaf@ez-9be927.ezaccess1f8f911.workers.dev:2095?path=%2F&security=none&encryption=none&insecure=0&host=ez-9be927.ezaccess1f8f911.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9be927.ezaccess1f8f911.workers.dev#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=1&host=octopusss4.com&type=ws&allowInsecure=1&sni=octopusss4.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://992c9385-8902-4017-a3cc-85a2af608eaf@ez-9be927.ezaccess1f8f911.workers.dev:2052?path=%2F&security=none&encryption=none&insecure=0&host=ez-9be927.ezaccess1f8f911.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9be927.ezaccess1f8f911.workers.dev#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://992c9385-8902-4017-a3cc-85a2af608eaf@ez-9be927.ezaccess1f8f911.workers.dev:2086?path=%2F&security=none&encryption=none&insecure=0&host=ez-9be927.ezaccess1f8f911.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9be927.ezaccess1f8f911.workers.dev#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://704e2ff6-e12a-45f1-1c36-82ba0f12de1d@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
