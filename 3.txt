@@ -2,16 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-trojan://h1jg9b33-dqd0-it3m-wrue-x2112b7t5g4n@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://ypgkab66-loux-0r7f-uvgi-3c8bju9oha4a@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://7gnapwof-cccm-n5hl-wf60-5w9fuhcx9yqh@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-vless://64c03b7a-f3f3-4d78-bc82-a233ced89cea@divar.ir.shakhle.ir:25000?type=grpc&security=reality&sni=www.yahoo.com&pbk=D9EktvCfJb5l8mBkJHx3U31BIUwIBHJKV85OzyNnDlU&sid=6ba85179e30d4fc3#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40Trick_mobil
-
-trojan://Mitivpn@208.103.161.33:443?sni=www.hitgram.ir&peer=www.hitgram.ir&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBOb3ZvU2VydmUgQi5WLiBcdTI1MDcgMTU2LjI0OS4xOC4xMDciLCJhZGQiOiIxNTYuMjQ5LjE4LjEwNyIsInBvcnQiOjQxMDAwLCJpZCI6ImY5ZmEzYTljLWY3ZDUtNDE0Zi04OGU2LTY5NzA1ODVkOTk0OSIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGF0aC8zNDIxMjEyMzA4MTgiLCJ0bHMiOiJ0bHMifQ#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
 
 vmess://eyJ2IjoiMiIsInBzIjoiWFggXHVkODNjXHVkZmYzXHVmZTBmIFx1MjUwNyBWTUVTUy1XUy1OVExTIFx1MjUwNyBOb25lIiwiYWRkIjoiODA5NTk3OGEtNGNmOC0zNjY4LWJkZjItNGJmN2JkMTc5MDg2Lm9uZXBsdXMucHViIiwicG9ydCI6ODAsImlkIjoiNDZjZmNmZTEtZTQ1MC00NTlkLWEzYWItOTQwNjAxMWFiM2ViIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyJ9#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
