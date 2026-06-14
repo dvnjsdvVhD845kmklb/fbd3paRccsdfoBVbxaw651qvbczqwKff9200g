@@ -2,15 +2,3 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://13ffaf74-1b49-4e14-a799-3de653149103@ez-106510.ezaccess1796357.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-106510.ezaccess1796357.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-106510.ezaccess1796357.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
-
-vless://05dde938-bb2d-41c3-b176-2a9d370489b4@199.232.78.159:443?encryption=none&type=ws&security=tls&path=%2F&host=pan1.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
-
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://039a1658-e86e-475f-a3a4-67cc249acada@144.124.228.113:443?security=reality&encryption=none&pbk=odHeTqoDcoPA6jeZStmaFPqoFg0ZiWwOKREEB0X-ez4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl3.panel11.ru&sid=e069bfaf9ba2069c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://c4e2ea1b-c92c-43db-9d05-295e160ec1b2@82.158.120.56:719?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=none&encryption=none&host=play.google.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://ZoRoVPN@203.202.232.11:36068?encryption=none&security=none&type=ws&host=Play.google.com&path=%2FZoRoVpn#%F0%9F%8C%90%20WS-None%20%7C%20%40Va3lSho
-
