@@ -6,3 +6,5 @@ vless://376c5245-c048-466d-bbc3-d7cc7d211084@31.184.244.103:443?security=reality
 
 vless://95c05eee-df38-4fd0-a2d5-64faa45ac2bc@Snapp.ir:8080?path=%2F&security=none&encryption=none&host=Mstpars.mparssian.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40vpnplusee_free
 
+vless://27eb830e-32b3-48cf-b367-e72e65659a13@agent.devilfullspeed.com:443?path=%2Fwebsk&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=agent.devilfullspeed.com&fp=chrome&type=ws&allowInsecure=0&sni=agent.devilfullspeed.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
