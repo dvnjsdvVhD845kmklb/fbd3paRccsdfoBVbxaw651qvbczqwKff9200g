@@ -3716,3 +3716,5 @@ vless://080888a9-fdea-4574-8409-6193b8d39b9f@188.114.97.6:443?path=%2Fwatson&sec
 
 trojan://d272e730-67b2-11f1-9e71-1239d0255272@chatgpt.com:443?pcs=35e439c4fdf8b4ff1aca8138a176afc4cc9f76869f305f5898cd58b8e98c4871&path=%2Fhowdy&security=tls&insecure=0&host=uk1.test3.NET&type=ws&allowInsecure=0&sni=uk1.test3.NET#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://5a4ef156-7139-4922-9198-f88a9ccaf3dc@169.40.32.242:8080?path=%2FPath&security=&encryption=none&host=169.40.32.242&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
