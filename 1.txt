@@ -2,16 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://edabe1ef-f78c-4230-a67a-a164de24d15a@87.120.106.73:8080?path=%2FV2RayyNGvpn&security=none&encryption=none&host=trx.ggxpboost.top&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40Capoit
-
-vless://edabe1ef-f78c-4230-a67a-a164de24d15a@5.175.141.113:8080?path=%2FV2RayyNGvpn&security=none&encryption=none&host=trx.ggxpboost.top&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40Capoit
-
-vless://cb34b554-25b2-4948-98f4-dc89f0fd9d05@87.120.92.158:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=smartcaptcha.yandexcloud.net&fp=firefox&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&type=tcp&headerType=none¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40Raiv2mmr
-
-vless://3b7950ed-e076-4a51-8df2-222a88689700@ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d037f6f67cc90016¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#%F0%9F%87%A8%F0%9F%87%AD%20TCP-Reality%20%7C%20%40Raiv2mmr
-
-vless://2065a8c9-8b3d-4dba-b0ce-90d649aa3da7@greb.loralden.com:443?security=reality&encryption=none&pbk=EUK_ePvEKUGcezQYHqgJ5P462XxLPXPm9CZWGLaL33k&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=greb.loralden.com&sid=3620820fe66d6731¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40Raiv2mmr
-
 vless://%40Net2ray@47.250.195.135:20393?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40vmess_ir
@@ -86,33 +76,15 @@ vless://887ad9d0-85bd-495f-b4af-10b066d32b9c@5.75.200.19:31742?mode=multi&securi
 
 vless://8b566a7a-db22-4964-90ac-f470e2900017@tr.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
-vless://61e688aa-3e6f-4b74-bf6e-22362a2edb26@fin3.flotaw.ir:8443?path=%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=mlkem768x25519plus.native.0rtt.TUi7u5UXHqLaEQK2w69XWLPOiKYd5Ded1AwEPgAvphg&insecure=0&host=ketab.flotaw.ir&fp=chrome&type=ws&allowInsecure=0&sni=ketab.flotaw.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@Chatgpt.com:8443?path=%2FV2rayNGSelllBoT---V2rayNGSelllBoT---V2rayNGSelllBoT&security=tls&encryption=none&host=nameless-sunset-62b7.jalalpoi77.workers.dev&fp=chrome&type=ws&sni=nameless-sunset-62b7.jalalpoi77.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
 
-vless://1909cd5c-1cd0-4df2-113b-048371d61bee@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://ea52d40f-be17-4789-91ec-55d7bb1821f2@neymar.ariyant.ir:80?authority=&encryption=none&security=none&serviceName=Tunnelme&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40V2rayng_Fast
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.160.118.77:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
+trojan://humanity@130.61.50.75:6443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calm#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
 
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@15.204.87.222:5001#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
+vless://eb9815da-41df-4571-8159-5a1d0512fc61@geo.newmelicp.sbs:3082?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@103.220.72.40:443?security=tls&sni=vf.ylkszy.eu.org&type=ws&path=%2F%3Fed#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.165:443?security=tls&sni=xf.ylks.xyz&type=ws&path=%2F%3Fproxyip#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.0:443?security=tls&sni=xf.ylks.xyz&type=ws&path=%2Fblue#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBIb3BlX05ldCIsICJhZGQiOiAiMTA0LjIxLjc0LjIzOSIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJhMTY1NWY1MS0xZTIwLTRhOTItOGExMS1iN2NhMzBhN2EzNTMiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYWZyaG1zMDcueGZpeGVkZmxvYXQuY2ZkIiwgInBhdGgiOiAiL2xpbmt3cyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJhZnJobXMwNy54Zml4ZWRmbG9hdC5jZmQiLCAidGVzdF9uYW1lIjogIjgifQ==
-
-vless://872b6957-aaff-4cee-9db0-4457ea2fee9d@151.101.2.219:443?security=tls&sni=speedtest.net&type=ws&host=http.www.speedtest.net.fast.com.unlimiteddev.ir.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&fp=firefox#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@204.110.220.3:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=vf.ylkszy.eu.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vless://7c3c9536-2fbb-44c1-8a14-f257202061b9@snapp.ir:80?type=ws&path=%2F&host=simorgh.garfar.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
-
-vless://dde00f06-f3bb-42d7-b78b-942c072bce0f@grns1.RaVeNlO.iR:7005?security=reality&encryption=none&pbk=yuhrNGOXd061lVl8AfE9wc7ctTApk-K6XAVnArJpWF8&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=dd9da58e3c5c641c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Outline_ir
-
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.16:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vmess://eyJhZGQiOiAibXl2cHNob3N0aW5nLm5hbWUubmciLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibXl2cHNob3N0aW5nLm5hbWUubmciLCAiaWQiOiAiOTY0MDhmOWEtZGYwMy00NDhiLWI3ZTQtZWM4ZTJjMjE2NjgyIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
+vless://38e8ebd9-685a-47a1-1329-257da699960a@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://dde00f06-f3bb-42d7-b78b-942c072bce0f@ba93516b9f8dc8e4.iRoNlY4l.iR:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vmess_ir
 
@@ -131,4 +103,18 @@ vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@213.155.23.184:443?security=reality
 vless://c8c77e5e-b217-4f4b-9933-1845bcf4152b@37.140.242.53:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://cb34b554-25b2-4948-98f4-dc89f0fd9d05@87.120.92.158:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=smartcaptcha.yandexcloud.net&fp=firefox&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://5f34acef-54ad-494f-b389-f02c1b781b5a@213.156.152.131:2042?encryption=none&security=reality&sni=www.oracle.com&fp=firefox&pbk=5h7WEKh_KWQjDANdeNNh6X_Mjvz2PdeTU_bIR2n65V4&sid=5e5a70f1b2&spx=%2Fwye1Ng4TjbHBhH1&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://c8c77e5e-b217-4f4b-9933-1845bcf4152b@37.140.242.53:443?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=N2lNP_mURhdPm_2BPeT_dAkELQaCEjjdhOkd_j8hCiE&sid=c033aa73790986&spx=%2FAmaFuzhCNQXsxer&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://edabe1ef-f78c-4230-a67a-a164de24d15a@87.120.106.73:8080?path=%2FV2RayyNGvpn&security=none&encryption=none&host=trx.ggxpboost.top&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40Capoit
+
+vless://edabe1ef-f78c-4230-a67a-a164de24d15a@5.175.141.113:8080?path=%2FV2RayyNGvpn&security=none&encryption=none&host=trx.ggxpboost.top&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40Capoit
+
+vless://cb34b554-25b2-4948-98f4-dc89f0fd9d05@87.120.92.158:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=smartcaptcha.yandexcloud.net&fp=firefox&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&type=tcp&headerType=none¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40Raiv2mmr
+
+vless://3b7950ed-e076-4a51-8df2-222a88689700@ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d037f6f67cc90016¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#%F0%9F%87%A8%F0%9F%87%AD%20TCP-Reality%20%7C%20%40Raiv2mmr
+
+vless://2065a8c9-8b3d-4dba-b0ce-90d649aa3da7@greb.loralden.com:443?security=reality&encryption=none&pbk=EUK_ePvEKUGcezQYHqgJ5P462XxLPXPm9CZWGLaL33k&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=greb.loralden.com&sid=3620820fe66d6731¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40Raiv2mmr
 
