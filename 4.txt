@@ -2,8 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://5a4ef156-7139-4922-9198-f88a9ccaf3dc@169.40.32.242:8080?path=%2FPath&security=&encryption=none&host=169.40.32.242&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMFlXTXlaakJoTlMxbFkySTNMVFF3Wm1NdE9HUTNNQzAyWldaaU9EZ3lZalV5TlRj@free.2apzhfa.xyz:31641#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
 
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMFlXTXlaakJoTlMxbFkySTNMVFF3Wm1NdE9HUTNNQzAyWldaaU9EZ3lZalV5TlRj@free.2apzhfa.xyz:31171#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
@@ -17,4 +15,8 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@223.122.234.249:30466?security=tls&
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.6:443?security=tls&sni=xf.ylks.xyz&type=ws&path=%2F%3Fproxyip#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
 ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@80.92.204.106:9006#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
+
+vless://7fcfd4df-7f00-4d7d-8fde-c4bda374a11d@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://512f01f4-d8fc-4a78-96a0-5d9ebebe35b9@de-dp-01.com:8443?security=reality&encryption=none&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=5be97fb85093a3a9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
