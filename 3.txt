@@ -4070,3 +4070,27 @@ vless://2f33d154-1106-4944-9e59-c27ae239e30d@91.107.166.66:8880?security=reality
 
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://95c05eee-df38-4fd0-a2d5-64faa45ac2bc@Mstpars.mparssian.ir:2087?security=reality&encryption=none&pbk=Mqbn454w2vrK-7-jrNtx4jvJO2Em6zmQz-hiOqbNmHM&headerType=none&fp=chrome&spx=%2FEDbgBwyl3fR9Z9I&type=tcp&sni=aws.amazon.com&sid=7a7c1ee5fa19#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40vpnplusee_free
+
+vless://c2e1d7e9-cb26-40fa-bf69-7d7f74cbc6f5@test.axylegend.ir:10489?encryption=none&fp=ios&pbk=BWFQ-BxFck2L0gjbXILc0Sh_rOy_YH9YYFf5kw5SsAI&security=reality&sid=c5a3ab7b&sni=play.google.com&spx=%2FZ9jY7K2vjTKxoe4&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://7096fbd7-decc-43e4-6fc0-040e13bb1502@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+ss://YWVzLTI1Ni1nY206T2xlUFRhQ3ljSFQ3azY2YW9UNm9oZFVPVlNQcmNJeGFiNUUrTGJsaThaMD0@89.44.112.248:44453#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://43f111ee-f3c9-42db-79c8-a94f804a8dc5@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://4ca15f10-3fc0-4a45-807c-2d45b23c3c84@185.143.232.17:80?path=%2Fpathhhh&security=&encryption=none&host=22324.44070.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://4ca15f10-3fc0-4a45-807c-2d45b23c3c84@185.143.232.18:80?path=%2Fpathhhh&security=&encryption=none&host=22324.44070.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@91.107.147.56:8443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@45.131.4.246:2087?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=IGVsgsg.cdnpros.ir&fp=chrome&type=ws&allowInsecure=0&sni=IGVsgsg.cdnpros.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@194.182.77.110:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@89.167.80.120:8443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
