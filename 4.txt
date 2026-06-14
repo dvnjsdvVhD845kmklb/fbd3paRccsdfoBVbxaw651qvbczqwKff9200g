@@ -78,3 +78,13 @@ trojan://telegram-id-privatevpns@63.186.10.105:22222?type=tcp&security=tls&heade
 
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.whatismyip.net:2095?encryption=none&type=ws&path=%2Ffp&host=cnmfangbinxing.cnmfangbinxing-a.workers.dev#%F0%9F%8C%90%20WS-None%20%7C%20%40meliproxyy
 
+vless://e63ab5b4-0bf3-4456-a15f-c5d2b61a7922@45.130.125.194:8443?mode=auto&path=%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=turkey.anten.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.anten.dpdns.org#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAid3d3LnNwZWVkdGVzdC5uZXQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICJoMixodHRwLzEuMSIsICJmcCI6ICJyYW5kb20iLCAiaG9zdCI6ICIiLCAiaWQiOiAiMWUxMmU2MjAtYzhlYi00NzdhLTg2ZDQtY2IxZDk3YzhlNmZmIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInhodHRwIiwgInBhdGgiOiAiL3BocC9hZG1pbi9sb2cvQHYyYm94X3YyL0B2MmJveF92Mi9AdjJib3hfdjIvQHYyYm94X3YyP2VkPTIwNDgiLCAicG9ydCI6ICI4NDQzIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBYSFRUUC1UTFMgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogImdFcnRPdzEubE9vbE9vbE9vbE9vLmNPTSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAicGFja2V0LXVwIiwgInYiOiAiMiJ9
+
+vless://f78ed466-c83b-44e7-be20-5a52702b959e@ir2.artativa.ir:1880?security=reality&encryption=none&pbk=KZLp_cZajilUYAQ8guKDfeG_gJWKhqBV3d3ZL23PwDk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=soft98.ir&sid=9995846367252a27#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://c56b670a-7ba8-4e4e-be86-911e6fa3ee3c@38.180.27.91:1008?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=edge&alpn=h2&pbk=KR_f-E_pR8kfCW3Su1tjR3FWRtpcYAn_ajfKjiPZAAQ&sid=ec8926fc13a19d95#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://bb8e629e-2c93-4477-aa80-1a340ded231a@securitytrails.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=fl.maybe-later.co.uk&mode=auto&path=%2Fforall&security=tls&sni=fl.maybe-later.co.uk&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
