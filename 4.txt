@@ -2,11 +2,5 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://da28fdc1-9cc3-48c1-8569-140c744c0174@104.18.32.59:2083?path=%2F%3Fu%3Da30c88da9f&security=tls&encryption=none&insecure=0&host=forsale.sirknavab.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=forsale.sirknavab.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://da28fdc1-9cc3-48c1-8569-140c744c0174@188.164.248.80:2096?path=%2F%3Fu%3Da30c88da9f&security=tls&encryption=none&insecure=0&host=forsale.sirknavab.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=forsale.sirknavab.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://d83a5316-98dd-4084-552f-ae358180aec9@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://97aa3096-c64d-4e97-7d0c-0c0f6770afb5@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?path=%2Fvless%2F&security=none&encryption=none&host=OV-Italy1.09vpn.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
