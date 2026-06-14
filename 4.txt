@@ -34,3 +34,7 @@ vless://ba1b923b-eeff-402d-64b1-92ad2ad30992@snapp.ir:2087?path=%2FBetForward&se
 
 vless://94e00788-9664-4ff5-7943-3a7166b4f2df@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://7e5e0dfd-c8b9-4ade-b721-76583d1a1dcd@sdeovbmthdpwdlxsc.dadashinet10.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40NETMelliAnti
+
+vless://6f4478b4-a854-4b08-bfc8-fb750010bfa8@ps2.dservice.ir:2082?path=%2FDL%3Fed%3D2053&security=none&encryption=none&host=ps3.dservice.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
