@@ -4122,3 +4122,19 @@ vless://6cb3b9f3-2c17-408b-9aa5-d20b18695a5d@104.17.112.154:2053?path=%2F&securi
 
 vless://6cb3b9f3-2c17-408b-9aa5-d20b18695a5d@104.17.112.220:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-acda8d.ezaccess11c286e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-acda8d.ezaccess11c286e.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://6cb3b9f3-2c17-408b-9aa5-d20b18695a5d@104.17.38.0:2083?path=%2F&security=tls&encryption=none&insecure=0&host=ez-acda8d.ezaccess11c286e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-acda8d.ezaccess11c286e.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6cb3b9f3-2c17-408b-9aa5-d20b18695a5d@104.17.38.0:2096?path=%2F&security=tls&encryption=none&insecure=0&host=ez-acda8d.ezaccess11c286e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-acda8d.ezaccess11c286e.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6cb3b9f3-2c17-408b-9aa5-d20b18695a5d@104.17.38.0:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-acda8d.ezaccess11c286e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-acda8d.ezaccess11c286e.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6cb3b9f3-2c17-408b-9aa5-d20b18695a5d@104.17.38.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-acda8d.ezaccess11c286e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-acda8d.ezaccess11c286e.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6cb3b9f3-2c17-408b-9aa5-d20b18695a5d@104.17.99.177:2096?path=%2F&security=tls&encryption=none&insecure=0&host=ez-acda8d.ezaccess11c286e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-acda8d.ezaccess11c286e.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://mitivpn@104.19.229.21:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=gamingdll.ir&type=ws&allowInsecure=0&sni=gamingdll.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://mitivpn@27.50.48.49:443?path=%2Findex.html%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=gamingdll.ir&type=ws&allowInsecure=0&sni=gamingdll.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://mitivpn@188.42.88.92:443?path=%2Fed%3Dmitivpn%2Findex.php&security=tls&alpn=http%2F1.1&insecure=0&host=gamingdll.ir&type=ws&allowInsecure=0&sni=gamingdll.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
