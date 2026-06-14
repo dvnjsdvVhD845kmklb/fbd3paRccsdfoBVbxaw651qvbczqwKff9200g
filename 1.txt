@@ -2,6 +2,14 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
+vless://1fb10d77-5016-4b4a-9104-47689c9133e3@188.213.198.238:4050?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://65ceef27-25bd-4912-8a14-7ccd9c005530@188.213.198.238:4050?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://9a079093-5e37-4a95-894c-b546678760e3@axs.amirxshot.ir:2095?path=%2Faxs&security=none&encryption=none&host=pl33.sazegostaran-iran.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://9a079093-5e37-4a95-894c-b546678760e3@pc.amirxshot.ir:8443?path=%2Faxs&security=tls&encryption=none&insecure=0&host=pc.amirxshot.ir&fp=chrome&type=ws&allowInsecure=0&sni=axs.amirxshot.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
 vless://9a079093-5e37-4a95-894c-b546678760e3@104.25.255.254:8443?path=%2Faxs&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=pc.amirxshot.ir&fp=chrome&type=ws&allowInsecure=0&sni=axs.amirxshot.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://81bdb421-2867-50c2-ee77-8639fada131e@vulmart.ir:443?security=reality&encryption=none&pbk=ExwGZ1slIDUL61uKEeIz3rboKjXwsHJpPTuY3a8F73s&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=51f53398#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
@@ -60,17 +68,43 @@ trojan://SoftNetConnect@185.204.169.129:8443?security=reality&pbk=h0Lem3eyDGqkye
 
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.75:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2HUBIR
 
-vless://13ffaf74-1b49-4e14-a799-3de653149103@ez-106510.ezaccess1796357.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-106510.ezaccess1796357.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-106510.ezaccess1796357.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
+vless://f78ed466-c83b-44e7-be20-5a52702b959e@OnePing.space:88888?security=reality&type=tcp&host=&headerType=none&flow=xtls-rprx-vision&path=&sni=canva.com&fp=chrome&pbk=keUfFCk1LJG8rPsciau7OTeUu02N7KjJtjj_S0dDt04&sid=4caa82e9&spx=#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2ray20261
 
-vless://05dde938-bb2d-41c3-b176-2a9d370489b4@199.232.78.159:443?encryption=none&type=ws&security=tls&path=%2F&host=pan1.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
+vless://f78ed466-c83b-44e7-be20-5a52702b959e@ir.artativa.ir:1220?security=reality&type=tcp&host=&headerType=none&flow=xtls-rprx-vision&path=&sni=soft98.ir&fp=chrome&pbk=KZLp_cZajilUYAQ8guKDfeG_gJWKhqBV3d3ZL23PwDk&sid=9995846367252a27&spx=#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40V2ray20261
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+vless://f78ed466-c83b-44e7-be20-5a52702b959e@ir.artativa.ir:1680?security=reality&type=tcp&host=&headerType=none&flow=xtls-rprx-vision&path=&sni=soft98.ir&fp=chrome&pbk=KZLp_cZajilUYAQ8guKDfeG_gJWKhqBV3d3ZL23PwDk&sid=9995846367252a27&spx=#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40V2ray20261
 
-vless://039a1658-e86e-475f-a3a4-67cc249acada@144.124.228.113:443?security=reality&encryption=none&pbk=odHeTqoDcoPA6jeZStmaFPqoFg0ZiWwOKREEB0X-ez4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl3.panel11.ru&sid=e069bfaf9ba2069c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+vless://f78ed466-c83b-44e7-be20-5a52702b959e@ir.artativa.ir:2080?security=reality&type=tcp&host=&headerType=none&flow=xtls-rprx-vision&path=&sni=soft98.ir&fp=chrome&pbk=KZLp_cZajilUYAQ8guKDfeG_gJWKhqBV3d3ZL23PwDk&sid=9995846367252a27&spx=#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40V2ray20261
 
-vless://c4e2ea1b-c92c-43db-9d05-295e160ec1b2@82.158.120.56:719?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=none&encryption=none&host=play.google.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+vless://f78ed466-c83b-44e7-be20-5a52702b959e@ir2.artativa.ir:1320?security=reality&type=tcp&host=&headerType=none&flow=xtls-rprx-vision&path=&sni=soft98.ir&fp=chrome&pbk=KZLp_cZajilUYAQ8guKDfeG_gJWKhqBV3d3ZL23PwDk&sid=9995846367252a27&spx=#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40V2ray20261
 
-vless://ZoRoVPN@203.202.232.11:36068?encryption=none&security=none&type=ws&host=Play.google.com&path=%2FZoRoVpn#%F0%9F%8C%90%20WS-None%20%7C%20%40Va3lSho
+vless://f78ed466-c83b-44e7-be20-5a52702b959e@ir2.artativa.ir:1880?security=reality&type=tcp&host=&headerType=none&flow=xtls-rprx-vision&path=&sni=soft98.ir&fp=chrome&pbk=KZLp_cZajilUYAQ8guKDfeG_gJWKhqBV3d3ZL23PwDk&sid=9995846367252a27&spx=#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40V2ray20261
+
+vless://f78ed466-c83b-44e7-be20-5a52702b959e@ir2.artativa.ir:2180?security=reality&type=tcp&host=&headerType=none&flow=xtls-rprx-vision&path=&sni=soft98.ir&fp=chrome&pbk=KZLp_cZajilUYAQ8guKDfeG_gJWKhqBV3d3ZL23PwDk&sid=9995846367252a27&spx=#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40V2ray20261
+
+vmess://eyJhZGQiOiAiY2xvaXIuZGV2aWxmcnVpdC5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgImZwIjogImNocm9tZSIsICJob3N0IjogIiIsICJpZCI6ICI4OTNkZWE1ZC02NTllLTExZjEtODNkYi05MjAwMDc5NDU0MTAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Rvd25sb2FkIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgV1MtVExTIHwgQFYycmF5MjAyNjEiLCAic2N5IjogImF1dG8iLCAic25pIjogInRyLm9uZXBpbmcuc3BhY2UiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
+
+vmess://eyJhZGQiOiAiY2xvaXIuZGV2aWxmcnVpdC5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgImZwIjogImNocm9tZSIsICJob3N0IjogIiIsICJpZCI6ICI4OTNkZWE1ZC02NTllLTExZjEtODNkYi05MjAwMDc5NDU0MTAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3VzZXIiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGRmNVx1ZDgzY1x1ZGRmMSBXUy1UTFMgfCBAVjJyYXkyMDI2MSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAicGwub25lcGluZy5zcGFjZSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+
+vmess://eyJhZGQiOiAiY2xvaXIuZGV2aWxmcnVpdC5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgImZwIjogImNocm9tZSIsICJob3N0IjogIiIsICJpZCI6ICI4OTNkZWE1ZC02NTllLTExZjEtODNkYi05MjAwMDc5NDU0MTAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2hvbWUiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSBXUy1UTFMgfCBAVjJyYXkyMDI2MSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiY2Eub25lcGluZy5zcGFjZSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+
+vmess://eyJhZGQiOiAiMTcyLjY3LjE4OC4xMTAiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjQxN2QyN2ZiLWNiOTMtM2JkOC05YmY3LTcxY2Q5MTMxOTgyMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvaGdjZWZvbW4iLCAicG9ydCI6IDIwOTUsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBIb3BlX05ldCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+
+vmess://eyJhZGQiOiAiMTkwLjkzLjI0Ny4xODQiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjQxN2QyN2ZiLWNiOTMtM2JkOC05YmY3LTcxY2Q5MTMxOTgyMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvaGdjZWZvbW4iLCAicG9ydCI6IDIwOTUsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBIb3BlX05ldCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+
+vmess://eyJhZGQiOiAiNDcuODkuMjMxLjEzOCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiODJmNTgzOTctNDgwZS00OTc1LWIzZWMtZmVhOTA0ZGM1OTEyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9PMGVtZmUwcEJmWW92cHo1NTI2cmhxIiwgInBvcnQiOiA4MCwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1Ob25lIHwgQEhvcGVfTmV0IiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+
+vmess://eyJhZGQiOiAiMTczLjI0NS40OS4xNTYiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogImE2YTM3ZTA0LTVlODEtNDRjOS1iZTUzLWJhYTNmZjQ2ZWI4YiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvOGNkYTQ4YjMiLCAicG9ydCI6IDg0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtVExTIHwgQEhvcGVfTmV0IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+
+vmess://eyJhZGQiOiAiMTcyLjY3LjE4My41IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI4MjRjNThiMS02NWJhLTQ2ODAtYTYwOS02NjNhMDAwZGJiOTIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dzczEzODg5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtVExTIHwgQEhvcGVfTmV0IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+
+vmess://eyJhZGQiOiAiMTI4LjE0LjE0MC4yNTQiLCAiYWlkIjogMCwgImhvc3QiOiAidjJyYXkyLnNzci1mcmVlMi54eXoiLCAiaWQiOiAiMDQ3OWViOWQtOTk5ZC00YmZmLWFlM2YtNGY3Y2M0NDBjZTQ2IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kb25ndGFpd2FuZy5jb20iLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1UTFMgfCBASG9wZV9OZXQiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+
+vmess://eyJhZGQiOiAibG1zLnVpbi1hbnRhc2FyaS5hYy5pZCIsICJhaWQiOiAwLCAiaG9zdCI6ICJleGEubmV4dHZwbi5jYyIsICJpZCI6ICI0NmJmZGI1OS04M2M2LTQ3MTAtODc3ZS1jODA5YjVhOTBkZmYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODAsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBIb3BlX05ldCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+
+vless://25b6341b-6fbe-4b6e-f4ee-6458e842fffb@snapp.ir:2087?security=tls&allowInsecure=0&encryption=none&type=ws&host=dns.xelivo.ir&path=/BetForward&sni=dns.xelivo.ir&fp=chrome&alpn=h2,h3,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.133:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 trojan://53933382-fb70-48bd-adf5-363ae1972459@99tw01.tfzhc.top:443?#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
 
@@ -87,12 +121,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAi
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@198.62.62.77:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=vf.ylkszy.eu.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
 vless://d7c27e1d-5595-4c0d-ad66-860e6c66672a@151.101.66.219:443?security=tls&sni=speedtest.net&type=ws&host=digistore.com&path=%2F%3Fed%3D1024&fp=firefox&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vless://1fb10d77-5016-4b4a-9104-47689c9133e3@188.213.198.238:4050?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://65ceef27-25bd-4912-8a14-7ccd9c005530@188.213.198.238:4050?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://9a079093-5e37-4a95-894c-b546678760e3@axs.amirxshot.ir:2095?path=%2Faxs&security=none&encryption=none&host=pl33.sazegostaran-iran.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://9a079093-5e37-4a95-894c-b546678760e3@pc.amirxshot.ir:8443?path=%2Faxs&security=tls&encryption=none&insecure=0&host=pc.amirxshot.ir&fp=chrome&type=ws&allowInsecure=0&sni=axs.amirxshot.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
