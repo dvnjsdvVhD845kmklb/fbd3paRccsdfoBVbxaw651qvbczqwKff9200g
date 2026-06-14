@@ -3786,3 +3786,7 @@ vless://0a1b3e9a-ae54-4c85-9b73-976d9c975839@104.16.174.88:2083?alpn=h2%2Chttp%2
 
 vless://56ff10f9-1c66-4a13-addd-341c912d25a6@85.192.37.175:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://61e688aa-3e6f-4b74-bf6e-22362a2edb26@fin3.flotaw.ir:8443?path=%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=mlkem768x25519plus.native.0rtt.TUi7u5UXHqLaEQK2w69XWLPOiKYd5Ded1AwEPgAvphg&insecure=0&host=ketab.flotaw.ir&fp=chrome&type=ws&allowInsecure=0&sni=ketab.flotaw.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://1909cd5c-1cd0-4df2-113b-048371d61bee@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
