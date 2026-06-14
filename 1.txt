@@ -2,10 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://368c840b-f5db-4ddb-88ac-8148909867f7@de2.yariresanbot.ir:14342?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=de2.yariresanbot.ir&allowInsecure=0&sni=de2.yariresanbot.ir#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
-
-vless://88c5b660-e683-4a5b-b708-acbca1b99c43@104.16.71.189:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=usa.homairasisi.ir&mode=auto&path=%2F&security=tls&sni=usa.homairasisi.ir&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
 vless://88c5b660-e683-4a5b-b708-acbca1b99c43@104.16.174.118:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=usa.homairasisi.ir&mode=auto&path=%2F&security=tls&sni=usa.homairasisi.ir&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vless://88c5b660-e683-4a5b-b708-acbca1b99c43@104.18.154.96:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=usa.homairasisi.ir&mode=auto&path=%2F&security=tls&sni=usa.homairasisi.ir&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
@@ -14,21 +10,23 @@ vless://88c5b660-e683-4a5b-b708-acbca1b99c43@104.18.153.88:443?alpn=h2%2Chttp%2F
 
 vless://b43c0481-77f7-48ad-af5e-91ebbdaccacc@45.195.110.137:8443?security=reality&encryption=none&echfq=none&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=a1cb4af60a34ff8e#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40NormanV2ray
 
-vless://ccdce320-7eef-4815-8edb-c599987c2279@5.254.14.169:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn9-40.yahoo.com&sid=0dc0ced5bf4f756c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+vmess://eyJhZGQiOiAiMTA0LjMxLjE2LjIxMCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiNzJmNzZjMzYtM2UzYy00NWIzLWE2MWYtZDhmMDE3MzQ1OTU4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8/ZWQ9MjA0OCIsICJwb3J0IjogMjA1MywgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1UTFMgfCBASG9wZV9OZXQiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
 
-trojan://SoftNetConnect@185.204.169.164:2087?security=reality&authority=45.151.102.87&pbk=rR5VQnDatIXiWpvI3BtfUypXGWwXAXVEjyiB0aBgK1I&fp=chrome&spx=%2F&type=grpc&sni=www.yahoo.com&sid=160b91b3#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+vmess://eyJhZGQiOiAiOC4yMTkuNTguNTgiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjkxNjQ2ZjlhLWI0ZTktNGFjYS1iZmUzLTg4OTJiM2U1OGZlNyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtVExTIHwgQEhvcGVfTmV0IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
 
-vless://1cf6cae1-e402-412b-954c-8b8c27cbdac4@forallpanel.srtongston.ir:8880?path=%2F%3Fed%3D2082&security=&encryption=none&host=cdn-pro3.postshup.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+vmess://eyJhZGQiOiAiMTA0LjI5LjY0LjI1IiwgImFpZCI6IDAsICJob3N0IjogImxnMzAuY2ZjZG4zLnh5eiIsICJpZCI6ICI5MTY0NmY5YS1iNGU5LTRhY2EtYmZlMy04ODkyYjNlNThmZTciLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3JheSIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
 
-vless://86595675-ca17-47ac-b641-9a561e4a6684@91.107.166.66:44728?security=reality&encryption=none&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=dbb6ea0b#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+vmess://eyJhZGQiOiAiMzguMTQuMTA3LjIyNSIsICJhaWQiOiA2NCwgImhvc3QiOiAid3d3LjIzMTc5NzUzLnh5eiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3BhdGgvMTgxNzIxMjcyMTE0IiwgInBvcnQiOiAzODAwMywgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1UTFMgfCBASG9wZV9OZXQiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
 
-vless://1cf6cae1-e402-412b-954c-8b8c27cbdac4@forallpanel.srtongston.ir:8880?path=%2F%3Fed%3D2082&security=&encryption=none&host=cdn-pro5.postshup.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+vmess://eyJhZGQiOiAiMTAzLjU2LjE2MC4xODQiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogImVmOTE5YzY3LTY2MzgtNDQxNi05MWFmLTlhMTNmZmU1YjljYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdGFuZHVuZzI4OC5jbGljayIsICJwb3J0IjogODAsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBIb3BlX05ldCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
 
-vless://0e8d0c66-ea11-4ca3-ce2e-d172b857a8b3@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vmess://eyJhZGQiOiAiMTcyLjY3LjEzMi4xNSIsICJhaWQiOiAwLCAiaG9zdCI6ICJtaW5nMi5raXdpcmVpY2guY29tIiwgImlkIjogIjE4ZTVmNDBmLWJkYTYtNGMxNS05MzM0LWU4N2NkYTYwNDdhZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtVExTIHwgQEhvcGVfTmV0IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
 
-vless://b6885d12-59fd-4ae2-fbe2-286f66293e4c@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=cdn.daraflo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daraflo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vmess://eyJhZGQiOiAiMTcyLjY2LjQzLjEiLCAiYWlkIjogMCwgImhvc3QiOiAiMzguNzJpbWcueHl6IiwgImlkIjogIjgxZDkzZjYyLTE1YTItNDk5NC1hZGI5LTBiNWQ5MDZhYWM3ZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtVExTIHwgQEhvcGVfTmV0IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
 
-vless://fadbe3ce-36c9-46f6-9e55-af84755adce7@78.47.55.155:443?encryption=none&security=reality&sni=www.intel.com&fp=chrome&pbk=N2g8w3OBtIzLJWONRErU4omxiKsI6G-BQt10JIQWKQw&sid=77c55d&spx=%2FMoQuWCcRmROHEZD&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+vmess://eyJhZGQiOiAiMTcyLjY3LjE5OC4xODciLCAiYWlkIjogMCwgImhvc3QiOiAieG1pdmlkZW8uY2ZkIiwgImlkIjogIjkzZWE0ODZhLWJhZGEtNDJhNC1hYzM4LWQwODhiMzIwZmExZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtVExTIHwgQEhvcGVfTmV0IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogInhtaXZpZGVvLmNmZCJ9
+
+vless://252c42c8-0071-4699-860e-028313f7158b@Varzesh3.com:8080?path=%2Fapi&security=none&encryption=none&host=tst.driftnet.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://0c375c23-9fad-4f94-b033-f8811da23695@dota2fa.ir:26414?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Tunder_vpn
 
@@ -75,4 +73,8 @@ trojan://gx5fx0q4buwh4g4n@de2.yariresanbot.ir:26856?mode=gun&security=tls&alpn=h
 trojan://gx5fx0q4buwh4g4n@de2.yariresanbot.ir:41883?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=de2.yariresanbot.ir&fp=chrome&type=ws&allowInsecure=0&sni=de2.yariresanbot.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vmess://eyJhZGQiOiAiZGUyLnlhcmlyZXNhbmJvdC5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMzY4Yzg0MGItZjVkYi00ZGRiLTg4YWMtODE0ODkwOTg2N2Y3IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI1MTQxNCIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
+
+vless://368c840b-f5db-4ddb-88ac-8148909867f7@de2.yariresanbot.ir:14342?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=de2.yariresanbot.ir&allowInsecure=0&sni=de2.yariresanbot.ir#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
+vless://88c5b660-e683-4a5b-b708-acbca1b99c43@104.16.71.189:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=usa.homairasisi.ir&mode=auto&path=%2F&security=tls&sni=usa.homairasisi.ir&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
