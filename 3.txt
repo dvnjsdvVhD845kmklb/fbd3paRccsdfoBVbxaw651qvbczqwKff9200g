@@ -4038,3 +4038,7 @@ vmess://eyJhZGQiOiAiMjAzLjI0LjEwOC44IiwgImFpZCI6IDAsICJob3N0IjogImxnMS50cnVtcDIw
 
 vless://376c5245-c048-466d-bbc3-d7cc7d211084@31.184.244.103:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=-HEcgWiHU8YiN6fCI9xd1_1Cr63SOoKlbH6G13VKGlg&security=reality&sid=f16c652e4f1ef0&sni=icloud.com&spx=%2FbRpgaQkFTxbrsSS&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+vless://376c5245-c048-466d-bbc3-d7cc7d211084@31.184.244.103:443?security=reality&encryption=none&pbk=-HEcgWiHU8YiN6fCI9xd1_1Cr63SOoKlbH6G13VKGlg&headerType=none&fp=safari&spx=%2FbRpgaQkFTxbrsSS&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=f16c652e4f1ef0#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40vmess_ir
+
+vless://95c05eee-df38-4fd0-a2d5-64faa45ac2bc@Snapp.ir:8080?path=%2F&security=none&encryption=none&host=Mstpars.mparssian.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40vpnplusee_free
+
