@@ -2,20 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://a93df7ad-7ebf-4271-8183-31efc390cfe3@62.220.122.178:442?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40bored_vpn
-
-vless://61f57d15-1d08-4515-8667-96bbf75a9ee1@nl1-global.mikro-host.com:443?encryption=none&type=ws&security=tls&path=%2Fassets&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&sni=nl1-global.mikro-host.com&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-ss://YWVzLTI1Ni1nY206ZjhmN2FDemNQS2JzRjhwMw@92.38.163.53:989#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.18.4.138:2096?encryption=none&type=ws&security=tls&path=%2Fws%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&host=greattehran.hozheen.ir&sni=f53d749fda28cb85.hozheen.ir&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.135.19:2375#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://f2390f38-ec10-4c25-a726-c0709b77330f@45.195.110.104:8443?security=reality&encryption=none&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=6ecdb111a4e57f94#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://84539eef-b551-4d41-b85f-4b07c83db922@bel1.pandaonline.org:443?security=reality&encryption=none&pbk=8zwu_JeBAKXJUGgMPKECkOl8IRSRlTKUO5Mnc0fOLkM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=bel1.pandaonline.org#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.170:8443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 vless://84539eef-b551-4d41-b85f-4b07c83db922@pl-2.pandaonline.org:443?security=reality&encryption=none&pbk=8nKH8G-zPFcTUegyTT_bwRkSGR4ZTvWPXGEMHS_4JxQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl-2.pandaonline.org#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
@@ -604,7 +590,11 @@ vless://7b70d330-6d32-45a8-b15f-44deebc9f195@169.40.32.242:8080?path=%2FPath&sec
 
 vless://9124da39-484f-416a-b8fe-2406d9ce9600@185.143.232.122:80?path=%2Fnews&security=none&encryption=none&host=out10.pasargardnet.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40NETMelliAnti
 
+vless://f2390f38-ec10-4c25-a726-c0709b77330f@45.195.110.104:8443?security=reality&encryption=none&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=6ecdb111a4e57f94#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40FarazV2ray
+
 vless://62d26257-546d-a267-c4f1-fb19de937929@cdn-prouk.plusmusical2.ir:80?security=reality&encryption=none&pbk=1qXKdju4-bcHyuLpxvBIvd3sfaDOQP_cby4oHN1vsVk&host=cdn-prouk.plusmusical2.ir&headerType=none&fp=firefox&spx=%2Fsoftiran&type=tcp&sni=yahoo.com&sid=78f1c17fd58cbb8f#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40FarazV2ray
+
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.18.4.138:2096?path=%2Fws%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=greattehran.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=f53d749fda28cb85.hozheen.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40FarazV2ray
 
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.124:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn9-33.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
@@ -4073,4 +4063,10 @@ trojan://humanity@104.16.174.12:443?path=%2Fassignment&security=tls&insecure=0&h
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.68:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://953e8699-2651-4649-45a6-27e64b6703f1@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.daraflo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daraflo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://4ca15f10-3fc0-4a45-807c-2d45b23c3c84@185.143.232.3:80?path=%2Fadfsgfad&security=none&encryption=none&host=44344.sakino.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+
+vless://2f33d154-1106-4944-9e59-c27ae239e30d@91.107.166.66:8880?security=reality&encryption=none&pbk=1P6G12_CsCrgTmgSw92S3XMU-bukSAWVWdAqMiiChVU&headerType=none&fp=random&spx=%2FaF2MtQFvuK7cY8o&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=0c82#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
